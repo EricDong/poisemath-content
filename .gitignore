@@ -1,0 +1,18 @@
+# iCloud placeholder files
+*.icloud
+.DS_Store
+
+# Obsidian workspace state (per-device, not content)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+
+# Trash
+.trash/
+.Trash/
+
+# Temp
+*.tmp
+*~
