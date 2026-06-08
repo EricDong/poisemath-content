@@ -13,4 +13,6 @@ Obsidian vault — 内容源。
 
 ## 不发布
 
-frontmatter 加 `draft: true` 即可。
+只有 `publish/` 目录会发布到网站；其他目录默认不发布。
+
+`publish/` 里的笔记如果暂时不想发布，frontmatter 加 `draft: true` 即可。
