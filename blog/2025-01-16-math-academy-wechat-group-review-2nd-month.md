@@ -1,0 +1,53 @@
+---
+title: "Math Academy共学群成立第二月回顾"
+date: "2025-01-16T16:50:54"
+modified: "2025-01-19T17:04:36"
+slug: "math-academy-wechat-group-review-2nd-month"
+url: "https://journeytomath.com/math-academy-wechat-group-review-2nd-month/"
+wordpress_id: 110
+---
+Math Academy共学群成立两个月了.本群聚集了华语世界最具行动力的数学学习者.有的为孩子寻找更好的数学学习路径,有的要加深对人工智能的理解,有的纯粹是对数学的兴趣.
+
+一个月前我写了MA共学群第一篇总结文章.
+
+#### Math Academy共学群成立一个月回顾
+
+以下是MA共学群2024.12月的总结
+
+1\. 截止2025年1月15日,本群有140+名MA用户
+
+2\. 本群大部分是带娃儿学数学的家长,其中四年级最多,有40+. 然后是五年级、高一、初一和三年级; 
+
+城市分布北上广深差不多占了50%,其中北京30+,信息差还是非常巨大的.
+
+3\. MA可以在国内直接访问,电脑和iPad都可以,但是没有app. 群友关注的网络速度慢和输入困难,已经解决了. 
+
+4.MA寒假期间可能会接入支付宝或银联支付.不过最近洛杉矶大火影响了工作进度,请耐心等待.
+
+5\. MA计划推出针对中考和高考的学习课程.中考考点与SAT重合度很高,MA会优先开发中考课程,快的话2025上半年可以推出.高考风格与美国数学差异很大,需要比较长的准备时间.
+
+6.群友们对MA的能力范围做了深入讨论,并比较了不同体系的数学.目前的共识是:
+
+6.1 MA适合打基础,巩固理解数学概念.
+
+6.2 MA适合对数学有兴趣的学生,按照自己的节奏学习数学,有能力的学生甚至可以快速学完大学数学知识.
+
+6.3 MA尤其适合基础薄弱的学生,它提供了最详尽的脚手架,学生可以一步一步学习数学,重建自信.
+
+6.4 MA不适合想快速提分的学生,也不适合刷题搞竞赛的学生.
+
+7\. Math Academy系统介绍视频,现在放出来供对MA有兴趣的家长参考: https://meeting.tencent.com/crm/KngEWq7O8a
+
+8\. 创建了[MA共学群问答文档](https://p39ath3fi5.feishu.cn/docx/B70cdoX6ooTZ18xnsyzc48e6ndc)供参考.
+
+9\. MA共学群仅限MA注册用户加入.想要加入的家长,可以先去[MA官网](http://mathacademy.com)注册,再加我微信,拉你入群. 如果有疑问,可以阅读本站Math Academy系列文章,或访问[MA官网](http://mathacademy.com)
+
+<figure class="wp-block-image size-large">
+<img src="../media/math-academy-is-best-for-gaokao-exam-newstart-wechat-copy-1024x989.jpeg" class="wp-image-57" loading="lazy" decoding="async" width="1024" height="989" />
+</figure>
+
+10\. 欢迎加我微信,一起探讨如何使用AI工具赋能面向未来的学习.
+
+###### 我坚信,爱学习的家长有更大概率会培养出自主学习的孩子.
+
+会自主学习的孩子,才能面对我们都看不清的AI未来.
