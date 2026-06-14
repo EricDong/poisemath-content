@@ -30,8 +30,8 @@ python3 scripts/import_wechat_article.py /path/to/article.html \
 
 脚本会生成两份内容：
 
-- `blog/YYYY-MM-DD-article-slug.md`：源稿备份
-- `publish/YYYY-MM-DD-article-slug.md`：网站发布稿
+- `blog/文章标题.md`：源稿备份
+- `publish/文章标题.md`：网站发布稿
 
 如果文章里引用的是本地图片，脚本会复制到 `media/` 和 `publish/media/`。如果图片仍是微信公众号远程地址，默认保留原地址；需要下载远程图片时加 `--download-images`。
 

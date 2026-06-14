@@ -66,11 +66,11 @@ Poise Math 会重点记录三类内容:
 
 如果你刚接触 Poise Math,可以先读这几篇:
 
-- [[2024-10-18-math-academy-make-math-learning-easier|Math Academy:让天下没有学不会的数学]]
-- [[2024-11-16-register-math-academy-hang-by-hand|手把手教你注册 Math Academy]]
-- [[2024-11-18-the-best-learner-for-math-academy|Math Academy 适合什么人学习?]]
-- [[2024-12-15-math-academy-wechat-group-1st-month-review|Math Academy 共学群成立一个月回顾]]
-- [[2025-01-19-six-meta-cognitive-strategy-in-learning-math|数学学习中的 6 个元认知策略]]
+- [[Math Academy让天下没有学不会的数学|Math Academy:让天下没有学不会的数学]]
+- [[手把手教你注册Math Academy|手把手教你注册 Math Academy]]
+- [[Math Academy适合什么人学习|Math Academy 适合什么人学习?]]
+- [[Math Academy共学群成立一个月回顾|Math Academy 共学群成立一个月回顾]]
+- [[数学学习中的6个元认知策略|数学学习中的 6 个元认知策略]]
 
 Poise Math 由 Eric Dong 维护。内容用 [Obsidian](https://obsidian.md) 写,通过 [Quartz](https://quartz.jzhao.xyz) 静态生成,由 Cloudflare Pages 托管。
 

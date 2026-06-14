@@ -76,6 +76,12 @@ def safe_slug(text: str) -> str:
     return quoted[:120].strip("%") or "wechat-article"
 
 
+def safe_filename(text: str) -> str:
+    filename = re.sub(r'[\\/:*?"<>|#%{}\[\]`^~]+', "", text).strip()
+    filename = re.sub(r"\s+", " ", filename).rstrip(".")
+    return filename or "untitled"
+
+
 def yaml_quote(value: str) -> str:
     return '"' + value.replace("\\", "\\\\").replace('"', '\\"') + '"'
 
@@ -380,8 +386,7 @@ def main() -> int:
     )
     article = frontmatter + markdown
 
-    date_prefix = date[:10] if re.match(r"\d{4}-\d{2}-\d{2}", date) else dt.date.today().isoformat()
-    filename = f"{date_prefix}-{slug}.md"
+    filename = f"{safe_filename(title)}.md"
     targets = [BLOG_DIR / filename, PUBLISH_DIR / filename]
     existing = [target for target in targets if target.exists()]
     if existing and not args.overwrite:
