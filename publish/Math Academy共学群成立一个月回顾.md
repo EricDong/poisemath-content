@@ -71,10 +71,10 @@ MA注册后,
 
 没有比这更贴心的了.
 
-[[手把手教你注册Math Academy|具体注册请参考: 手把手教你注册Math Academy]]
+[[publish/手把手教你注册Math Academy|具体注册请参考: 手把手教你注册Math Academy]]
 
 了解MA请参考
 
-[[Math Academy正在取代可汗学院成为数学学习首选平台|Math Academy正在取代可汗学院成为数学学习首选平台]]
+[[publish/Math Academy正在取代可汗学院成为数学学习首选平台|Math Academy正在取代可汗学院成为数学学习首选平台]]
 
-[[Math Academy 数学奇才为儿子打造的数学学习神器|Math Academy: 数学奇才为儿子打造的数学学习神器]]
+[[publish/Math Academy 数学奇才为儿子打造的数学学习神器|Math Academy: 数学奇才为儿子打造的数学学习神器]]
