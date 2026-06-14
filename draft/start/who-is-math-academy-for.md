@@ -1,38 +1,56 @@
 ---
-title: Math Academy 适合什么人
+title: 'Math Academy 适合什么人'
+description: '判断 Math Academy 是否适合中小学生、备考学生、国际课程学生、成人自学者和基础薄弱学习者。'
 draft: true
 ---
 
-https://mp.weixin.qq.com/s/LlhJ6YcRn9XFoH5aID4lAQ
-https://mp.weixin.qq.com/s/gvo8nlAVav9HaK-OdJ_tjg
-https://mp.weixin.qq.com/s/y6hbm2gMV-zX5GKIu1a_xA
-https://mp.weixin.qq.com/s/PzdyzXwC2dmH4fz2xuyAxw
-https://mp.weixin.qq.com/s/gh8PbZSI01WBmrHJkS4y7g
-https://mp.weixin.qq.com/s/D8jww7_nuzkqt5HHBX6-bw
-https://mp.weixin.qq.com/s/xTfISlrCNZJf7-TaN-vSJQ
-https://mp.weixin.qq.com/s/eK28E5U30YJQCA1PcsJfXA
-https://mp.weixin.qq.com/s/Esc7R2W2PvXuM-Q4LJe7DQ
-https://mp.weixin.qq.com/s/KJnpaTORVoMsQmQXniRNyQ
-https://mp.weixin.qq.com/s/AkYpSrQtfbBLeEEqZalHHw
-https://mp.weixin.qq.com/s/bvn_WYBriQclcFk-5M-K5g
-https://mp.weixin.qq.com/s/cQeRQCWFVpJM9v88T7ilBA
-https://mp.weixin.qq.com/s/_rzf9hsI2r_1UrTPaRE-4g
-https://mp.weixin.qq.com/s/V5IJ-B8dHR8DP8GxiHm0sA
-https://mp.weixin.qq.com/s/xmin7jU_bjbAh6Eoj0Oj6A
-https://mp.weixin.qq.com/s/k1WqjHjaLEvonZbyt3dbPg
-https://mp.weixin.qq.com/s/JXjgNGt-iK1w2lOxeDBjjw
-https://mp.weixin.qq.com/s/sguOjNMdMl8gW11OxjvAJw
-https://mp.weixin.qq.com/s/MOaPuT7vf2_tAq1x8VjdSA
-https://mp.weixin.qq.com/s/Xbgg-pLfKG1VN6mS5Equww
-https://mp.weixin.qq.com/s/1Wvro5SPqhYHKgXe7movcQ
-https://mp.weixin.qq.com/s/srWhFisBnbQ5StL8_uPIOg
-https://mp.weixin.qq.com/s/bm43PlrLUwbh1t-BHNNE-g
-https://mp.weixin.qq.com/s/pI6reIpYWyZTz34SZtG3Og
-https://mp.weixin.qq.com/s/rEYChEXBH6iJ7GwXx2CovA
-https://mp.weixin.qq.com/s/rEYChEXBH6iJ7GwXx2CovA
-https://mp.weixin.qq.com/s/rEYChEXBH6iJ7GwXx2CovA
-https://mp.weixin.qq.com/s/YWGUBo5HaWGf_rFqtuhguw
-https://mp.weixin.qq.com/s/CSM5wVsMxk7KYpvmb9kPBQ
+Math Academy 不只适合“数学好”的孩子。更准确地说，它适合愿意每天主动练习、愿意接受系统诊断，并能坚持一段时间的人。
 
+## 最适合的几类学习者
 
+### 1. 基础有缺口的学生
 
+很多孩子数学卡住，不是因为不努力，而是前置知识没有真正掌握。Math Academy 会根据诊断结果回到合适位置，让学生把缺口补上，而不是为了面子硬跟当前年级。
+
+### 2. 想超前学习的学生
+
+如果孩子已经能稳定完成当前课程，Math Academy 可以提供更连续的上升路径。从小学算术到代数、几何、微积分乃至更高阶数学，系统会按依赖关系推进。
+
+### 3. 准备中高考或国际考试的学生
+
+考试中的综合题常常考验认知负荷管理。Math Academy 的优势不是押题，而是把基础知识练到更自动化，让学生在压力下仍能调动知识。
+
+### 4. 国际学校和双语学习者
+
+Math Academy 使用英文数学表达。对国际课程学生来说，它既是数学学习工具，也是数学英语训练环境。
+
+### 5. 成人自学者
+
+想补数学、学习 AI、机器学习、数据科学或重新进入理工科的人，可以用 Math Academy 补齐代数、函数、微积分和线性代数等基础。
+
+## 可能不适合的情况
+
+- 只想找老师讲题，不愿意自己读题和动手算。
+- 希望一两周立刻看到分数暴涨。
+- 每天完全没有固定学习时间。
+- 家长把平台当成监督工具，只关注时长，不关注孩子状态。
+
+## 如何判断孩子能不能开始
+
+先试一周。观察三个信号：孩子能否独立完成一次学习任务；遇到错题后是否愿意看反馈；每天是否能保持 20 到 40 分钟的稳定投入。
+
+如果这三个信号都不错，就可以继续建立长期节奏。如果阻力很大，先读 [孩子抗拒学习时怎么办](../parents/handle-resistance.md)，不要急着加压。
+
+## 常见问题
+
+### 小学生可以用吗？
+
+可以，但家长需要帮助安排时间、读懂界面和保护学习情绪。不要把目标定成“超前多少年”，先让孩子习惯主动学习。
+
+### 数学很差的人会不会被打击？
+
+诊断结果可能让人不舒服，但这恰好是价值所在。知道从哪里开始，比假装跟得上更重要。
+
+### 英语不好能用吗？
+
+可以，但需要一个适应期。建议配合 [数学英语入门路径](../paths/math-english.md)，先熟悉常见数学词汇和题目表达。
