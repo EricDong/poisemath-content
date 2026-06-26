@@ -17,6 +17,9 @@
 *.tmp
 *~
 
+# Local checkout of the Quartz site repo
+poisemath-site/
+
 # Python
 __pycache__/
 *.py[cod]
