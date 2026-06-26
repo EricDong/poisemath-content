@@ -33,6 +33,8 @@ Deepseek可以部分解决2Sigma难题.
 
 题目来自2024年上海中考第18题.
 
+![图片](media/wechat/1aeca6f3-01-f6a22d4530.png)
+
 提示词:
 
 >
@@ -42,6 +44,12 @@ Deepseek可以部分解决2Sigma难题.
 Deepseek给出的答案非常清晰,但更棒的是它的整个思考过程,像是自言自语.
 
 先看Deepseek V3的答案:
+
+![图片](media/wechat/1aeca6f3-02-bc91906125.png)
+
+![图片](media/wechat/1aeca6f3-03-7a8c0dc6d8.png)
+
+![图片](media/wechat/1aeca6f3-04-b9e7691b1b.png)
 
 ### 考察目标:
 
@@ -185,6 +193,12 @@ y = -1/2 [x² - (2/3)x] +3.
 
 看,就是这么一个看似婆婆妈妈的AI,把整个解题过程清晰的展现出来了.
 
+![图片](media/wechat/1aeca6f3-05-f5a45c4d4d.png)
+
+![图片](media/wechat/1aeca6f3-06-f5a45c4d4d.png)
+
+![图片](media/wechat/1aeca6f3-07-f5a45c4d4d.png)
+
 要学好数学,不仅要会单点突破,还要能全局规划,因为每一个数学知识,都有前置知识做铺垫. 我翻译过一篇文章:
 
 [数学不会?你不是笨,只是基础还不够扎实](https://mp.weixin.qq.com/s?__biz=MzIwNzMzODkyNA==&mid=2247483943&idx=1&sn=a914e248997d3c371f2c0987986fe024&scene=21#wechat_redirect)
@@ -210,5 +224,7 @@ Math Academy注册后,第一个月不满意全额退款,
 MA共学微信群,供MA用户交流学习.
 
 加我微信,验证MA身份后会邀请入群.
+
+![图片](media/wechat/1aeca6f3-08-b1b6e21ab8.webp)
 
 如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学
