@@ -1,5 +1,5 @@
 ---
-title: Poise Academy
+title: Poise Math
 modified: 2026-06-26T00:00:00+08:00
 description: 面向中国家长和自学者的数学学习、AI 教育与 Math Academy 使用经验。
 tags:
@@ -8,7 +8,7 @@ tags:
   - Math Academy
 ---
 
-Poise Academy 记录数学学习、AI 教育和自学工具的实践经验。
+Poise Math 记录数学学习、AI 教育和自学工具的实践经验。
 
 如果你正在为孩子寻找更系统的数学学习方式，或希望用更科学的方法重建自己的数学基础，可以从下面这些文章开始。
 
