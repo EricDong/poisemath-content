@@ -23,9 +23,17 @@ tags:
 
 AI Agent像一位老师,主要任务是深入了解每个学生已经掌握的知识,并给出适合学生当前进度的学习计划(lesson plan). AI不需要自己生成学习内容,只需要匹配最合适的内容就好.
 
+![图片](media/wechat/b49df7f0-02-bce032bc5a.png)
+
 以数学为例,中小学数学课程标准圈定的知识点是有限的,而且数学知识之间有内在的逻辑关系.高难度数学都可以通过prerequsite向前追溯到最简单的四则运算.
 
 Math Academy通过知识图谱(knowledge graph)用一套体系把小学四年级到大学水平的数学全部连接起来,真是太强大了.
+
+![图片](media/wechat/b49df7f0-01-56ac81bf9a.png)
+
+![图片](media/wechat/b49df7f0-03-8bd4955ce9.png)
+
+![图片](media/wechat/b49df7f0-04-1476adb4df.png)
 
 注册Math Academy后可以加我,申请加入微信共学群.
 

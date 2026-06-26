@@ -23,6 +23,8 @@ tags:
 
 不久前，我转发了 Joe Liemandt 关于 Alpha 学校取得卓越成效的帖子，并附上了我儿子 Mac（11岁）自2025年8月加入 Alpha Anywhere 以来的亲身经历。
 
+![图片](media/wechat/0eaceedd-02-b5e725e3f4.png)
+
 Bill Ackman 好心转发了我的帖子，引发了大量关注。借此机会，我想为正在考虑 Alpha School的家长们分享更深入的感悟，也谈谈这一切对未来教育意味着什么。
 
 声明：我平时很少在社交媒体上谈论孩子。另外，抱歉没来得及把这篇文章写得更精炼、更有条理，也没用 ChatGPT 润色。

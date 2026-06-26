@@ -16,6 +16,8 @@ tags:
 
 大概率是孩子学习MA时有的lesson得了 0 分或负分,比如下图中标注红色的lesson.
 
+![图片](../media/wechat/fc57ef5f-01-a47b6c5eaa.png)
+
 
 按照MA的课程设计,每个lesson的新知识都非常少,通常和前置知识无缝连接. 如果一个lesson得了负分,问题的根源大概率不在当前的lesson,而是前置知识没有学会.
 

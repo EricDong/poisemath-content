@@ -63,6 +63,8 @@ Liemandt反复说的是：我们不是在教孩子，我们是在设计一个孩
 
 Liemandt说: At Alpha School, motivation is everything.
 
+![图片](../media/wechat/e9cef649-01-99c27b48e4.png)
+
 中国没有Alpha School,但不妨碍我们研究和学习它.
 
 有数百位中国家长在带着孩子学 Math Academy, 而 Math Academy 正是 Alpha School 数学课程的核心供应商. 如果你对数学学习感兴趣,欢迎加我微信交流.

@@ -33,6 +33,14 @@ Math Academy共学群成立三个月了,越来越多家长认识到MA的价值.
 
 4. 中国和美国都有妈妈反映女儿在MA找到了学习数学的自信.
 
+![图片](../media/wechat/a3d2c14c-01-d6e88f312d.jpg)
+
+![图片](../media/wechat/a3d2c14c-02-31cfc83473.jpg)
+
+![图片](../media/wechat/a3d2c14c-03-0b4e796ee4.jpg)
+
+![图片](../media/wechat/a3d2c14c-04-78ef16ee0e.jpg)
+
 5.
 
 

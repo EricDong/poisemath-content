@@ -15,6 +15,22 @@ tags:
 
 一下子是孩子最近2个月的学习记录,平稳但有力,希望能一直坚持下去.
 
+![图片](media/wechat/9249a3b4-01-ee23de92af.png)
+
+![图片](media/wechat/9249a3b4-02-eee2d34921.png)
+
+![图片](media/wechat/9249a3b4-03-f3b0f4a95d.png)
+
+![图片](media/wechat/9249a3b4-04-cbddf77793.png)
+
+![图片](media/wechat/9249a3b4-05-98c84762dd.png)
+
+![图片](media/wechat/9249a3b4-06-e2897db6de.png)
+
+![图片](media/wechat/9249a3b4-07-7f1275f335.png)
+
+![图片](media/wechat/9249a3b4-08-449480b6b3.png)
+
 欢迎更多的对数学有兴趣的孩子加入Math Academy的学习共同体,加我微信咨询.
 
 ![图片](media/wechat/9249a3b4-09-b9dc06fa66.webp)
