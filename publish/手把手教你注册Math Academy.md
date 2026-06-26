@@ -12,7 +12,7 @@ tags:
 ---
 最近几天了解Math Academy的朋友越来越多,特别是有娃的家长,来咨询的比做AI的多.
 
-咨询中问到最多的是如何成功注册MA. 我之前写过一篇文章: [[publish/中国大陆用户如何使用Math Academy|中国大陆用户如何使用Math Academy?]] 提过几个注意要点,今天这篇是手把手注册教程.
+咨询中问到最多的是如何成功注册MA. 我之前写过一篇文章: [[中国大陆用户如何使用Math Academy|中国大陆用户如何使用Math Academy?]] 提过几个注意要点,今天这篇是手把手注册教程.
 
 1\. 登录MA官网: <https://mathacademy.com>
 
