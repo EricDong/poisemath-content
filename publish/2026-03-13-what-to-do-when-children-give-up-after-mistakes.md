@@ -2,9 +2,6 @@
 title: "孩子做错题后不想学了，怎么办？"
 date: "2026-03-13T06:54:47"
 slug: "what-to-do-when-children-give-up-after-mistakes"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 # 一位老师的真实经历，和家长可以做的五件事

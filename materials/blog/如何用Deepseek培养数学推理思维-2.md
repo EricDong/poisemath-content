@@ -4,9 +4,6 @@ date: "2025-01-28T07:12:01"
 source: "https://mp.weixin.qq.com/s/gvo8nlAVav9HaK-OdJ_tjg"
 account: "聪明的提问者"
 author: "董志辉"
-tags:
-  - 微信公众号
-  - 聪明的提问者
 ---
 看Caoz老师说Deepseek 刚退出了Janus Pro多模态大模型,要说DS不懂marketing我是不信的.
 
@@ -104,4 +101,3 @@ MA共学微信群,供MA用户交流学习.
 加我微信,验证MA身份后会邀请入群.
 
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学

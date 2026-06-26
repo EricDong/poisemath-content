@@ -2,9 +2,6 @@
 title: "Math Academy共学群成立第 4 月回顾"
 date: "2025-03-18T16:28:00"
 slug: "math-academy-wechat-group-review-4th-month"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 Math Academy共学群成立 4 个月了. 越来越多的学生和家长遇到了自己的“知识前沿”,学习速度慢了下来,开始体会到MA系统设计的精妙.
@@ -107,4 +104,3 @@ MA共学群现有用户200+,供MA用户交流学习.
 
 ![图片](media/wechat/caed6fc7-05-190a2ed62d.webp)
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学

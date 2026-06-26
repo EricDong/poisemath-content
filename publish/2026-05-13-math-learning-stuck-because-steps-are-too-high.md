@@ -2,9 +2,6 @@
 title: "孩子学数学总卡壳？可能是学习台阶太高了"
 date: "2026-05-13T06:30:00"
 slug: "math-learning-stuck-because-steps-are-too-high"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 本文来自 Math Academy 播客第四期的后半部分。Jason和Justin分享了多年来在教学设计上的核心心得：
@@ -75,4 +72,3 @@ tags:
 
 ![图片](media/wechat/556f8519-02-f06d846885.webp)
 
-欢迎订阅+点赞+转发本文,一起共学.

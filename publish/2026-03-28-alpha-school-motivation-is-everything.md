@@ -2,9 +2,6 @@
 title: "Alpha School: 动机就是一切"
 date: "2026-03-28T20:02:23"
 slug: "alpha-school-motivation-is-everything"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 Alpha School 是一所什么样的学校?

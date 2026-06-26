@@ -4,9 +4,6 @@ date: "2026-03-28T20:02:23"
 source: "https://mp.weixin.qq.com/s/1Wvro5SPqhYHKgXe7movcQ"
 account: "聪明的提问者"
 author: "PoiseMath"
-tags:
-  - 微信公众号
-  - 聪明的提问者
 ---
 Alpha School 是一所什么样的学校?
 

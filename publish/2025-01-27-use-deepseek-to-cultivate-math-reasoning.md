@@ -2,9 +2,6 @@
 title: "如何用Deepseek培养数学推理思维"
 date: "2025-01-27T18:08:37"
 slug: "use-deepseek-to-cultivate-math-reasoning"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 过去半个月我一直在测试Deepseek V3的数学推理能力,特别是观察它的思考过程是否学习数学有帮助.
@@ -227,4 +224,3 @@ MA共学微信群,供MA用户交流学习.
 
 ![图片](media/wechat/1aeca6f3-08-b1b6e21ab8.webp)
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学

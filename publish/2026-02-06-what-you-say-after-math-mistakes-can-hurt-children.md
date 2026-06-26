@@ -2,9 +2,6 @@
 title: "孩子做错题时，你脱口而出的那句话，可能正在伤害他"
 date: "2026-02-06T06:30:00"
 slug: "what-you-say-after-math-mistakes-can-hurt-children"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 前几天，朋友跟我讲了一件小事。

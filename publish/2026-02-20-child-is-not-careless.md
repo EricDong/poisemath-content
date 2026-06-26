@@ -4,8 +4,6 @@ date: "2026-02-20"
 modified: "2026-02-20T21:56:32"
 slug: "child-is-not-careless"
 tags:
-  - "微信公众号"
-  - "聪明的提问者"
   - "学习方法"
   - "家庭教育"
 ---

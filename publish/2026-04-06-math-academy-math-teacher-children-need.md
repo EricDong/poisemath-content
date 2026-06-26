@@ -2,9 +2,6 @@
 title: "Math Academy 是孩子真正需要的数学老师"
 date: "2026-04-06T09:18:05"
 slug: "math-academy-math-teacher-children-need"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 你有没有想过一个问题: 为什么孩子数学越学越差?

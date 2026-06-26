@@ -2,9 +2,6 @@
 title: "学生如何通过Math Academy提高英语水平?"
 date: "2025-01-29T20:40:44"
 slug: "improve-english-through-math-academy"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 Math Academy是一个AI驱动的数学学习平台,最初是为美国学生开发的.
@@ -75,4 +72,3 @@ MA共学微信群,供MA用户交流学习.
 
 ![图片](media/wechat/5e6e27ab-02-b1b6e21ab8.webp)
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学

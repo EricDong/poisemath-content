@@ -2,9 +2,6 @@
 title: "中学生如何通过语文学习英语"
 date: "2025-02-03T20:44:42"
 slug: "middle-school-students-learn-english-through-chinese"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 大年初二我和羊叔做了一次在线讨论:如何用数学学习英语.

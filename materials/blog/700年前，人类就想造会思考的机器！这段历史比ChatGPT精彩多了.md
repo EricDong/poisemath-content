@@ -5,8 +5,6 @@ modified: "2026-01-30T18:14:50"
 slug: "human-dream-of-thinking-machines"
 source: "微信公众号：聪明的提问者"
 tags:
-  - "微信公众号"
-  - "聪明的提问者"
   - "AI教育"
   - "科学史"
 ---

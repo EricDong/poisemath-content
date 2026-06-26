@@ -2,9 +2,6 @@
 title: "在MA有效学习的五大习惯"
 date: "2025-12-16T06:30:00"
 slug: "five-habits-for-effective-learning-in-math-academy"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 最近有些家长问我: 有时候会收到Math Academy的官方邮件,邮件标题是: Keys To Success
@@ -88,8 +85,6 @@ To improve the odds of success, please reinforce the following 5 habits:
 5. Be consistent. Just like with physical exercise, doing a regular amount every day is the most effective and least painful way to make progress.
 
 Some students may require more guidance and oversight than others, but it pays to spend a little time in the beginning to make sure things are getting off on the right foot.
-
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学.
 
 加我微信了解更多.
 

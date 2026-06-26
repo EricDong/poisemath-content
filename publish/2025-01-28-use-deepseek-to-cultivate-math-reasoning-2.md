@@ -2,9 +2,6 @@
 title: "如何用Deepseek培养数学推理思维-2"
 date: "2025-01-28T07:12:01"
 slug: "use-deepseek-to-cultivate-math-reasoning-2"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 看Caoz老师说Deepseek 刚退出了Janus Pro多模态大模型,要说DS不懂marketing我是不信的.
@@ -101,4 +98,3 @@ MA共学微信群,供MA用户交流学习.
 
 加我微信,验证MA身份后会邀请入群.
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学

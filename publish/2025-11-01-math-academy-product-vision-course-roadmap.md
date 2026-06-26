@@ -2,9 +2,6 @@
 title: "Math Academy 的产品愿景与课程蓝图"
 date: "2025-11-01T11:04:26"
 slug: "math-academy-product-vision-course-roadmap"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 Math Academy（ MA）坚持“长期主义 + 广度优先”的产品路线：在坚实的底层教学架构上，持续扩充高质量课程，目标是打造可与一流大学比肩、甚至更优的在线学习平台。
@@ -190,4 +187,3 @@ MA注册请参考
 
 ![图片](media/wechat/d7797bf2-01-b9dc06fa66.webp)
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学

@@ -2,9 +2,6 @@
 title: "我儿子在 Alpha School的蜕变"
 date: "2026-02-18T14:42:33"
 slug: "my-son-transformation-at-alpha-school"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 这是一位Alpha School了 家长的译文.
@@ -259,4 +256,3 @@ Mac 的考试没有任何准备，没有特殊早餐，只是"这周我们做MAP
 
 ![图片](media/wechat/0eaceedd-03-f06d846885.webp)
 
-欢迎订阅+点赞+转发本文,一起共学

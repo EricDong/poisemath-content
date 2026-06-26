@@ -2,9 +2,6 @@
 title: "中小学生需要什么样的人工智能+?"
 date: "2025-08-26T23:59:36"
 slug: "what-kind-of-ai-do-students-need"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 国务院关于深入实施“人工智能+”行动的意见2025年8月26日发布了.
@@ -47,4 +44,3 @@ Math Academy通过知识图谱(knowledge graph)用一套体系把小学四年级
 
 [Math Academy: 数学奇才为儿子打造的数学学习神器](https://mp.weixin.qq.com/s?__biz=MzIwNzMzODkyNA==&mid=2247483928&idx=1&sn=16fb7b41ca69377c67c3c3c4738ae737&scene=21#wechat_redirect)
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学.

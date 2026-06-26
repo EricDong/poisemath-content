@@ -4,9 +4,6 @@ date: "2025-02-15T21:22:55"
 source: "https://mp.weixin.qq.com/s/xTfISlrCNZJf7-TaN-vSJQ"
 account: "聪明的提问者"
 author: "董志辉"
-tags:
-  - 微信公众号
-  - 聪明的提问者
 ---
 Math Academy共学群成立三个月了,越来越多家长认识到MA的价值.
 前两个月的总结文章
@@ -119,4 +116,3 @@ MA共学群现有用户200+,供MA用户交流学习.
 
 ![图片](../media/wechat/a3d2c14c-05-b1b6e21ab8.webp)
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学

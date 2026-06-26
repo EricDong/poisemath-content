@@ -4,9 +4,6 @@ date: "2026-02-04T13:58:19"
 source: "https://mp.weixin.qq.com/s/JXjgNGt-iK1w2lOxeDBjjw"
 account: "聪明的提问者"
 author: "PoiseMath"
-tags:
-  - 微信公众号
-  - 聪明的提问者
 ---
 昨晚和西川小学谭老师交流,提到了他们学校一个5年级的小学生,从2025年12月6日开始,每天花10-20分钟在Math Academy 学习1-2个lesson,到期末数学考试100分,以前长期霸榜的第一名这次只能屈居第二.
 

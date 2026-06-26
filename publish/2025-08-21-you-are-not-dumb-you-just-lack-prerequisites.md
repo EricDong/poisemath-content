@@ -2,9 +2,6 @@
 title: "你不是笨，你只是缺了“前置知识”"
 date: "2025-08-21T18:05:00"
 slug: "you-are-not-dumb-you-just-lack-prerequisites"
-tags:
-  - "微信公众号"
-  - "聪明的提问者"
 ---
 
 我一直以为自己脑子笨，不是学数学的料。上学那会儿，这种感觉尤其明显：有些同学学数学，易如反掌；而另一些人，比如我，学起来简直要死要活。
@@ -69,4 +66,3 @@ Math Academy正是补齐前置知识的地方.
 
 [Math Academy: 数学奇才为儿子打造的数学学习神器](https://mp.weixin.qq.com/s?__biz=MzIwNzMzODkyNA==&mid=2247483928&idx=1&sn=16fb7b41ca69377c67c3c3c4738ae737&scene=21#wechat_redirect)
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学

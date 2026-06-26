@@ -4,9 +4,6 @@ date: "2025-03-29T18:05:48"
 source: "https://mp.weixin.qq.com/s/Esc7R2W2PvXuM-Q4LJe7DQ"
 account: "聪明的提问者"
 author: "董志辉"
-tags:
-  - 微信公众号
-  - 聪明的提问者
 ---
 父母都想有个自主学习的娃儿,
 
@@ -68,4 +65,3 @@ MA共学群现有用户200+,供MA用户交流学习.
 
 ![图片](../media/wechat/62d6efcb-01-190a2ed62d.webp)
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学

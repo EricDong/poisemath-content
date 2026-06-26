@@ -4,9 +4,6 @@ date: "2025-01-30T12:47:51"
 source: "https://mp.weixin.qq.com/s/PzdyzXwC2dmH4fz2xuyAxw"
 account: "聪明的提问者"
 author: "董志辉"
-tags:
-  - 微信公众号
-  - 聪明的提问者
 ---
 Deepseek最近一个月刷屏了,不仅中国,美国都直呼Deepseek太强大了.
 
@@ -208,4 +205,3 @@ MA共学群现有用户180+,供MA用户交流学习.
 ![图片](../media/wechat/9c600dbf-02-b1b6e21ab8.webp)
 
 
-如果你有娃儿要学数学,欢迎订阅+点赞+转发本文,一起共学

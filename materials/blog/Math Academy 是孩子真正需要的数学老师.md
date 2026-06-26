@@ -4,9 +4,6 @@ date: "2026-04-06T09:18:05"
 source: "https://mp.weixin.qq.com/s/srWhFisBnbQ5StL8_uPIOg"
 account: "聪明的提问者"
 author: "PoiseMath"
-tags:
-  - 微信公众号
-  - 聪明的提问者
 ---
 你有没有想过一个问题: 为什么孩子数学越学越差?
 
