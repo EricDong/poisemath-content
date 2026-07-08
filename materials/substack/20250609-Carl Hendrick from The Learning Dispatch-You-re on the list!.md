@@ -16,4 +16,8 @@ tags:
 
 ---
 
-￼￼You're receiving free posts from The Learning Dispatch.To get every post and other paid subscriber benefits, upgrade to a paid subscription.Upgrade subscriptionYou can unsubscribe in one click.Private podcast setup: To set up your podcast app, click this link on your phone.Referral program: When you use the referral link below, or the “Share” button on any post, you'll get credit for any new subscribers. Simply send the link in a text, email, or share it on social media with friends.Refer a friendWhen more friends use your referral link to subscribe (free or paid), you’ll receive special benefits.Get a 1 month comp for 3 referralsGet a 3 month comp for 5 referralsGet a 6 month comp for 25 referrals© 2025 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104  Unsubscribe￼￼￼￼
+![](_assets/20250609-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-You-re%20on%20the%20list%21/open-b1442e85b0.gif)
+
+[TABLE]
+
+![](_assets/20250609-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-You-re%20on%20the%20list%21/open-b1442e85b0.gif)![](_assets/20250609-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-You-re%20on%20the%20list%21/eJx0kE1uwyAQRk8TdrFgwBgWnMWCYZygGJzy0za3r5xF1U3XT3p634e-0-2oLzfKlkpqd4rXNkLDmp49HYVFJ23gBjUjJxZlFQAowSj7tK83KlR9p7j6_ody-98b3d9d20e.gif)
