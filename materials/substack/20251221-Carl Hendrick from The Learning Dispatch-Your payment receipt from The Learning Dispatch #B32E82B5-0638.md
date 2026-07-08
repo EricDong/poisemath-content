@@ -16,4 +16,8 @@ tags:
 
 ---
 
-￼￼Receipt from The Learning DispatchThank you for subscribing! Learn how to manage your subscriptions.Subscription for newstartxm@icloud.comDec 21, 2025 through Dec 21, 2026$100 USDThis is your receipt for invoice #B32E82B5-0638 on Dec 21, 2025. View all past issues and manage your subscription settings on the website. For detailed receipts with a custom address or tax id click here. You may also request a refund.Spread the love and gift a subscription to The Learning Dispatch to a friend.Gift The Learning Dispatch to a friend© 2025 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104￼￼￼￼
+![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Your%20payment%20receipt%20from%20The%20Learning%20Dispatch%20%23B32E82B5-0638/open-b1442e85b0.gif)
+
+[TABLE]
+
+![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Your%20payment%20receipt%20from%20The%20Learning%20Dispatch%20%23B32E82B5-0638/open-b1442e85b0.gif)![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Your%20payment%20receipt%20from%20The%20Learning%20Dispatch%20%23B32E82B5-0638/eJxskEtuwyAURVcTZrH4BewBa7Eej-cExYDFp2l2XzmDqoOOj3R07kXodC_17drwDWs8eiz5WgkpHp0FpxbPZzSMnLDGyEXNVjNKEPf1TpkqdAor9D9UK8Ue-98b3d9d20e.gif)

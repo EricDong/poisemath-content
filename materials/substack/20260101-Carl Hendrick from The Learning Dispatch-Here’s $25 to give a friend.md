@@ -16,4 +16,25 @@ tags:
 
 ---
 
-￼￼Dear reader,You have 5 free gift subscriptions for The Learning Dispatch (value: $25).Gift a subscription© 2026 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104  Unsubscribe￼￼
+![](_assets/20260101-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Here%E2%80%99s%20%2425%20to%20give%20a%20friend/open-b1442e85b0.gif)
+
+Share The Learning Dispatch with family and friends
+
+͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­
+
+[TABLE]
+
+![](_assets/20260101-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Here%E2%80%99s%20%2425%20to%20give%20a%20friend/open-b1442e85b0.gif)![](_assets/20260101-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Here%E2%80%99s%20%2425%20to%20give%20a%20friend/eJx8kE2O8yAMQE_zsWsEhECy4CyIH5OiBojA9JvefpRWI81qdpasZ71nbxH22l76mZo9bnuKeOtQArRbg5yugQRNFffKEdBMScWVnLeFQLbpMDsUaBYhGIu_-98b3d9d20e.gif)

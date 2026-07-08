@@ -16,4 +16,25 @@ tags:
 
 ---
 
-￼￼Thank you for becoming a paid subscriber to The Learning Dispatch. Your support means a lot, and I’m excited to have you on board.As a subscriber, you’ll get:✅ Exclusive deep dives into the latest research on learning and teaching✅ Practical insights on applying cognitive science in education✅ Early access to special content, Q&A sessions, and moreTo get started, I’d love to hear from you: What’s one question you have about learning that you’d like me to explore? Hit reply and let me know.Private podcast setup: To set up your podcast app, click this link on your phone.￼￼￼© 2025 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104  Unsubscribe￼￼￼￼
+![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/open-b1442e85b0.gif)
+
+Thank you for subscribing to The Learning Dispatch
+
+͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
+  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
+    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­
+
+[TABLE]
+
+![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/open-b1442e85b0.gif)![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/eJxM0MtuwyAQheGnCUsLxty84FmsYTxJUAxUXJrm7atmEXX9S5-ODuHgW22v8OSTamZxBOmAXBQclLMWttU7JThjOvcbF244-Nhx_KvGbeIerLd4lYas1SZq-98b3d9d20e.gif)
