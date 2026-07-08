@@ -16,4 +16,4 @@ tags:
 
 ---
 
-￼ ￼Dear reader,You have 5 gift subscriptions for The Learning Dispatch left to share.Send a gift© 2025 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104  Unsubscribe ￼￼
+￼￼Dear reader,You have 5 gift subscriptions for The Learning Dispatch left to share.Send a gift© 2025 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104  Unsubscribe￼￼

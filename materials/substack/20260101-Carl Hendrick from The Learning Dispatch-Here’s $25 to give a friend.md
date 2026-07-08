@@ -16,4 +16,4 @@ tags:
 
 ---
 
-￼ ￼Dear reader,You have 5 free gift subscriptions for The Learning Dispatch (value: $25).Gift a subscription© 2026 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104  Unsubscribe ￼￼
+￼￼Dear reader,You have 5 free gift subscriptions for The Learning Dispatch (value: $25).Gift a subscription© 2026 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104  Unsubscribe￼￼
