@@ -16,25 +16,37 @@ tags:
 
 ---
 
-![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/open-b1442e85b0.gif)
+![The Learning Dispatch](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F24b99177-6d8b-421b-8984-4bbd3f87bc2e_386x386-84a633d597.png)
 
-Thank you for subscribing to The Learning Dispatch
 
-͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­
+Thank you for becoming a **paid subscriber** to *The Learning Dispatch. *Your support means a lot, and I’m excited to have you on board.
 
-[TABLE]
 
-![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/open-b1442e85b0.gif)![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/eJxM0MtuwyAQheGnCUsLxty84FmsYTxJUAxUXJrm7atmEXX9S5-ODuHgW22v8OSTamZxBOmAXBQclLMWttU7JThjOvcbF244-Nhx_KvGbeIerLd4lYas1SZq-98b3d9d20e.gif)
+As a subscriber, you’ll get:
+
+
+✅ Exclusive deep dives into the latest research on learning and teaching
+
+
+✅ Practical insights on applying cognitive science in education
+
+
+✅ Early access to special content, Q&A sessions, and more
+
+
+To get started, I’d love to hear from you: **What’s one question you have about learning that you’d like me to explore?** Hit reply and let me know.
+
+
+**Private podcast setup:**
+To set up your podcast app, [click this link](https://email.mg1.substack.com/c/eJxUkktv2zAQhH-NdBTIFfU68OA4dUqjkmHUSBxfBGpJS7Rehkj59esLp0CRnvawM4PBh0HpdD1Od37VHY699hUnCWBS-ZrTJI4hC9OE-rqXpitrPehJOq1K6b59oyTzG07hSJJIYpiRFBEZsEgzmoQyzmKNEPuGA4GIAlASUUppEAaRJixJJJGg05RFWQBRA8Yy5jHS1zSwc2WdxDbAsfeNLY-T_mrC3TRrv-ONc2frhQsPVh6sUE5dowc1GWz_s3qw6ox1evDClRvb533V9zVFeL_voWvFabzlr0iKk2D5o7Wi7xq1FHG-QyhOIsofdZj_vprDvrk-tcXjEzavLStOePu1XJ8xzM3GrK_qQ7j8sYB8J8hmKawYCvppRCyGl8vhrWgw3DqEd6L2C3PcBq7Y3S4pPWXVm_yYV2W2mw8voqmKLV1n8gdOC1X35bLGn8Q_z1WJY9_Pg3H3Ug-y6rT6i-E8V51B6cw4lEbxkMQUWOpPfNBX6-Tkbr3HiMFunNUXSDtXauylGfh3Yr77t4HZ6ukZRUnCYkjDzL9w-BMAAP__vPy13Q) on your phone.
+
+
+[![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/https%253A%252F%252Fsubstack.com%252Fimg%252Fshare_twitter-b40a7259dd.png)](https://email.mg1.substack.com/c/eJxUUsFu3CAU_Bo4ruAZbO-BQ6WVpUo99m5heFnTGLyCRzf5-woSRekJ3psZZjTCWcL7md_NEw93RuTeiAnctHE0chpHuA7zJDlGG471jgmzJfSrpW-onq58N0Kj0JsGq-CqRz9vYJVUQk6zEwOKFx4MCNASQAotpZSX4aJRqGmywgLOs9LXC-gdQlGKKRHv8lLqVsi614s7Iw9lfcnYkxjKFflhdqJHYcMPBguDhZ6BCHMjM1hCIkzU14jEhqXmgw23DwnoJtJNpmFxNh87Jp-De_3Ps_GWSnF1Nj5suKe2uH1W1aRjAyP6UDv31tN9AeWs2WEHPrMxGAnfiA23n40l_tRC_dJcXQ4b-j7S2Y_fe3cRv9DmFNK9D7dQHpbczh91W90ZY02B3ldMdjvQf1TzqNsRnKVwpjV4M4hRgpp5NgmfhWymt8iUCO44q-_llrr5M9qQzPcyOH39i1owt6ekmNQI83Dlfw38CwAA__-QqLlY)[![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/https%253A%252F%252Fsubstack.com%252Fimg%252Fshare_facebook-c3510062bb.png)](https://email.mg1.substack.com/c/eJxUkc2O5CoMRp8mLCMwkFQWLK5UymtEBtwV1CFE_NxMv_0o6ZlSzw5xfOCz7bDSK-Uvc9LmUiTmDR_BjZaREeMwwCQfo2AUMWzLi3bKWMkvWH9QPU5sNYR-kJYU2IFATIha0aRHxSUJK7lnwQAHLQAE10II0cteE1fjiByBHg-lpx70CqEo1SkeX6IvzZaK7rN3KbJQlo9MdxJTcyO2mbXWo3Tyvw7mDubzPPsPdGRTuo0O5rJipvw-9Md6dHJunXx-q6AvWV-6htlh3lbafQ7u85-_r7q51bg4jAeG135dPP-M7FKHC0byod21zzvlG5TUsqMb_M3HjmYXl2Jse6hfC-1oN_LffR3NbsFhDWlfgjeSDwLUg2Wz01kq5vordooHt6Xm78mUZn2KGHbzswNW30tthfL1lOCjGuAhJ_a_gd8BAAD___Sipcs)[![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/https%253A%252F%252Fsubstack.com%252Fimg%252Fshare_messenger-9fd4f079f7.png)](https://email.mg1.substack.com/c/eJx8kcuOpiAQhZ8GlgZKEF2wmKTjaxgupZIWNFy6p99-oj3507OZLR_15dQpZypuZ_7Sn3i4MyL1milwylLUXA0DTP2oOMVowrFsmDCbin4x9QeVaqK79mxkYHEdVyPkpJiVspd2HWEVOHmJNGhgIDkAZ5Jzzru-k8iEUoYZwHEUcupA7hCKEESwuPGuNFuqce-dOyMNZVkzPkl0zQ3pofdar0L6XwRmArMz-dgx-Rzc-z-jBGZzBQLzBycwl91kJDBHLAXThpn0c8sH6d--dSBvobyV8r9S2c-txsWZeJmwpfvh7W-N9-hww4g-tOfv25P8BcrZssMHvILQq9nFnTG2FOrXgsnYA_33slezR3CmhjMtweueDRzESLNO-FmqyfV3JIIFd5zNP3WVZv0ZTUj65wq0vi7dCuZbxZkSA4z9RD80_AkAAP__OYCtdQ)[![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/https%253A%252F%252Fsubstack.com%252Fimg%252Fshare_whatsapp-0bdc3f9b5d.png)](https://email.mg1.substack.com/c/eJx8Us1u5CwQfBo4jqAx_jlw-KSRpU_a496tNu7YbAy2-Mkkb78yk42yl73QFEW1qgssZlqP-GEetNvDE1-M6MB2Mycju7aFQfWd5OTR7dNKgSJmWibM31jdDXwzHQy9nQUM-DJoK6ibG6GUUIOCVohWc2dAgJYAUmgppbypmybRdB0KBOr7Rg830Bu41DSsEX6Vt1TmlNG-3uzhuUvTS6TqxORYiO9my_lMTP3HYGQwWoz7RmGJzr7-JWUw4ukYjG-SwZg2jMRgfGyYE54nU2Om98zU_X8GGsSvknLdXC1sdDMtFeajlp8b1fqDMAYX1gruLp2Y7cZAX240iKe1P3Csyz8MajWW7CeL_kS3huvg_vkkl7S9SE-LK_XuvabwRaSjREtPzedQ_CzzZA_vS3D5Y6KA807LM7ezzLuzmN0RJrcYJVoJTc-jCfRIGWN-96wRzu5HWWryqczL4dEF830Cnr8-TUkUr1ZSdE0LvRr4m4HfAQAA__-bGcIN)[![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Welcome%20to%20The%20Learning%20Dispatch/https%253A%252F%252Fsubstack.com%252Fimg%252Fshare_email-83300a7ecb.png)](mailto:?subject=I%20just%20subscribed%20to%20The%20Learning%20Dispatch&body=https%3A%2F%2Fcarlhendrick.substack.com%3Futm_campaign%3Dwelcome%26utm_medium%3Demail%26utm_source%3Demail)
+
+
+© 2025 Carl Hendrick
+548 Market Street PMB 72296, San Francisco, CA 94104
+[Unsubscribe](https://email.mg1.substack.com/c/eJxU0ltvozwQBuBfA3cf8oHjBRdt81E5WpLtQU23N8iMJ8EBmwib0uTXr5KVVt3r0ftq5tGA9HgYp3O54ACjwVCVJGOQtSGWNEtTVvA8oyEaqYfmgBYn6VE10n-bJlkRdiVPsjhWBdmzvEgJcILAEXMu0zxBhCzUJSMsoYxRklBKacSjBEmcZZJIhnkeJ0XEko5pF8dBTMyBRm5unZfQRzCaULtmP-Ftk9JPM4ZD2Xl_cgG_C1gVsArkNHRo1aSh_ycasEqC16MNWKW0k-2Aza0n4JUfe7QBX-F5TYG9nd_Z0Ivj-FWvgGyOIq4vvRP2_hP4817unvTWJLR9XJwwQ6ceRFq_AtscRVJfDrx-WfTHe7dc85tLz7crkWxX8PXjYX0CXuutXi9qJ3x9uWP1qyDbB-GE3dBfWqTCPJ-AVbp9fNt_7Ggnd4veP0UG6stRvzyq1cc04j3w438vFpqfTo7CTp-b93t8EvX_y_pNhKe5bWA0Zrbanxu01zvVH6rT3A4a5NWg0arkJKUszsOptLg4Lyf_ZYKYaBjGWd2w3dyq0Uhty--qof_7J7PD6VpFSRanLOdF-Fmy3wEAAP__nBLD2g)
+
+
+[](https://email.mg1.substack.com/c/eJxMkU2O5CAMhU8Du4rA-SFZsBipVdeIDDgpVAEiYqanbz_qaqlVG2_eJ_uznkemvdQv-0mHL4lksMqAN06S1WaaYOlnoyUljMe6U6aKTGFFfktHs8iHdfM2wryFoBwaZTYczTQ6P_UB0RlYZLSgYNQAWo1aa9313UhqMAYVAs3zMC4djA-I1zCIQaVdd1dzF6N_dr4kGa91q_QysVwbycM-mM9L9H8E3AXc32kBdzzPn3m7uFS6VQqxkmfR3xun1WM6Me5Z9B_fTML6JI55FzC94pKZMov-43XxtpXCVG-uMZcsz-ZWX1JqOfLXShndQeHH6mzuiB45lrzGYHs1aRhmWW2mz4ux8r8kBhX9UVp4_XU1F0rCmK3Hejwohxr9U_JvJe2i-r1KKzNMMPeL_GvhfwAAAP__fHyTCg)[](https://email.mg1.substack.com/c/eJx0kUtu3DoQRVdDzp7ArygNOHiA0hvIAgSKLKoJ8yPwY8dZfdDt2PAkQ15enDqFsqbDWeq7foNoSwLsNFHMqgODpmqe2coXRTEkE-J-QoZqOrjd9G-_Uq34rmdQhkovDr-ui_CeeeG5d17KlQhwgINmhEnKGCWSUkonPkkgQilDDINlEXKdmLyz0IRAgqSTTm0crRv7MtmScGi7r_A00b0OwFHfe78a4v8jdkPs9r39eIYzjwvx2-hpb2VUC4hvnyXE5keewIWREN-e3L-hLblD7ohvvpQO9TM26TLhzIhvZvTiQ4zg_vuqPOR-Pmf-eLL4luGtdVP7r4QECTaW4T7c5or4RutvM17xNY7dlpRGDv19h2yOCO5jwWscMVjTQ8l7cJqTmTKx4Kr_AcZtHK4kE7K2psY7ZFeDfcH967qjQX2gKFFiZgtf8atmfwIAAP__hV-tsA)

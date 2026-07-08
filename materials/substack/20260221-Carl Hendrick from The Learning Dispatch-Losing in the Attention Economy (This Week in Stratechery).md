@@ -16,27 +16,27 @@ tags:
 
 ---
 
-￼
+
 
 Forwarded this email? Subscribe here for more
-￼
+
 The Blind Regulator: Ashby's Law and the Unavoidable Logic of Instructional Design
 “Only variety can destroy variety.”
 CARL HENDRICK
 FEB 20
  
-￼
 
-￼
 
-￼
 
-￼
-READ IN APP￼
+
+
+
+
+READ IN APP
  
 In 1956, a British psychiatrist named W. Ross Ashby published An Introduction to Cybernetics, a book that would become foundational to fields as disparate as artificial intelligence, ecology, management science, and systems biology. Ashby was interested in a deceptively simple question: how does anything control anything else? How does a thermostat regulate temperature? How does an organism maintain homeostasis? How does any system impose order on another system that would otherwise drift into chaos?
 
-￼
+
 
 W. Ross Ashby
 His answer was the Law of Requisite Variety. Buried in Chapter 11, amid discussions of game theory and information channels, Ashby made an observation that is a core axiom of instructional design.
@@ -64,7 +64,7 @@ This does not mean binary assessment is inherently flawed. In some cases, it is 
 The problem arises when the disturbance space is large. By disturbance space, I mean the range of different ways a learner can approach a task while still arriving at an acceptable answer. It is the full repertoire of strategies, shortcuts, heuristics and workarounds available in that moment.
 When multiple cognitive strategies can produce the same correct answer, binary scoring becomes blind. Recognition can masquerade as recall. Elimination can masquerade as understanding. Pattern familiarity can masquerade as reasoning. The system records success, but it has no way of knowing what produced it.
 
-￼
+
 
 Consider a pupil revising the causes of the First World War. The retrieval question reads:
 Which of the following was a long-term cause of the war? A. The assassination of Archduke Franz Ferdinand B. Militarism C. The sinking of the Lusitania D. The Treaty of Versailles
@@ -97,21 +97,20 @@ This is not a counsel of despair about teachers, or technology, or learners. It 
 “Only variety can destroy variety.”
 
 A reminder to Australian readers that I will be in Melbourne, Sydney, Canberra and Auckland next month. More info here.
-￼Subscribed
+Subscribed
 
 Invite your friends and earn rewards
 If you enjoy The Learning Dispatch, share it with your friends and earn rewards when they subscribe.
 
 Invite Friends
  
-￼LIKE
+LIKE
 
-￼COMMENT
+COMMENT
 
-￼RESTACK
+RESTACK
 
  
 © 2026 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104  Unsubscribe
-￼
 
-￼￼
+

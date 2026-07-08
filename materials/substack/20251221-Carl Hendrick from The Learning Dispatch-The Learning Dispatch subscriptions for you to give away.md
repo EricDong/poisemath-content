@@ -16,25 +16,24 @@ tags:
 
 ---
 
-![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Learning%20Dispatch%20subscriptions%20for%20you%20to%20give%20away/open-b1442e85b0.gif)
+Dear reader,
 
-The Learning Dispatch subscriptions for you to give away
 
-͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­
+Thank you for being a member of the The Learning Dispatch community. As a paying subscriber, you’ve helped make The Learning Dispatch what it is today.
 
-[TABLE]
 
-![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Learning%20Dispatch%20subscriptions%20for%20you%20to%20give%20away/open-b1442e85b0.gif)![](_assets/20251221-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Learning%20Dispatch%20subscriptions%20for%20you%20to%20give%20away/eJxkkE1uwyAQRk9TdrH48Q8sOAsamLFDYyDFkDY9fZVElSp1PXqj974AjbZS7_YWK-ynLa7ttFXIjaFVxnMdZkZWLPMsjdKLYJQg7m6jTBUaoYP256q5YWcr-98b3d9d20e.gif)
+As a thank you, you now have five FREE 1-month gift subscriptions to give to family and friends (usual value = $25). Know someone who might love The Learning Dispatch? Click on the link below to share one of your gift subscriptions with them.
+
+
+[Give a subscription](https://email.mg-d1.substack.com/c/eJxkks1u4jwUhq8m2YFiOwnJIgs-KG1QAVXlo8Am8s8hOCR2xnag5OpHoVOpo1naPu8r6zkPpw5Kbe7ZVRpaj0p5cqPSUOV8kZGUBQmPfcjQJI5xSpIJ8qGhsi5KUGCoA1FQ9-M1CVL_nJ1olEQY8QBHJ8wQSQEHJxQiNkEcgCBfZjjAEcIYBRFCCI3JmFFKJzgUUcIEFykbV7_Ouiei8cKgKUcCjW3HrKP8Mua68aUtTgYef8mc6cCvs7NzrfXI1MMLDy9-Tg9HWaqRVB5ePDIeXnDdtDU48MjC6Qsoj8zhvkQc7-57XF_ySn-u5jxYV3m46i82V-uak3XLcLQ8zvKYqZ1ls5uk-6ncNBFizzebN8crr9Ob-MjlRi6rw35p6fOuO74s2wO28nW2bA_7N7mpnsi6Otw321W47p9s3uxCPsvj1ZbjzbwM19uSrN6H7nWfV1ryl5183U6HfP-nu6cfonv9qLtcBWN2OIh9tb1N3-ZxRC96-Xbs_xuVVzUXbUOOs65l6TGZfP7_nng4NiCkAe48Mv9ChqMBWjRgi_BCt6DGf9OL8MKCEiMDVIB5OGIftySIEQ4TX2knT5JTJ7Uq3L2FL5uKYbJ42ATCbztWcN00nZLuXoCirAbxtby2Y_V3XIrsu9ZkCm7WUeM-Bw0kr3UnHuu3HRO6oVJlnJr6DEoYyS---9fizoIZOlEwCWOckNS_Zvh3AAAA___O_P2m)
+
+
+Thanks again for reading and sharing The Learning Dispatch!
+
+
+© 2025 Carl Hendrick
+548 Market Street PMB 72296, San Francisco, CA 94104
+[Unsubscribe](https://email.mg-d1.substack.com/c/eJxkkstu4jwAhZ8m2YF8Cbkssmj_4jaoUIm_A6WbyDeCE9thHJsSnn4UqpEqzfr4s61zPk69bHo3lhflqJ416uhnjaPWx6LEBQM5T2NZwixNUYHzDMbSUKXrRlrpqJeipv5HmoMiPpUFlCJLOMCIFjlOU7hgIqc4W8AMI5ZmsSoRQAuIEAQLCCGc4zmjlGYoEYucCS4KNm9_n_obFiZKgGlmAs6HwAZPeTfnvYnVUB-dvP-l9C7IWJcn789DhB8iRCJEfp6OEKFnFSFygREidyhCxPZeHRWnXvU2QiTYCeFOMRlh4vtO2gg_yXEFOdqNH0h3Vdtf108cbNoqWd-6obLbC3_WbdX2Shg9HvbX4yfSRpDCckOCeN51lfpSdE_AxG5uB7Ruu9vbE7--_rfS8uVBvbVL_PbOk3XbJZvbcqiMvvGxSiv7CA8KfE08xzs1vcFMAej-83xABNB9EV4_dmHKONqMdL_SlQVzuH1_r4uXvEqPW7L8OKya2S_pljJ8KsLHatsI4vlC_P9IePyzgNqPZ_ntQD05UN8dkCI-B1bz3phglR9raSnTUnxXfg5M_8WVKDFIIUry2JVWfg2eOn-dxlNc90HcRxsCE72hypacOn2SVjjFu9j_614YpJvuhCBLUpTjIr6U6E8AAAD__3Yy52c)
+
+
+[](https://email.mg-d1.substack.com/c/eJxkkU2O2zAMhU9j7WxYUvy30KLAINcQKJFx1FiSK1PTpqcv4qDAALPh5j2Sjx89MK25PM1nKLC1a7hxuxZILNDoxfWzHwUZOY2jWvQ8SUERwmZXSlSACS3wF3XuF3E3OCk5LQqGAedl0AOidk5PsPgJ5SCdCEb1apBKyX6QUspOdw4AJnXBYXbocXHdz1_3_FdjbC59XFuU3VHdweAfnc9RhMPeCp1ZDJdKYjN35v1o9I9GXRt1_epu1BX2_V3bg3OhthCGQp4bfa0crYe4Q1hToz9engjlQRzS2qjxlHNiStzoj3Nje8uZqbSuMuckUuZwCx445GT5udObpX2xtCdLQrFXZ32OsabAT0sJ3Eb4jr5Xt_1vD2h0P0p1mUUxiX4fDIX_vCAEv-WK5_FHdZgjhGQ8lO1OCUvwD8Hff1gPKq-Zsp8uo5r1Ij6N-hcAAP__AUGqrQ)[](https://email.mg-d1.substack.com/c/eJx0Utuu2yAQ_Bp4S8TFx3YeeKjk5gf6AdYCa4ceAy5e0uZ8fWWnqY5U9ZFhmBl21gHhnMvD3EOB5TSHiU5zgUTcG32xonctRyO7tlUX3XeSY4SwjDMmLEDoR6BPt7248JuxWvS9dV1je--tcK1svGqFgwYn2zWKB6OEepNKSfEmpZRnfbYA0KnGv_XWO3-x5-8_bvlD-8gaEeeTl-et2o3AvZ9djjxs41TwyGKoVOSLuRGtG9NfmLoydf3M3o9hTnVl-lopjluuxSHTw4vEVLvjEX2okenh0P0DupwIEzE9TDkTlhcMcYUwJ6YHqJSnsCzoT38pe7hvh-fXQ0sPCX9uBIV-7T8KbsnVP7O1helBlg-od54yhSk4oJDTSI8Vn7WMey3jUQt6vlY7uhxjTYEeIyawC_rnFNZql9fz4I0WrVRNz4v5jzvfqvU5QkjGQVlumHwJ7p3Tv-tQNyy7phRd06peX_jdqN8BAAD__yZexbY)

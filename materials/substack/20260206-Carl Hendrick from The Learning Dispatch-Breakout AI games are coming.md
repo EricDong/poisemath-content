@@ -16,23 +16,23 @@ tags:
 
 ---
 
-￼
+
 
 Forwarded this email? Subscribe here for more
-￼
+
 The Monthly Dispatch - What's New in Learning Science? - February 2026
 New evidence on spacing, practice, early instruction, and reading shows that durable learning emerges through delayed effects, structured practice, and well-organised knowledge, not ease or intuition
 CARL HENDRICK
 FEB 5
  
-￼
 
-￼
 
-￼
 
-￼
-READ IN APP￼
+
+
+
+
+READ IN APP
  
 Housekeeping:
 I’m excited to be coming to Australia this March to work for some talks and workshops on applying the science of learning.
@@ -42,7 +42,7 @@ I’m excited to be coming to Australia this March to work for some talks and wo
 •	Auckland - Monday March 16   Other dates here.  
 I recently spoke to the brilliant Ian Leslie on his podcast. Listen here.
 
-￼
+
 
 This month’s research brief includes strong evidence that when and how learning happens matters more than how it feels. New studies show that spacing may work partly by increasing social–cognitive alignment with the teacher, that students systematically misjudge effective strategies like interleaving, and that core concepts and schemas actively change with use rather than remaining stable.
 We also see clear evidence that delayed effects are real not illusory, from Montessori preschool gains emerging at kindergarten to practice with feedback outperforming lectures for memory and transfer. Across reading, instruction, classroom practice, and AI, a consistent finding is that durable learning depends on knowledge structure, task sequencing, and instructional design, not motivation, intuition, or surface engagement.
@@ -133,21 +133,20 @@ Can AI feedback really build teachers’ confidence as well as a human mentor ca
 This quasi-experimental study compared AI-generated feedback with teacher feedback during simulated microteaching sessions for pre-service maths teachers in China. Both groups improved significantly in teaching self-efficacy across student engagement, instructional strategies, and classroom management. In other words, structured feedback of either kind helped novices feel more capable after teaching practice. However, teacher feedback led to larger gains in student engagement efficacy and was consistently rated as more credible and more useful than AI feedback.
 
 The Learning Dispatch is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
-￼Subscribed
+Subscribed
 
 Invite your friends and earn rewards
 If you enjoy The Learning Dispatch, share it with your friends and earn rewards when they subscribe.
 
 Invite Friends
  
-￼LIKE
+LIKE
 
-￼COMMENT
+COMMENT
 
-￼RESTACK
+RESTACK
 
  
 © 2026 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104  Unsubscribe
-￼
 
-￼￼
+

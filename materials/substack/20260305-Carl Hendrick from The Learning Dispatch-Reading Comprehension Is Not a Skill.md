@@ -16,25 +16,286 @@ tags:
 
 ---
 
-![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/open-b1442e85b0.gif)
+Forwarded this email? [Subscribe here](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xcnphdXYmbmV4dD1odHRwcyUzQSUyRiUyRmNhcmxoZW5kcmljay5zdWJzdGFjay5jb20lMkZwJTJGcmVhZGluZy1jb21wcmVoZW5zaW9uLWlzLW5vdC1hLXNraWxsIiwicCI6MTg5ODYyMTY2LCJzIjozMDYxMjQ4LCJmIjpmYWxzZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3NzI3MTQzMTEsImV4cCI6MjA4ODI5MDMxMSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.0gjoyvGhm9xN_w3ehJVr72y0I2iHJMF9HoULfiThdhU?) for more
 
-The Case for Vocabulary Instruction as the Engine of Comprehension
 
-͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­
+[![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa56d5196-0834-44b0-afb1-b9bb512a5047_1162x202-7c9cbec5bf.png)](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3AvcmVhZGluZy1jb21wcmVoZW5zaW9uLWlzLW5vdC1hLXNraWxsP3V0bV9jYW1wYWlnbj1lbWFpbC1oYWxmLXBvc3Qmcj0xcnphdXYmdG9rZW49ZXlKMWMyVnlYMmxrSWpveE1EYzBOakk0TXprc0luQnZjM1JmYVdRaU9qRTRPVGcyTWpFMk5pd2lhV0YwSWpveE56Y3lOekUwTXpFeExDSmxlSEFpT2pFM056VXpNRFl6TVRFc0ltbHpjeUk2SW5CMVlpMHpNRFl4TWpRNElpd2ljM1ZpSWpvaWNHOXpkQzF5WldGamRHbHZiaUo5LlNDOU92VzJkN004X0ZJbGNLV1I5YUZ3T1lNUzlsMWZ0dXc0Yks1ZFF6enciLCJwIjoxODk4NjIxNjYsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc3MjcxNDMxMSwiZXhwIjoyMDg4MjkwMzExLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.b1Gk4UKQ5LAJOgKkuZbSArsONxQ5WqawfV9L_-Lfb_A?)
 
-[TABLE]
 
-![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/open-b1442e85b0.gif)![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/eJxMkEuOwyAQBU8Tlha_8FlwFguadoJiIMJNZnz7UZLNbKvUrdKDSHjr4wzPfhDLgVsJNjEMwlpphVZCMKyx7OsNG45ImNdI_6zllt2DFl55A5sG1NbnDQ3f-98b3d9d20e.gif)
+# [Reading Comprehension Is Not a Skill](https://substack.com/app-link/post?publication_id=3061248&post_id=189862166&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=false&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4OTg2MjE2NiwiaWF0IjoxNzcyNzE0MzExLCJleHAiOjE3NzUzMDYzMTEsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.SC9OvW2d7M8_FIlcKWR9aFwOYMS9l1ftuw4bK5dQzzw)
+
+
+### The Case for Vocabulary Instruction as an Engine of Comprehension and Equity
+
+
+[Carl Hendrick](https://substack.com/@carlhendrick)
+
+
+Mar 5
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=189862166&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4OTg2MjE2NiwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3NzI3MTQzMTEsImV4cCI6MTc3NTMwNjMxMSwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.18RJYm2iBg6QYhgAHqusLbDux5kfnODtkxYqy9pg6yc&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=189862166&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4OTg2MjE2NiwiaWF0IjoxNzcyNzE0MzExLCJleHAiOjE3NzUzMDYzMTEsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.SC9OvW2d7M8_FIlcKWR9aFwOYMS9l1ftuw4bK5dQzzw&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=189862166&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4OTg2MjE2NiwiaWF0IjoxNzcyNzE0MzExLCJleHAiOjE3NzUzMDYzMTEsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.SC9OvW2d7M8_FIlcKWR9aFwOYMS9l1ftuw4bK5dQzzw)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3AvcmVhZGluZy1jb21wcmVoZW5zaW9uLWlzLW5vdC1hLXNraWxsP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtcmVzdGFjay1jb21tZW50JmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQmcj0xcnphdXYmdG9rZW49ZXlKMWMyVnlYMmxrSWpveE1EYzBOakk0TXprc0luQnZjM1JmYVdRaU9qRTRPVGcyTWpFMk5pd2lhV0YwSWpveE56Y3lOekUwTXpFeExDSmxlSEFpT2pFM056VXpNRFl6TVRFc0ltbHpjeUk2SW5CMVlpMHpNRFl4TWpRNElpd2ljM1ZpSWpvaWNHOXpkQzF5WldGamRHbHZiaUo5LlNDOU92VzJkN004X0ZJbGNLV1I5YUZ3T1lNUzlsMWZ0dXc0Yks1ZFF6enciLCJwIjoxODk4NjIxNjYsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc3MjcxNDMxMSwiZXhwIjoyMDg4MjkwMzExLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.9HYLqZl-ZYyXAobk6Fxwepom7KohVAHmQb_HdyjUwIA?&utm_source=substack&utm_medium=email)
+
+
+[
+
+
+READ IN APP](https://open.substack.com/pub/carlhendrick/p/reading-comprehension-is-not-a-skill?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app)
+
+
+*I taught English and reading comprehension for eighteen years. One thing I learned slowly, and against the grain of almost everything I was trained to do, is that when a student cannot grasp the main idea of a passage, the problem is almost never that they lack a “strategy.” The problem is that they do not understand enough of the words. Not a missing mental procedure, not a deficit in “inferencing” skills, not an inability to “think critically.” They simply do not know what enough of the words mean, and everything downstream from that is a system optimising for the wrong variable.*
+
+
+---
+
+
+[![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F08a3865c-fb6d-4cbc-9a30-49deace4f974_1352x752-f02b26a981.png)](https://substack.com/redirect/3623834f-93fd-4121-971f-fd63038e4783?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+---
+
+
+One of the more counterintuitive things about large language models is that the prompt contains almost none of the knowledge required to generate the response. A few words typed into ChatGPT can produce paragraphs of detailed, coherent text, not because the prompt contained that information but because the model has already absorbed vast amounts of language and knowledge during training. The prompt activates patterns that already exist inside the system. Remove that prior knowledge and the same prompt produces nothing at all.
+
+
+Reading works in much the same way. A text does not carry its meaning fully formed inside it. It relies on knowledge that already exists in the reader’s mind: vocabulary, background information, conceptual frameworks built over years of experience. When those structures are present, meaning emerges quickly and almost effortlessly. When they are absent, the words remain visible but the understanding never arrives.
+
+
+The parallel is not merely metaphorical. In cognitive psychology, [Walter Kintsch’s construction–integration model ](https://substack.com/redirect/451971ee-73e8-4e88-9c45-a059edb8ed21?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)describes comprehension as a process in which a text activates a network of possible meanings drawn from the reader's prior knowledge; the mind then settles on the interpretations that best fit. Large language models operate in a very similar way: a prompt activates learned associations and the system converges on the most coherent continuation. In both cases, the crucial ingredient is not the input but the knowledge already present in the system.
+
+
+---
+
+
+### “Teach big words to little kids, and do it interestingly.”
+
+
+In education, the idea that reading comprehension is a teachable, generic skill that can be applied to any given text is an error, but a natural one, which is partly what made it so durable. We observed what comprehension failure looked like: students who could not identify the main idea, who could not draw inferences, who could not synthesise information across paragraphs. And then we did something that felt entirely logical but was, in retrospect, a category error: we turned the description of the failure into the curriculum. We taught “main idea” identification, inferencing, synthesis etc. We built an entire instructional architecture from the *symptoms* of the problem rather than from its cause. The description of what students could not do was mistaken for an explanation of why they could not do it.
+
+
+For me, the deeper reason why strategy instruction fails to transfer is that what we call “strategies” are really meta-labels for underlying linguistic principles. You cannot summarise a passage if you do not understand the semantic relationships between its sentences. You cannot infer an author’s purpose if you do not know what half the words mean. You cannot “find the main idea” if the main idea is expressed in vocabulary that might as well be a foreign language. The strategy is downstream of the knowledge, not upstream of it. It is like teaching someone the rules of chess on a board where half the pieces are invisible. The rules are not the problem. The missing pieces are.
+
+
+One of the most powerful vehicles for helping students understand a text and also one of the most misunderstood, is vocabulary instruction. This point is brilliantly made by Isabel Beck who says that what we should do about this is *“Teach big words to little kids, and do it interestingly.”* The phrase is deceptively simple. What it recognises is that comprehension depends on the language students bring to a text. The size of a child's vocabulary is not a measure of how many words they have memorised but of how much of the world they have been taught.
+
+
+[![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/https%253A%252F%252Fsubstack-video.s3.amazonaws.com%252Fvideo_upload%252Fpost%252F189862166%252Fb37754d7-9133-4add-a5c8-9f6e106e4002%252-c62837bf90.png)](https://substack.com/redirect/cee3047f-519a-46ec-bff3-60ca1a03fd5d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+---
+
+
+## What a New Study Reveals
+
+
+A new[ meta-analysis](https://substack.com/redirect/7111330c-082c-4b6f-ade5-46b724caaf96?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) on reading comprehension that reexamined and reanalysed studies from three previous meta-analyses, breaking the results down by a distinction that turns out to be decisive: standardised assessments versus researcher-created measures. The headline finding is stark. Nearly all effect sizes shrank substantially when measured on standardised tests. Cognitive strategies, the bread and butter of comprehension instruction for the past thirty years, produced a weighted effect size of just 0.09. Metacognition strategies showed no significant effects at all. For anyone who has sat in a professional development session being told that teaching students to “learn about learning” or “monitor their own thinking” is the key to comprehension, this should be a sobering corrective.
+
+
+However, a surprising finding is that content instruction appeared to show no effect either. But this is where the picture requires a second, harder look. [Olivia Mullins](https://open.substack.com/users/347730018-olivia-mullins?utm_source=mentions) has published [a detailed response ](https://substack.com/redirect/3f7e29fb-69d5-483e-b7ec-9b04b9c5ed25?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)arguing that the collection of papers on content knowledge and comprehension included in Hansford et al. are simply not an appropriate set from which to draw conclusions about knowledge-building. Critical papers were excluded. Some included papers had dubious methodology. The data, she argues, needs to be taken in context, because the broader research base tells a rather different story.
+
+
+The meta-analysis told us something important about strategies. But its treatment of content and knowledge instruction is where we need Mullins’ corrective. And that corrective, as it turns out, reframes something much larger than a single study.
+
+
+---
+
+
+## But What About Fluency?
+
+
+There is an obvious objection here, and it deserves to be taken seriously. Reading comprehension does not rest on vocabulary alone. Fluency matters: the speed and accuracy with which a reader can process text. If decoding is slow and effortful, working memory is consumed by the mechanics of turning print into language, and there is nothing left over for meaning. [Hirsch put the problem precisely in 2003](https://substack.com/redirect/4de90a9c-3e94-46a8-a230-6baeb7b7fb5a?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs): if decoding does not happen quickly, the decoded material will be forgotten before it is understood. Anyone who has tried to follow a film in a language they half know will recognise this immediately; by the time you have translated one sentence, the next has already passed, and the connections between them dissolve.
+
+
+But here is what makes fluency an ally of the vocabulary argument rather than a rival to it. Fluency is not purely a decoding phenomenon. It is also a knowledge phenomenon. A reader who knows a domain reads that domain faster, not because their eyes move differently but because their mind can chunk familiar information into larger units. This is the lesson of [de Groot’s famous chess experiment](https://substack.com/redirect/9d0c8cb9-efb8-4d98-b3de-449fb1f35ad8?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs): grand masters can reconstruct a mid-game board from a five-second glance, not because they possess superior memory but because they recognise patterns that novices cannot see. Arrange the pieces randomly and the advantage vanishes. The “skill” was knowledge all along.
+
+
+Hirsch draws the analogy to reading directly: word knowledge speeds up word recognition, and world knowledge speeds up comprehension of textual meaning by offering a foundation for making inferences. The three factors, fluency, vocabulary, and domain knowledge, are not independent columns holding up the same roof. They are the same column, seen from different angles.
+
+
+[Spencer, Quinn, and Wagner](https://substack.com/redirect/5256af6a-acf0-4c50-8f51-1c57195190ad?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) confirmed this at enormous scale. They tested 425,000 children from first through third grade on decoding, vocabulary, and comprehension. Among those who had adequate decoding *and* adequate vocabulary, fewer than one per cent scored poorly on comprehension. Fewer than one in a hundred. Once the word-level problems are solved, the decoding and the vocabulary, comprehension takes care of itself in virtually every case. The finding does not diminish the importance of fluency. It clarifies its place: fluency is necessary but not sufficient, and in the presence of adequate vocabulary, it is almost always enough.
+
+
+However the bottleneck, for the vast majority of struggling readers, is not the speed at which they process words. It is whether they know what those words mean. And even within Hansford’s own data, [Willingham’s observation](https://substack.com/redirect/37d8dcf9-d8c8-45bf-b28e-43dd4b69d364?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) holds: students appear to gain all the benefits of strategy instruction after approximately ten hours, and increasing instructional time by as much as 400 per cent produces no further gains. [Rosenshine found](https://substack.com/redirect/9e65d0db-34ae-479f-b106-fd5097101444?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) that spending six classes on teaching comprehension skills had the same effect on reading comprehension as spending twenty-five.
+
+
+Strategies are not a deep competence that rewards sustained practice; they are a thin procedural layer that maxes out almost immediately. When you strip away the researcher-created measures, the flattering proximal tests, the assessments designed to detect exactly what was taught, strategy instruction produces almost nothing on the measures that matter.
+
+
+---
+
+
+## Knowledge-Building Is Not an Intervention
+
+
+But the meta-analysis did something else, something I think it perhaps did not intend. In its treatment of content instruction, it revealed a methodological bias so deep that it calls into question how we evaluate knowledge-building interventions altogether. This is where Mullins’ critique becomes essential. Her central argument deserves to be quoted at length:
+
+
+>
+
+* “Knowledge building is not a short intervention. In fact, it’s not an intervention at all. It’s a gradual, cumulative, lifelong process. We already understand that short bursts of content instruction will not affect general reading comprehension.”*
+
+
+I think this is a hugely important point and a big weakness in the science of learning as a field, which sees everything as an intervention but in a domain where the signal to noise ratio is often imperceptible. The entire architecture of the randomised controlled trial assumes that “content instruction” is a sort of treatment: something that can be administered in a controlled dose, measured against a control group, and evaluated after a fixed period. But knowledge does not work like a treatment. It compounds. It accretes. It builds the very architecture through which future comprehension becomes possible. To measure it as though it were a pill is to fundamentally misunderstand the mechanism.
+
+
+[Barbara Oakley has recently argued](https://substack.com/redirect/1eb6ca5f-fb8b-4cca-abe4-90bd3bfb40e7?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) for what she calls "cognitive realism": the principle that there are facts about how brains encode, consolidate, and retrieve information, and that any instructional framework which cannot be falsified by those facts is not a framework but an ideology. The deeper problem is categorical. Knowledge-building is not a strategy; it is what I have elsewhere called an *[instructional invariant](https://substack.com/redirect/98bde83f-17b5-40ef-979f-3f36fdfc4e95?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[:](https://substack.com/redirect/98bde83f-17b5-40ef-979f-3f36fdfc4e95?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) a condition, derived from how human cognition actually works, that must hold true continuously for learning to function. Invariants are not treatments to be tested; they are constraints to be maintained. Asking whether knowledge-building 'works' in a six-week trial is like testing whether foundations 'work' by building a house without them and checking if it falls down in the first month. The house might stand for six weeks. But it won’t stand for six years.
+
+
+Mullins identifies ten reasons to look beyond the meta-analysis, and several of them are damning. The content studies ranged from three days to one school year; averaging across these is like averaging the temperature of ice and boiling water and calling it warm. Important studies were excluded, including the [Romance and Vitale](https://substack.com/redirect/a3a21a4a-a45c-4445-94ec-ec3821a37476?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) work, perhaps the cleanest quasi-experimental studies we have, which produced an effect size of 0.56 after a full year of integrated science and literacy instruction. Many included studies used student-led approaches unlikely to build knowledge effectively. But here is the critical detail: even within Hansford’s own data, there was a significant positive correlation (r = 0.43) between instruction duration and effect size for content instruction. Content instruction was the *only* treatment where this relationship was found. For every other approach, including strategies, longer duration was associated with *smaller* effects. Knowledge-building was the only intervention that got stronger the longer it ran. This single finding should have been the headline of the paper.
+
+
+[![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F6466b9d0-134b-4685-8600-dbb64f20fcc5_1024x559-58b9cef24a.png)](https://substack.com/redirect/c1f12876-d195-4238-8ddf-51a1de39ae52?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+And what happens when we let that compound interest run? [As ](https://substack.com/redirect/91350904-1fdb-4d39-b76e-a698fef8f848?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)[Natalie Wexler](https://open.substack.com/users/13823451-natalie-wexler?utm_source=mentions) pointed out, a [rigorous study](https://substack.com/redirect/91350904-1fdb-4d39-b76e-a698fef8f848?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) of more than 2,000 students using Core Knowledge Language Arts, a curriculum that systematically builds knowledge from kindergarten, found that after four years of implementation, students from low-income families matched their higher-income peers on state reading comprehension tests. Four years. Not six weeks. The knowledge-building did not merely help; it closed the gap entirely. But you would never see that result in a study that measured outcomes after a single term.
+
+
+---
+
+
+## Drops in an Ocean
+
+
+But there is a complication, and it is one I am not entitled to avoid, because I believed it myself for years. If the problem is vocabulary, then surely the solution is to teach more vocabulary: pre-teach the key words before each text, drill Tier 2 lists, front-load definitions. This is the naive version of the argument, and it is also wrong.
+
+
+Direct vocabulary instruction produces meaningful effects on comprehension of texts containing the taught words. This much is well established. But [Cervetti and colleagues found in 2023](https://substack.com/redirect/6e6250dd-04d6-4913-bea7-7b0c8ac18ad1?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) that direct word teaching does not reliably generalise to untaught vocabulary breadth. You cannot simply pre-teach twenty words per week and expect comprehension to blossom across all texts. The words you teach help students read the passages that contain those specific words. They do not, on their own, build the kind of broad vocabulary knowledge that underpins general reading comprehension.
+
+
+The threshold research explains why this matters so acutely. [Laufer found in 1989](https://substack.com/redirect/89ae73d2-27ea-4126-829a-c9920c7956e1?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) that students need 95 to 98 per cent known-word coverage for comfortable comprehension. [Hu and Nation](https://substack.com/redirect/a2deb730-d048-4ff1-bd61-dfd383cb4b6f?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) raised that estimate in 2000 to 98 to 99 per cent for unassisted reading. When a student encounters a passage where even five per cent of the words are unknown, the signal-to-noise ratio is too low for any strategy to rescue meaning. The text becomes opaque. Not difficult, not challenging, but genuinely impenetrable.
+
+
+But here is the arithmetic that should trouble us. If a student needs to know 98 per cent of the words in a passage, and they are encountering academic texts with thousands of distinct word forms, and direct instruction of individual words does not generalise beyond the words taught, then the gap cannot be closed one word at a time. Schools teaching 300 to 400 Tier 2 words per year through explicit instruction are adding drops to an ocean. The scale of the problem dwarfs the scale of the solution.
+
+
+[![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F8dcd1b11-1ecd-4cb8-9b86-a0792042555f_2400x1350-0240028eca.png)](https://substack.com/redirect/87e7b02c-2f65-4f83-90d3-440b449e074a?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+So the question becomes: is there an approach to vocabulary instruction that gives us a better bang for our buck? which is multiplicative rather than additive? One that does not just teach individual words but teaches the *generative logic* from which families of words become comprehensible?
+
+
+---
+
+
+## Words Are the Visible Surface of Knowledge
+
+
+This is where vocabulary instruction and knowledge-building converge, and where a much more cohesive theory of how reading actually develops begins to emerge.
+
+
+Vocabulary does not live in word lists. It lives in schemas, in morphological families, in the accumulated residue of having learned about the world. To teach words well is to teach the content from which they derive their meaning. [Beck and McKeown’s](https://substack.com/redirect/a96b3bd7-6912-49ac-b357-e1c7727070bf?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) framework calls for six to twelve robust encounters before a word enters long-term usable vocabulary. Not flashcard reviews; encounters in context where the word does real semantic work. This only happens within content-rich curricula, across time, through accumulation.
+
+
+But it can also happen through morphology. [Nagy and Anderson estimated in 1984](https://substack.com/redirect/7c04fb69-5ee6-4a42-9c09-1f8be12e7220?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) that roughly 60 per cent of the new words students encounter in print have meanings that can be predicted from their morphological parts. Sixty per cent. That is not a marginal gain; it is the difference between a closed system and an open one. Lyn Stone, a linguist and literacy specialist, puts the principle sharply in *[Reading for Life](https://substack.com/redirect/6780192d-7cf9-4e8b-a118-b2bc902b61f4?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*: it would be impossible to teach the definition of every single word in English, but that does not mean we cannot teach children to be *generative*. Knowing how words work, having an understanding of a core of prefixes, roots, and suffixes, helps children generate the meaning of new words.
+
+
+[![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Ffb4e600b-6f7f-4e47-aa7d-d3144e635438_2816x1536-9a9bc76b7e.png)](https://substack.com/redirect/fa247a87-8a11-4800-a328-87daefc60d7e?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+So if the arithmetic of direct vocabulary instruction is so dispiriting, the question becomes whether there is an approach that teaches not just individual words but the generative logic from which families of words become comprehensible. Not 400 words a year, but the structural principles that unlock thousands. This is where the work of [Sean Morrisey](https://open.substack.com/users/87003212-sean-morrisey?utm_source=mentions) and the [Word Mapping Project](https://substack.com/redirect/c7704466-07c3-47d9-a783-4861259512af?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) offers something that the research literature demands but rarely provides: a concrete, classroom-tested illustration of what generative vocabulary instruction actually looks like.
+
+
+Morrisey’s approach centres on morphology matrices. Take the base *sect*, from Latin, meaning “cut.” Arrange its combinatorial possibilities: prefixes on the left (bi-, dis-, in-, inter-, mid-, sub-), suffixes on the right (-ion, -or, -ed, -ing, -cide, -vore, -ous, -al). Now give students the matrix and ask them to build words.
+
+
+[![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Ff71c3de8-2cdc-41b2-8776-4bd40c15f7fe_1176x670-d9e1d4a950.png)](https://substack.com/redirect/18e82672-86ee-4345-a361-22c27d316685?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+What emerges is not a vocabulary list but a generative system. From a single base, properly understood, students can construct *bisect*, *dissect*, *insect*, *intersection*, *midsection*, *subsection*, *insecticide*, *insectivorous*, and dozens more. They are not memorising words. They are learning the code from which words are made.
+
+
+The pedagogical architecture is as important as the morphological content. Students begin by investigating the matrix: working alone or with a partner, building as many words as possible, writing word sums on the left (bi + sect + ion) and the whole word on the right (bisection). This is retrieval-generative practice, not passive reception. The teacher lesson includes full morphological breakdowns with definitions rooted in the base meaning: *bi + sect = to cut into two parts*; *dis + sect = to cut apart*; *in + sect = literally “cut into,” a segmented creature*. The etymology is not decoration. It is the explanatory mechanism. Students learn *why* words mean what they mean, not just that they do.
+
+
+Extended vocabulary passages then group semantically related words into clusters. Not isolated definitions but constellations of near-synonyms that force discrimination. One passage, for instance, presents *arduous*, *strenuous*, *laborious*, *gruelling*, and *demanding* alongside *effortless*, *smooth*, *unchallenging*, *painless*, and *seamless*. Students partner up, reread the passage two to three times, then work on questions that require distinguishing nuance between words that share a broad category but differ in shade and weight.
+
+
+This for me is Beck and McKeown’s “robust encounters” principle made concrete: words appear in context, doing real semantic work, and students must think about the differences between them, not just their shared meaning.
+
+On subsequent days, retrieval takes unexpected forms. “Would you rather” questions: *Would you rather diminish the amount of broccoli on your plate or diminish the number of commercials in a show?* These are low-stakes, high-engagement, and they force students to use the word in a new context, exactly the kind of productive use that moves vocabulary from receptive recognition to active command. Reader’s theater scripts feature characters *named* after vocabulary words: Stricken, Protected, Bickering, Accord. The words become agents in a story. Students cannot perform the scene without internalising what the words mean.
+
+
+But the finding that matters most, the one that answers the Cervetti problem, is this: Morrisey’s standardised spelling test data (Test of Written Spelling, 5th Edition) showed substantial growth over just four months, and crucially, on words that were *not specifically taught*.
+
+
+This is the transfer that Cervetti’s research says does not happen with standard direct vocabulary instruction. Morphological instruction generates transfer because it teaches the underlying code, not individual items. A student who understands that *sect* means “cut” and that *-ion* makes a noun does not need to be explicitly taught *dissection*. They can construct its meaning from its parts. This is the difference between teaching a student a hundred fish and teaching them the structure of aquatic ecosystems.
+
+
+---
+
+
+### But What About Critical Thinking?
+
+
+There is one more thing that needs to be said, because the argument above invites a misreading I want to anticipate. Nothing here suggests that inference, critical analysis, or the capacity to weigh competing perspectives are unimportant. They are profoundly important. But my claim is that they are *dependent*: they require a substrate of organised knowledge before they can function. You cannot think critically about the causes of the First World War if you do not know what the causes of the First World War were. You cannot weigh both sides of an argument about gene editing if the word *genome* is a stranger to you. The higher-order thinking we rightly value is not an alternative to knowledge; it is what knowledge makes possible.
+
+
+Nor does the argument reduce to “teach more facts.” Isolated facts are almost as instructionally inert as isolated strategies. What matters is *connected *knowledge: words understood in relation to other words, concepts organised into schemas, information structured so that new learning has something to attach to. This is why morphological instruction works where word lists do not, and why content-rich curricula outperform topic-of-the-week approaches. The goal is not to fill children’s heads with disconnected information. It is to build the architecture of understanding, so that when they are finally asked to infer, to analyse, to synthesise, they have something to infer *from*.
+
+
+If higher-order thinking depends on knowledge, and knowledge depends on vocabulary, then the students with the smallest vocabularies are not merely behind in reading. They are being locked out of the very capacities we claim to value most: the ability to reason, to question, to see a problem from more than one angle. A child who cannot access the language of a debate cannot participate in it. A child who does not know what the words mean cannot think critically about what they say. The vocabulary gap is not just a literacy problem. It is, at bottom, an equity problem, and it is one that begins earlier and compounds faster than most people realise.
+
+
+---
+
+
+### Running the Same Race From a Different Starting Line
+
+
+Which brings me finally to the students for whom all of this matters most. [Hart and Risley found in 1995](https://substack.com/redirect/06493bfc-bccc-4000-82fc-3bba85f2cef8?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) that vocabulary exposure gaps exceed thirty million words between socioeconomic groups by age three. The vocabulary gap is visible by the end of Grade 2, often exceeding 3,000 root words between the highest and lowest performing groups. After that point, low-vocabulary children may grow at the same rate as their peers, but they are running the same race from a different starting line. Before age ten, more than 80 per cent of words are learned through direct explanation, not inference from reading. Wider reading alone is insufficient for children from low-income backgrounds. The school curriculum is their primary source of the background knowledge and word meanings that more advantaged children absorb at home.
+
+
+The sociologist [James S. Coleman](https://substack.com/redirect/110273ba-62bb-417d-933e-0c8ab543ed4b?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs), after spending a career examining the characteristics of effective schools, concluded that the most important feature of a good school programme is that it makes good academic use of school time. The reason is as simple as it is consequential: for disadvantaged children, school time is the only academic learning time, whereas advantaged students learn a great deal outside of school. A good programme is inherently compensatory, because it has a bigger effect on those who depend on it most. Coleman’s principle reframes the vocabulary gap not as a problem of ability but as a problem of exposure, and it places the responsibility squarely on what schools choose to do with the hours they have.
+
+
+The point that should keep curriculum designers awake at night is that even if content instruction truly had no effect on comprehension, which the evidence does not show, knowledge-building curricula would still be the right choice. Integrated content instruction does not hurt comprehension. It does improve content knowledge, vocabulary, and writing. There is simply no competing coherent argument for scattered, content-poor approaches to literacy instruction.
+
+
+The students most harmed by the strategy-heavy, knowledge-light approach are the ones who arrive at school with the smallest vocabularies. They are the ones for whom the school curriculum is not a supplement but a lifeline: the primary means by which they will acquire the words and the knowledge that make comprehension possible. To deny them systematic, cumulative, content-rich instruction, instruction that builds morphological knowledge, that teaches the generative logic of language, that treats vocabulary as knowledge rather than a checklist, is to treat a knowledge deficit as a skills deficit.
+
+
+---
+
+
+The Learning Dispatch is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+
+[![](_assets/20260305-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Reading%20Comprehension%20Is%20Not%20a%20Skill/https%253A%252F%252Fsubstack.com%252Ficon%252FLucideCheck%253Fv%253D4%2526height%253D40%2526fill%253Dtransparent%2526stroke%253D%252523FF6719%2526stro-3bff44912e.6)Subscribed](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2FjY291bnQiLCJwIjoxODk4NjIxNjYsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc3MjcxNDMxMSwiZXhwIjoyMDg4MjkwMzExLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.kFXFTljAFGZZxJkjbvrwb5ci8S-y2dQHukeSnzsmUM8?)
+
+
+##
+
+
+#### Invite your friends and earn rewards
+
+
+If you enjoy The Learning Dispatch, share it with your friends and earn rewards when they subscribe.
+
+
+[Invite Friends](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2xlYWRlcmJvYXJkP3JlZmVycmVyX3Rva2VuPTFyemF1diZyPTFyemF1diZ1dG1fY2FtcGFpZ249ZW1haWwtbGVhZGVyYm9hcmQiLCJwIjoxODk4NjIxNjYsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc3MjcxNDMxMSwiZXhwIjoyMDg4MjkwMzExLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.Mv_9xPi_eBvaru9NK_KOq5Yaw64kz4_QWzcC9w3-y9w?&utm_source=substack&utm_medium=email&utm_content=postcta)
+
+
+[Like](https://substack.com/app-link/post?publication_id=3061248&post_id=189862166&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4OTg2MjE2NiwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3NzI3MTQzMTEsImV4cCI6MTc3NTMwNjMxMSwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.18RJYm2iBg6QYhgAHqusLbDux5kfnODtkxYqy9pg6yc&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[Comment](https://substack.com/app-link/post?publication_id=3061248&post_id=189862166&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4OTg2MjE2NiwiaWF0IjoxNzcyNzE0MzExLCJleHAiOjE3NzUzMDYzMTEsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.SC9OvW2d7M8_FIlcKWR9aFwOYMS9l1ftuw4bK5dQzzw&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[Restack](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3AvcmVhZGluZy1jb21wcmVoZW5zaW9uLWlzLW5vdC1hLXNraWxsP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtcmVzdGFjay1jb21tZW50JmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQmcj0xcnphdXYmdG9rZW49ZXlKMWMyVnlYMmxrSWpveE1EYzBOakk0TXprc0luQnZjM1JmYVdRaU9qRTRPVGcyTWpFMk5pd2lhV0YwSWpveE56Y3lOekUwTXpFeExDSmxlSEFpT2pFM056VXpNRFl6TVRFc0ltbHpjeUk2SW5CMVlpMHpNRFl4TWpRNElpd2ljM1ZpSWpvaWNHOXpkQzF5WldGamRHbHZiaUo5LlNDOU92VzJkN004X0ZJbGNLV1I5YUZ3T1lNUzlsMWZ0dXc0Yks1ZFF6enciLCJwIjoxODk4NjIxNjYsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc3MjcxNDMxMSwiZXhwIjoyMDg4MjkwMzExLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.9HYLqZl-ZYyXAobk6Fxwepom7KohVAHmQb_HdyjUwIA?&utm_source=substack&utm_medium=email)
+
+
+© 2026 Carl Hendrick
+548 Market Street PMB 72296, San Francisco, CA 94104
+[Unsubscribe](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakU0T1RnMk1qRTJOaXdpYVdGMElqb3hOemN5TnpFME16RXhMQ0psZUhBaU9qRTRNRFF5TlRBek1URXNJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2laR2x6WVdKc1pWOWxiV0ZwYkNKOS5vUkw2N05hNlNZak1PUEZoU2xhSE1taU82UzBuVnlYcGhJNFRRQzJySGcwIiwicCI6MTg5ODYyMTY2LCJzIjozMDYxMjQ4LCJmIjpmYWxzZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3NzI3MTQzMTEsImV4cCI6MjA4ODI5MDMxMSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.g0esCR8RfeK45P-10Gj-LiSByS-uDt_tYWJXePHhoEY?)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1uZXdzdGFydHhtQGljbG91ZC5jb20mcj0xcnphdXYiLCJwIjoxODk4NjIxNjYsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc3MjcxNDMxMSwiZXhwIjoyMDg4MjkwMzExLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.9NW61fY2VhLPhYKsaOWZUPNgvYhoJ97t3_lz2BQLsss?)

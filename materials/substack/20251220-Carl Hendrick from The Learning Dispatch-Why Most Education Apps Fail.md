@@ -16,27 +16,174 @@ tags:
 
 ---
 
-![](_assets/20251220-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Why%20Most%20Education%20Apps%20Fail/open-b1442e85b0.gif)
+Forwarded this email? [Subscribe here](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xcnphdXYmbmV4dD1odHRwcyUzQSUyRiUyRmNhcmxoZW5kcmljay5zdWJzdGFjay5jb20lMkZwJTJGd2h5LW1vc3QtZWR1Y2F0aW9uLWFwcHMtZmFpbCIsInAiOjE4MjExMzQ4NiwicyI6MzA2MTI0OCwiZiI6dHJ1ZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3NjYyMjExMTQsImV4cCI6MjA4MTc5NzExNCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.W5P-7RUvZhnoaxBKQrCxHNrNLPtzXrvlWtscigv3Q7I?) for more
 
-The non-negotiable conditions for learning don't care whether
-instruction comes from a teacher, a parent, or an algorithm but they do
-care about certain invariants.
 
-͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­
+[![](_assets/20251220-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Why%20Most%20Education%20Apps%20Fail/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa56d5196-0834-44b0-afb1-b9bb512a5047_1162x202-7c9cbec5bf.png)](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3Avd2h5LW1vc3QtZWR1Y2F0aW9uLWFwcHMtZmFpbD91dG1fY2FtcGFpZ249ZW1haWwtaGFsZi1wb3N0JnI9MXJ6YXV2JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakU0TWpFeE16UTROaXdpYVdGMElqb3hOelkyTWpJeE1URTBMQ0psZUhBaU9qRTNOamc0TVRNeE1UUXNJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS5PbHlJQVo4elBHRF9XMDdaejhTbG1ad1JTQzZRal9ERENJODFFb3FRNUZNIiwicCI6MTgyMTEzNDg2LCJzIjozMDYxMjQ4LCJmIjp0cnVlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc2NjIyMTExNCwiZXhwIjoyMDgxNzk3MTE0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.u0L9SyeY9rVSQUArw5qkD4KdWbdpHdmSCuKnDoHNLK0?)
 
-[TABLE]
 
-![](_assets/20251220-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Why%20Most%20Education%20Apps%20Fail/open-b1442e85b0.gif)![](_assets/20251220-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Why%20Most%20Education%20Apps%20Fail/eJxM0EHOozAMBeDT_NkNskMIYZGzoOCYNiokVXA6w-1HpV3822f56dOjIHwr9fTPcoiKvp8WcGQVexyt1RoRB8V7SNt848w1CMc5yK9rD6juHkazWoJhZDaO-98b3d9d20e.gif)
+# [Why Most Education Apps Fail ](https://substack.com/app-link/post?publication_id=3061248&post_id=182113486&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4MjExMzQ4NiwiaWF0IjoxNzY2MjIxMTE0LCJleHAiOjE3Njg4MTMxMTQsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.OlyIAZ8zPGD_W07Zz8SlmZwRSC6Qj_DDCI81EoqQ5FM)
+
+
+### The non-negotiable conditions for learning don't care whether instruction comes from a teacher, a parent, or an algorithm but they do care about certain invariants.
+
+
+[Carl Hendrick](https://substack.com/@carlhendrick)
+
+
+Dec 20
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=182113486&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4MjExMzQ4NiwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3NjYyMjExMTQsImV4cCI6MTc2ODgxMzExNCwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.OHvqzB17n6tnPjtce0NXsHetfyqUWwQwf01FmfUyss8&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=182113486&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4MjExMzQ4NiwiaWF0IjoxNzY2MjIxMTE0LCJleHAiOjE3Njg4MTMxMTQsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.OlyIAZ8zPGD_W07Zz8SlmZwRSC6Qj_DDCI81EoqQ5FM&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=182113486&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4MjExMzQ4NiwiaWF0IjoxNzY2MjIxMTE0LCJleHAiOjE3Njg4MTMxMTQsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.OlyIAZ8zPGD_W07Zz8SlmZwRSC6Qj_DDCI81EoqQ5FM)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3Avd2h5LW1vc3QtZWR1Y2F0aW9uLWFwcHMtZmFpbD91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9MXJ6YXV2JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakU0TWpFeE16UTROaXdpYVdGMElqb3hOelkyTWpJeE1URTBMQ0psZUhBaU9qRTNOamc0TVRNeE1UUXNJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS5PbHlJQVo4elBHRF9XMDdaejhTbG1ad1JTQzZRal9ERENJODFFb3FRNUZNIiwicCI6MTgyMTEzNDg2LCJzIjozMDYxMjQ4LCJmIjp0cnVlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc2NjIyMTExNCwiZXhwIjoyMDgxNzk3MTE0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.K69Sts3RyBk5EPz872n0r3pvYD63LJVM2MmCMBKzrug?&utm_source=substack&utm_medium=email)
+
+
+[
+
+
+READ IN APP](https://open.substack.com/pub/carlhendrick/p/why-most-education-apps-fail?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app)
+
+
+*There is a peculiar form of self-deception that pervades the educational technology industry. You see a lot of sleek dashboards showing progress bars inching towards completion, cheerful notifications celebrating “streaks” maintained, parent portals displaying statistics that suggest something meaningful is occurring. The apps look like instruction. They have lessons, quizzes, feedback, rewards. They possess all the surface features of teaching. What they often lack are knowledge of the [deeper conditions under which learning actually occurs;](https://substack.com/redirect/158f893f-7bca-475e-91be-ea481763a2b6?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) instructional invariants. *
+
+
+### What is an Instructional Invariant?
+
+
+In engineering, an invariant is a condition that must remain true for a system to function correctly. Violate the invariant, and the system fails, regardless of how elegant its other features might be. A bridge can be aesthetically beautiful, use the finest materials, and employ the most innovative design principles, but if it violates certain structural invariants, it will collapse. The invariants don’t negotiate. They don’t care about your intentions.
+
+
+Instruction has invariants too. There are non-negotiable conditions for learning to occur reliably, conditions that emerge not from pedagogical fashion but from the architecture of human cognition itself. Most educational apps violate these invariants routinely, systematically, and, one suspects, knowingly. They do so because compliance with these invariants conflicts with the metrics that drive their business models: session time, completion rates, user satisfaction, and the holy grail of engagement.
+
+
+I’m working on a framework of 15–20 instructional invariants that are developer-facing and invariant-anchored, intended to translate learning constraints into concrete design rules rather than UX preferences. Here are 3 examples:
+
+
+### Instructional Invariant 1: The Target Skill Must Be the Only Path to Success
+
+
+Consider a reading app that displays the word “elephant” alongside a picture of an elephant. The child bypasses the phonetic challenge entirely, simply matching the picture to the shape of the word. The app registers “success!” The dashboard shows progress. But what actually happened? Did the child decode the word, attending to the letters and their sounds, building the phonemic associations that constitute actual reading? Or did they simply match an image to a familiar shape, bypassing the very skill the app purports to teach?
+
+
+The app cannot tell. More troublingly, it often does not try to tell. The distinction is invisible to the metric that matters: task completion.
+
+
+[![](_assets/20251220-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Why%20Most%20Education%20Apps%20Fail/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F509721a3-5696-45a7-9fb5-5826f99e7dbb_1350x860-4be1aca35a.png)](https://substack.com/redirect/8f8efc05-eaf5-4849-8f43-acf3a419308e?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This invariant, that the target skill must be the only path to success, is violated constantly in educational software. If a task can be completed without using the skill you are teaching, some learners will find that other path. They will discover, through the natural efficiency of the human mind, that there are easier routes to the reward. And why wouldn’t they? We are cognitive misers by design, conserving mental effort wherever possible. An app that allows shortcuts will see shortcuts taken.
+
+
+The consequence is a kind of instructional theatre. Learning *appears* to happen. Data accumulates. Progress is logged. But the cognitive architecture that would constitute genuine skill acquisition remains unbuilt. The learner advances through the curriculum carrying gaps they do not know they have, gaps that will compound as more complex material assumes mastery of what was never mastered.
+
+
+### Instructional Invariant 2: Mastery Before Progress
+
+
+Prerequisites are not optional. This seems obvious when stated baldly, yet the entire architecture of most educational software is designed to violate it. Learners who advance with gaps will struggle with everything built upon those gaps. A child who moves to two-digit addition without having automated single-digit number bonds will experience what looks like “struggling with maths.” It is actually “moved forward before ready.”
+
+
+[![](_assets/20251220-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Why%20Most%20Education%20Apps%20Fail/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F4486cbde-6a6f-4079-a828-c21cfcca027e_1350x860-c254f0cb6b.png)](https://substack.com/redirect/eaab1858-03d6-4fa3-baad-ecef7cb817b1?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+The reason apps violate this invariant is straightforward: mastery gates cause friction. Users get stuck. Parents complain. Completion rates drop. The business model depends on smooth progression, on the feeling of advancement, on the dopamine hit of moving to the next level. Genuine mastery requirements create frustration, and frustration creates churn.
+
+
+But learning is not supposed to feel frictionless. The desirable difficulties that research has identified, the spacing, interleaving, and retrieval practice that produce durable learning, are difficult precisely because they demand cognitive effort. An app optimised to remove friction is, almost by definition, an app optimised to remove learning.
+
+
+### Instructional Invariant 3: Active Response Required
+
+
+Learning requires retrieval, production, generation. Information that washes over a passive learner leaves almost no trace in long-term memory. This is perhaps the most robustly established finding in cognitive psychology, replicated across contexts and populations for over a century. Yet educational apps love passive formats because they are low-friction. Users do not get frustrated. Session times stay high. Paying parents see their children “engaged.”
+
+
+[![](_assets/20251220-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Why%20Most%20Education%20Apps%20Fail/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F30c822a2-3c1d-42fd-89cc-5ad33566078a_1084x656-c73db836a9.png)](https://substack.com/redirect/9af8ef80-c3d2-4e49-93a1-65d53f3f2d44?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+Clicking “Next” after watching a video is not learning. Selecting an answer from a multiple-choice array is a pale shadow of producing that answer from memory. Recognising a correct response and generating a correct response are fundamentally different cognitive acts, the former requiring far less mental effort and producing far less durable encoding.
+
+
+But session time is not learning time. An hour of clicking, watching, and recognising can involve almost zero actual cognitive transformation. The child appears busy. The app appears effective. The metrics appear healthy. The learning does not appear at all.
+
+
+---
+
+
+### The Business Model Problem
+
+
+Why do apps violate these invariants with such consistency? Because compliance conflicts with every metric they optimise for. Requiring the target skill as the only path to success makes tasks harder and failure more common. Enforcing mastery before progress creates bottlenecks and frustration. Demanding active production rather than passive consumption increases cognitive load and reduces session duration.
+
+
+The incentive structure is almost perfectly misaligned with the conditions for learning. Apps are optimised for engagement, personalisation, smooth user experience, motivation, and time on task. These are not bad things in themselves, but they are not learning. They are, at best, preconditions for learning, and at worst, substitutes that create the illusion of education while the substance evaporates.
+
+
+Consider the audit any parent might conduct on their child’s learning app. Can tasks be completed without the target skill? Are multiple new concepts introduced simultaneously, violating the limits of working memory? Can learners skip ahead without demonstrating mastery? Are they watching or actually producing? Does the feedback tell them what went wrong or merely invite them to “try again”? Does the practice bear any resemblance to the actual performance the skill is meant to enable?
+
+
+Most apps fail most of these checks. That is why most apps do not produce reliable learning.
+
+
+### Learning is a constrained process
+
+
+The deeper issue is not that app designers are incompetent or malicious. Many are genuinely trying to improve education. The issue is that they are attempting to innovate their way around constraints that do not permit innovation around them. You can innovate endlessly within the instructional invariants. You can find clever ways to make mastery requirements feel less punishing, to design active production tasks that are engaging, to create assessments that cannot be gamed. But you cannot design around the invariants themselves.
+
+
+Learning is a constrained process. It only occurs when certain conditions are met. These conditions emerge from the structure of human memory, attention, and cognition. They do not care whether instruction is delivered by a teacher in a classroom, a parent at a kitchen table, or an algorithm on a tablet. They simply are.
+
+
+The educational technology industry would benefit enormously from a kind of humility that is currently in short supply: the recognition that certain constraints are not problems to be solved but parameters to be respected. The apps that will actually work, that will produce genuine learning at scale, will be those that take these invariants as their starting point rather than as obstacles to user experience.
+
+
+Until then, we will continue to see dashboards full of progress, children full of confidence, and minds full of gaps they do not know they carry.
+
+
+---
+
+
+This need not be the final word. I am currently working with an amazing group of learning scientists and developers at Alpha school (more on this in due course) on precisely this: trying to solve the problem of designing adaptive learning systems that honour rather than violate the instructional invariants, that treat cognitive constraints as design specifications rather than obstacles to user experience.
+
+
+The challenge is considerable, but so is the opportunity. I am cautiously optimistic. The invariants do not care whether instruction comes from a teacher or an algorithm; they care only that the conditions for learning are met. A set of apps that meets them could be potentially transformative.
+
+
+---
+
+
+The Learning Dispatch is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+
+[Upgrade to paid](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZjYXJsaGVuZHJpY2suc3Vic3RhY2suY29tJTJGcCUyRndoeS1tb3N0LWVkdWNhdGlvbi1hcHBzLWZhaWwmcj0xcnphdXYmdG9rZW49ZXlKMWMyVnlYMmxrSWpveE1EYzBOakk0TXprc0ltbGhkQ0k2TVRjMk5qSXlNVEV4TkN3aVpYaHdJam94TnpZNE9ERXpNVEUwTENKcGMzTWlPaUp3ZFdJdE16QTJNVEkwT0NJc0luTjFZaUk2SW1Ob1pXTnJiM1YwSW4wLmkwSG1qY18tcl9kNldCTnVYZ000b2dmZHVORW1McTBQVU5CcldiV1pzc1UiLCJwIjoxODIxMTM0ODYsInMiOjMwNjEyNDgsImYiOnRydWUsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzY2MjIxMTE0LCJleHAiOjIwODE3OTcxMTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.T2-ut3YJI-AR7XAXpOn7UXp4jCe_e-TqXsRtzF7I2sU?&utm_medium=email&utm_source=subscribe-widget-preamble&utm_content=182113486)
+
+
+You're currently a free subscriber to [The Learning Dispatch](https://substack.com/redirect/d01efc13-65dd-4a43-8ab3-f22c4eaa41fe?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZjYXJsaGVuZHJpY2suc3Vic3RhY2suY29tJTJGcCUyRndoeS1tb3N0LWVkdWNhdGlvbi1hcHBzLWZhaWwmcj0xcnphdXYmdG9rZW49ZXlKMWMyVnlYMmxrSWpveE1EYzBOakk0TXprc0ltbGhkQ0k2TVRjMk5qSXlNVEV4TkN3aVpYaHdJam94TnpZNE9ERXpNVEUwTENKcGMzTWlPaUp3ZFdJdE16QTJNVEkwT0NJc0luTjFZaUk2SW1Ob1pXTnJiM1YwSW4wLmkwSG1qY18tcl9kNldCTnVYZ000b2dmZHVORW1McTBQVU5CcldiV1pzc1UiLCJwIjoxODIxMTM0ODYsInMiOjMwNjEyNDgsImYiOnRydWUsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzY2MjIxMTE0LCJleHAiOjIwODE3OTcxMTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.T2-ut3YJI-AR7XAXpOn7UXp4jCe_e-TqXsRtzF7I2sU?&utm_source=substack&utm_medium=email&utm_content=postcta)
+
+
+[Upgrade to paid](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZjYXJsaGVuZHJpY2suc3Vic3RhY2suY29tJTJGcCUyRndoeS1tb3N0LWVkdWNhdGlvbi1hcHBzLWZhaWwmcj0xcnphdXYmdG9rZW49ZXlKMWMyVnlYMmxrSWpveE1EYzBOakk0TXprc0ltbGhkQ0k2TVRjMk5qSXlNVEV4TkN3aVpYaHdJam94TnpZNE9ERXpNVEUwTENKcGMzTWlPaUp3ZFdJdE16QTJNVEkwT0NJc0luTjFZaUk2SW1Ob1pXTnJiM1YwSW4wLmkwSG1qY18tcl9kNldCTnVYZ000b2dmZHVORW1McTBQVU5CcldiV1pzc1UiLCJwIjoxODIxMTM0ODYsInMiOjMwNjEyNDgsImYiOnRydWUsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzY2MjIxMTE0LCJleHAiOjIwODE3OTcxMTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.T2-ut3YJI-AR7XAXpOn7UXp4jCe_e-TqXsRtzF7I2sU?&utm_source=substack&utm_medium=email&utm_content=postcta)
+
+
+[Like](https://substack.com/app-link/post?publication_id=3061248&post_id=182113486&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4MjExMzQ4NiwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3NjYyMjExMTQsImV4cCI6MTc2ODgxMzExNCwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.OHvqzB17n6tnPjtce0NXsHetfyqUWwQwf01FmfUyss8&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[Comment](https://substack.com/app-link/post?publication_id=3061248&post_id=182113486&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE4MjExMzQ4NiwiaWF0IjoxNzY2MjIxMTE0LCJleHAiOjE3Njg4MTMxMTQsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.OlyIAZ8zPGD_W07Zz8SlmZwRSC6Qj_DDCI81EoqQ5FM&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[Restack](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3Avd2h5LW1vc3QtZWR1Y2F0aW9uLWFwcHMtZmFpbD91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9MXJ6YXV2JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakU0TWpFeE16UTROaXdpYVdGMElqb3hOelkyTWpJeE1URTBMQ0psZUhBaU9qRTNOamc0TVRNeE1UUXNJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS5PbHlJQVo4elBHRF9XMDdaejhTbG1ad1JTQzZRal9ERENJODFFb3FRNUZNIiwicCI6MTgyMTEzNDg2LCJzIjozMDYxMjQ4LCJmIjp0cnVlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc2NjIyMTExNCwiZXhwIjoyMDgxNzk3MTE0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.K69Sts3RyBk5EPz872n0r3pvYD63LJVM2MmCMBKzrug?&utm_source=substack&utm_medium=email)
+
+
+© 2025 Carl Hendrick
+548 Market Street PMB 72296, San Francisco, CA 94104
+[Unsubscribe](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakU0TWpFeE16UTROaXdpYVdGMElqb3hOelkyTWpJeE1URTBMQ0psZUhBaU9qRTNPVGMzTlRjeE1UUXNJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2laR2x6WVdKc1pWOWxiV0ZwYkNKOS4tTmlZWDg1R0p0eU9CMHF4ZWFIdktOdU40ajNpVFF4dXdhamNFc09xRmQ4IiwicCI6MTgyMTEzNDg2LCJzIjozMDYxMjQ4LCJmIjp0cnVlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc2NjIyMTExNCwiZXhwIjoyMDgxNzk3MTE0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.HERDnrlXSWCL3uP52rlwnC_ZNi92r2VMdongqVqDp3Y?)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1uZXdzdGFydHhtQGljbG91ZC5jb20mcj0xcnphdXYiLCJwIjoxODIxMTM0ODYsInMiOjMwNjEyNDgsImYiOnRydWUsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzY2MjIxMTE0LCJleHAiOjIwODE3OTcxMTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.4okIe-AZFIovHayW199BJ7opv4Q2AD3rfvGgXC4lif8?)

@@ -16,23 +16,23 @@ tags:
 
 ---
 
-￼
+
 
 Forwarded this email? Subscribe here for more
-￼
+
 The Architecture of Learning: Complexity From Simplicity
 Near Decomposition is a Fundamental Condition of Learning
 CARL HENDRICK
 JAN 31
  
-￼
 
-￼
 
-￼
 
-￼
-READ IN APP￼
+
+
+
+
+READ IN APP
  
 One of the most persistent myths in education is that complex skills are irreducibly complex. That reading, writing, problem solving, critical thinking are unified or holistic constructs that resist being broken down into constituent parts and must be absorbed whole or not at all. That if you try to take them apart, you somehow destroy the very thing you are trying to cultivate.
 This belief is usually framed as humane or naturalistic, a defence of richness against reduction. This belief is the intellectual foundation of the now widely discredited whole language movement, later rebranded as balanced literacy, with its suspicion of decomposition and its faith that immersion in rich texts would allow the parts to organise themselves.
@@ -42,7 +42,7 @@ Simon illustrates this with a thought experiment. Imagine a building with perfec
 After a few hours, the cubicles within each room will have reached a common temperature, but there may still be large differences between rooms. After several days, the entire building will approach uniform temperature. The internal equilibration happens fast; the cross-boundary equilibration happens slowly. This temporal separation is the signature of near decomposability.
 Simon’s point is that in complex systems, parts can be understood and stabilised locally before they must be coordinated globally. In the short run, each subsystem behaves largely independently of the others; in the long run, the system holds together because those subsystems influence one another only in broad, aggregate ways.
 
-￼
+
 
 Near Decomposability: Subsystems talk to themselves more than each other.
 Put simply, you can understand what is happening inside a subsystem without needing to track every detail of what is happening elsewhere. You do not need to model the entire building to predict how quickly the cubicles in Room 3 will equilibrate. And when you do turn to the building as a whole, you need only the average temperature of each room, not the moment by moment fluctuations within them. The hierarchy simplifies. Information compresses. Analysis becomes possible.
@@ -54,13 +54,13 @@ But the interaction between vocabulary and domain knowledge, while real, is slow
 This is what makes instruction possible. If reading comprehension were not nearly decomposable, if every skill depended on every other skill with equal immediacy, instruction would be hopeless. There would be no place to begin, no component to isolate, no subassembly to stabilise before moving to the next. We could only gesture at the whole and hope.
 The curriculum would become an Escher staircase: appearing to ascend while somehow returning to where it began, each step logically connected to the next but the whole structure impossible. Students would climb perpetually without rising. Teachers would teach perpetually without advancing. The architecture would be elegant, coherent, and utterly untraversable.
 
-￼
+
 
 Relativity, by M. C. Escher. Lithograph, 1953.
 Simon notes that "for a tolerable description of reality only a tiny fraction of all possible interactions needs to be taken into account". This "Empty World" hypothesis is the reason a teacher can focus on a phonics worksheet without the student needing to understand the global themes of the book simultaneously.
 A well designed curriculum respects the architecture of the domain. It identifies the subsystems whose internal interactions are dense, teaches within them until something stable has been built, and only then asks learners to manage the slower, more aggregate connections between them. Phonemic awareness before decoding. Decoding before fluency. Vocabulary and background knowledge developed in parallel, then woven together in increasingly complex texts. The sequence is not arbitrary; it follows from the structure of the skill itself.
 
-￼
+
 
 Herb Simon
 In 1973, Simon returned to the question of complexity, this time asking how problem solvers manage domains that resist formal definition. His answer was characteristically precise. The thing that makes a problem what Simon called “ill structured” is not that it lacks structure altogether, but that its structure must be discovered and rediscovered as the solver proceeds.
@@ -78,12 +78,12 @@ Whenever I encounter this topic of how knowledge is structured, I always return 
 In his 1658 treatise, The Garden of Cyrus, Browne offers a mystical and proto-scientific resonance with Simon’s idea of near-decomposability. While Simon focused on how complex systems remain stable through hierarchical "sub-assemblies," Browne argued that the entire universe is held together by a single, recurring "sub-assembly": the Quincunx (an arrangement of five points, like the five-dot side of a die).
 He was mocked for it, and The Garden of Cyrus remains one of the strangest books in English. But the idea is an important one: that complexity is not formless. It has a shape. And the shape recurs.
 
-￼
+
 
 Frontispiece to The Garden of Cyrus (1658). The Latin text, from Quintilian's Institutio Oratoria, translates: "What is more beautiful than the quincunx, that, from whatever direction you regard it, presents straight lines?"[
 Browne was not alone in this intuition. The same conviction, that hidden structures underlie apparent chaos, surfaces again and again across intellectual history. Goethe spent decades searching for what he called the Urpflanze, the archetypal plant from which all botanical forms could be derived: a single organisational principle manifesting in endless variation. He never found it literally, but the search led him to morphology, the study of how forms transform while preserving deeper structural relationships. Linnaeus had classified plants by surface features; Goethe wanted to understand the grammar beneath the vocabulary
 
-￼
+
 
 12th-century Cosmatesque mosaic in the Cappella Palatina, Palermo, Sicily
 Sebald helps make visible something that Simon formalised and Browne intuited: that complex understanding grows through patterned recurrence, not total integration from the outset. We do not learn by holding everything in mind at once. We learn by stabilising parts, noticing echoes, and slowly building higher order structure. Seen this way, decomposition is not opposed to richness. It is what allows richness to be perceived at all.
@@ -92,7 +92,7 @@ The Grain Size Conundrum
 Now although this might make some sense so far, we have a problem. A big one. If complex skills must be decomposed into smaller components, the question becomes: how far? At what grain-size? at what level of detail should instruction operate?
 Too coarse, and the learner is overwhelmed; the subassembly is itself too complex to stabilise, and we have simply reproduced the original problem at a smaller scale. Too fine, and the learner is buried in fragments that never cohere; the parts are so isolated that the connections between them, which give the skill its meaning, are never formed.
 
-￼
+
 
 The Grain-Size Conundrum
 I don’t have a definitive answer for this right now but what I do know is that it is highly contingent on both the learners prior knowledge and the shape and texture of the knowledge itself. But I think this is ultimately an assessment question to which I usually look to Becky Allen who I know has a view on this.
@@ -123,21 +123,20 @@ Learning is the construction of complex cognitive systems. It obeys the same log
 The skills we most value; writing, reading comprehension, mathematical reasoning, scientific thinking, are not mystical wholes that emerge when conditions are favourable. They are systems of subassemblies with strong internal connections and weaker external ones. They can be built, but only if we respect the architecture that makes building possible. Only if we allow the parts to stabilise before demanding coordination. Only if we let failure happen where it can be contained, corrected, and converted into progress.
 
 The Learning Dispatch is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
-￼Subscribed
+Subscribed
 
 Invite your friends and earn rewards
 If you enjoy The Learning Dispatch, share it with your friends and earn rewards when they subscribe.
 
 Invite Friends
  
-￼LIKE
+LIKE
 
-￼COMMENT
+COMMENT
 
-￼RESTACK
+RESTACK
 
  
 © 2026 Carl Hendrick 548 Market Street PMB 72296, San Francisco, CA 94104  Unsubscribe
-￼
 
-￼￼
+

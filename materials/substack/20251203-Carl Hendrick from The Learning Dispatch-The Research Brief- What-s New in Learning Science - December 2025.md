@@ -16,27 +16,240 @@ tags:
 
 ---
 
-![](_assets/20251203-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Research%20Brief-%20What-s%20New%20in%20Learning%20Science%20-%20December%202025/open-b1442e85b0.gif)
+Forwarded this email? [Subscribe here](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xcnphdXYmbmV4dD1odHRwcyUzQSUyRiUyRmNhcmxoZW5kcmljay5zdWJzdGFjay5jb20lMkZwJTJGdGhlLXJlc2VhcmNoLWJyaWVmLXdoYXRzLW5ldy1pbi1sZWFybmluZy03OWYiLCJwIjoxNzc4NjgwODAsInMiOjMwNjEyNDgsImYiOnRydWUsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzY0NzQwMTY5LCJleHAiOjIwODAzMTYxNjksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.j1UTz0lN1qRFfqSHUs5WOxfpZia7v4EI18GX-fS8v0g?) for more
 
-Three rounds of retrieval practice enhanced not just memorization but
-transfer to novel application questions one week later, outperforming
-both restudy and studying quiz questions with answers provided.
 
-͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­
+[![](_assets/20251203-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Research%20Brief-%20What-s%20New%20in%20Learning%20Science%20-%20December%202025/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa56d5196-0834-44b0-afb1-b9bb512a5047_1162x202-7c9cbec5bf.png)](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3AvdGhlLXJlc2VhcmNoLWJyaWVmLXdoYXRzLW5ldy1pbi1sZWFybmluZy03OWY_dXRtX2NhbXBhaWduPWVtYWlsLWhhbGYtcG9zdCZyPTFyemF1diZ0b2tlbj1leUoxYzJWeVgybGtJam94TURjME5qSTRNemtzSW5CdmMzUmZhV1FpT2pFM056ZzJPREE0TUN3aWFXRjBJam94TnpZME56UXdNVFk1TENKbGVIQWlPakUzTmpjek16SXhOamtzSW1semN5STZJbkIxWWkwek1EWXhNalE0SWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuWE5WZzdzWGFKR2tVUnl5Sm5PcnN4ZFhQLVRqTjB4ekVuZHVzcmlWSjB4ayIsInAiOjE3Nzg2ODA4MCwicyI6MzA2MTI0OCwiZiI6dHJ1ZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3NjQ3NDAxNjksImV4cCI6MjA4MDMxNjE2OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.7_aWy8GFe3iT6DZrjm4jFMxjlinW_CeWDOcPAsyOxTw?)
 
-[TABLE]
 
-![](_assets/20251203-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Research%20Brief-%20What-s%20New%20in%20Learning%20Science%20-%20December%202025/open-b1442e85b0.gif)![](_assets/20251203-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Research%20Brief-%20What-s%20New%20in%20Learning%20Science%20-%20December%202025/eJxM0EHO4yAMBeDT_OwmcnASyIKzRARMixqgAtOZ3H7UtIt_-yw_fXrOMt1KPc2zNBbe4LqDdosgM6plUhOMCgQlG4_tRpmqZfKb5V9XRBR3ozVO0pMkFeQs-98b3d9d20e.gif)
+# [The Research Brief: What's New in Learning Science - December 2025](https://substack.com/app-link/post?publication_id=3061248&post_id=177868080&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE3Nzg2ODA4MCwiaWF0IjoxNzY0NzQwMTY5LCJleHAiOjE3NjczMzIxNjksImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.XNVg7sXaJGkURyyJnOrsxdXP-TjN0xzEndusriVJ0xk)
+
+
+### Vol. 1 No. 5
+
+
+[Carl Hendrick](https://substack.com/@carlhendrick)
+
+
+Dec 3
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=177868080&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE3Nzg2ODA4MCwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3NjQ3NDAxNjksImV4cCI6MTc2NzMzMjE2OSwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.TPYrSE4erI1QiMsPdnQP40KSPxRa-8ZKBFIQuRjuYQI&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=177868080&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE3Nzg2ODA4MCwiaWF0IjoxNzY0NzQwMTY5LCJleHAiOjE3NjczMzIxNjksImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.XNVg7sXaJGkURyyJnOrsxdXP-TjN0xzEndusriVJ0xk&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=177868080&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE3Nzg2ODA4MCwiaWF0IjoxNzY0NzQwMTY5LCJleHAiOjE3NjczMzIxNjksImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.XNVg7sXaJGkURyyJnOrsxdXP-TjN0xzEndusriVJ0xk)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3AvdGhlLXJlc2VhcmNoLWJyaWVmLXdoYXRzLW5ldy1pbi1sZWFybmluZy03OWY_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPTFyemF1diZ0b2tlbj1leUoxYzJWeVgybGtJam94TURjME5qSTRNemtzSW5CdmMzUmZhV1FpT2pFM056ZzJPREE0TUN3aWFXRjBJam94TnpZME56UXdNVFk1TENKbGVIQWlPakUzTmpjek16SXhOamtzSW1semN5STZJbkIxWWkwek1EWXhNalE0SWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuWE5WZzdzWGFKR2tVUnl5Sm5PcnN4ZFhQLVRqTjB4ekVuZHVzcmlWSjB4ayIsInAiOjE3Nzg2ODA4MCwicyI6MzA2MTI0OCwiZiI6dHJ1ZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3NjQ3NDAxNjksImV4cCI6MjA4MDMxNjE2OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.bH6cAseGVd0mhAli-qFGThkQ-VNgWPuX3LEPa08VyD4?&utm_source=substack&utm_medium=email)
+
+
+[
+
+
+READ IN APP](https://open.substack.com/pub/carlhendrick/p/the-research-brief-whats-new-in-learning-79f?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app)
+
+
+*New studies this month show retrieval practice boosting not just memory but far transfer, problem solving before instruction nudging up conceptual understanding, and repeated evidence that leaning too heavily on large language model summaries leaves learners with shallower, less original knowledge than searching and synthesising for themselves.*
+
+
+---
+
+
+[Three rounds of retrieval practice enhanced not just memorization but transfer to novel application questions one week later, outperforming both restudy and studying quiz questions with answers provided.](https://substack.com/redirect/a8a41a63-714e-4805-a765-ec51cb70b968?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This series of three experiments investigated whether retrieval practice aids not just memorization but also the ability to apply learned concepts to new situations. Participants learned research methods concepts (like confounds, reverse causation, and third variable problems) through a brief tutorial, then received different types of training: some practiced retrieving the information via quizzes with feedback, others restudied the tutorial materials, others studied the quiz questions with answers already provided, and a control group received no additional training.
+
+
+The key finding was that three rounds of retrieval practice produced significantly better performance than restudy and quiz study on both repeated questions (testing the same material) and application questions (requiring learners to apply concepts to novel scenarios) when tested one week later. Importantly, this transfer advantage persisted even when controlling for memory accuracy, suggesting retrieval enhances learners’ ability to recognise when a concept is relevant in a new context, not just their memory for the concept itself.
+
+
+Teachers should recognise that quizzing students does more than help them memorise facts, it fundamentally improves their ability to apply knowledge in new situations. However, the benefits require multiple retrieval opportunities (not just one quiz) and time for consolidation (benefits emerged more clearly after one week than after eight minutes). Simply presenting students with questions and answers to study, whilst somewhat helpful, is markedly less effective than requiring them to actively recall the information. The research also suggests that making errors during retrieval, followed by corrective feedback, may be particularly valuable because it helps students distinguish between easily confused concepts; a critical skill for recognizing which concept applies in a new situation. Practically, this means low-stakes quizzing with feedback, repeated across multiple sessions, should be integrated throughout teaching units rather than reserved solely for summative assessment.
+
+
+[Problem solving before instruction led to slightly better conceptual learning and higher cognitive load, while instruction before problem solving supported procedural performance and was preferred by students](https://substack.com/redirect/ed765856-4f28-4022-b48c-c32db7d9ad3f?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This experimental study compared two instructional sequences in a realistic office simulation: direct instruction followed by problem solving (DI PS) and problem solving followed by direct instruction (PS DI). Eighty one German undergraduates completed a supplier selection task in the LUCA simulation using tools such as spreadsheets, email, notepad and a calculator (pages 5 to 7). The findings show familiar patterns from research in STEM. PS DI produced higher gains in conceptual knowledge, whereas DI PS was slightly better for procedural elements and some aspects of problem solving, particularly correct reasoning and algorithmic calculations (Table 3, page 9). Students in the PS DI group also reported higher intrinsic cognitive load during the problem solving phase (Table 8, page 10).
+
+
+For educators, the study reinforces that different instructional sequences cultivate different kinds of knowledge. If the goal is fluency with procedures and immediate task execution, starting with explicit instruction is a safer route. If the goal is conceptual understanding, deeper sense making or transfer, allowing students to attempt the problem first can be productive even when it feels effortful. The findings also show that students tend to prefer instruction first even when it is not the most effective sequence for deeper learning, so teachers should not rely on student preference as a guide to instructional design**.**
+
+
+[Across seven experiments, learners who relied on AI-generated summaries understood less and produced weaker, less original work than those who searched and synthesised information themselves.](https://substack.com/redirect/d7eebbf7-3ca7-4170-aace-bdf511494bd3?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+The authors compared learning through large language model outputs with learning through standard web search. Their central claim is that summaries produced by models reduce the effortful discovery and synthesis that helps people build deeper knowledge. In multiple online and laboratory studies with over ten thousand participants, those assigned to large language model conditions reported learning less, spent less time engaging with sources, and wrote advice that was shorter, contained fewer factual references, and was more similar to other participants’ advice. A conceptual model on page 3 shows the proposed pathway from tool choice to effort, to depth of learning, to advice quality; a structural equation model on page 5 supports this mechanism. The downstream consequence was practical: independent readers rated advice written after large language model learning as less informative, less trustworthy, and less worth adopting than advice written after link based search. The effect held even when the same facts were presented in both formats and when summaries included real time links.
+
+
+[New meta analysis finds that fine motor skills and academic outcomes are linked about as strongly as many of the factors schools spend years debating.](https://substack.com/redirect/8c01876c-c1f7-4556-b048-6a72cf636840?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This meta analysis pulls together 118 correlational studies and 1,110 effect sizes on fine motor skills in children aged three to sixteen. Overall, children with stronger fine motor skills tended to have better academic and cognitive outcomes, with an average correlation of about r = .33 (roughly a large effect by education standards). The strongest links were between graphomotor skills (using a pencil to write or draw symbols) and writing, and between fine motor skills and mathematics and intelligence. Importantly, these associations held across the full age range rather than being confined to the early years, and they were not explained away by features like publication year, gender balance, or methodological quality. Structural equation models suggested that part of the link operates through cognitive skills and executive functions, but there is also a direct relation, especially for writing.
+
+
+[ A 20 session morphological instruction programme significantly improved French fourth graders’ use of morphological strategies and their spelling of most morphemes and polymorphemic words, with gains extending beyond the morphemes explicitly taught.](https://substack.com/redirect/e0b4b905-fc5f-42b8-baa5-63e8e3aa7c6f?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This study examined whether explicit teaching of French morphological rules helps children spell morphemes and multi part words more accurately. Fourth graders received twenty sessions on the forms and meanings of productive prefixes and suffixes, how they combine, and how these patterns guide correct spelling. Compared with teaching as usual, pupils who received the programme reported using morphological strategies more often and produced more accurate spellings of most morpheme types and whole words. The one weaker area was stem spelling, which did not show significant improvement.
+
+
+For teachers, the message is clear. Morphology is not an abstract topic reserved for older learners. Even complex affix rules can be taught in ways pupils can grasp and apply. Instruction that draws attention to the meaningful parts of words helps pupils move beyond phonological guesses, especially in a morphologically rich orthography like French. Gains transferring to untaught morphemes suggest that pupils learned underlying principles rather than isolated cases.
+
+
+[Pupils do not automatically benefit from self directed approaches and many appear to need more explicit guidance than fashionable discourse suggests.](https://substack.com/redirect/df18757c-c5ab-42dd-8562-bd10be353cc1?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+ This study investigates whether giving pupils more autonomy in lessons helps or hinders their progress in mathematics and science. Using TIMSS 2023 data from East Asian systems, the authors initially find that autonomy in mathematics classes looks beneficial while autonomy in science lowers scores. However, these results crumble under stronger causal methods. When the authors apply two stage least squares to correct for endogeneity, autonomous strategies show substantial negative effects in both maths and science, suggesting that pupils often need more structure and guidance than popular narratives imply.
+
+
+Approaches that let pupils largely direct their own learning may work for high ability students with strong prior knowledge, but they are not a reliable route to higher achievement in core subjects. The study also shows that the teacher’s qualification matters. Better qualified teachers see worse results when they attempt autonomy in maths, while less qualified teachers see a small benefit from autonomy in science. The implication is simple. Teachers need to match the level of structure to the demands of the subject and the readiness of the learners, rather than adopting autonomy as a default ideal.
+
+
+[High quality teacher professional development yields a small to medium average gain in pupil achievement, with wide variation across programmes and stronger results when more learning principles are built into the design.](https://substack.com/redirect/3db3204f-f682-4121-a06a-43d7d3e1ced7?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This large meta analysis synthesised 128 randomised or quasi experimental evaluations of in service teacher development, all using independent standardised tests, and found an average impact of 0.09 standard deviations on pupil attainment, with effects ranging from negative to moderately positive across studies. The authors’ confirmatory model found no reliable differences by the stated goal of the training, while publication status and phase mattered a little, and an exploratory model suggested that programmes embedding several learning theory features tended to do better.
+
+
+For teachers and leaders, the message is to focus less on badge labels for training and more on how the training supports teacher learning and transfer into classrooms. Practical takeaways include clarifying what good looks like, prompting teachers to self regulate their learning, providing coaching that connects training to classroom practice, and creating structured collaboration. Clock hours and whether the trainer is an external specialist or a developer did not predict better pupil outcomes.
+
+
+[Teachers leave (or plan to leave) the profession primarily because of unsustainable workloads, poor administrative support, limited autonomy, and inadequate pay, leading to burnout and moral demoralization](https://substack.com/redirect/916af744-fdb7-4ac4-9b2a-339b9b1ed5f0?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs).
+
+
+The researchers interviewed and conducted focus groups with 28 K–12 teachers across 16 U.S. states who had either left teaching or were actively preparing to leave. Four main factors emerged: workload pressure, insufficient support (particularly around student behaviour), lack of professional autonomy, and low pay. These pressures combined to create burnout and moral conflict; teachers felt unable to teach in the way they believed was right or effective.
+
+
+A low sample size but this kind of in-depth study is also important for understanding the human texture behind the data**. **For educators and school leaders, the findings highlight the importance of reducing administrative overload, protecting planning and recovery time, and restoring teachers’ agency in instructional decisions. Retention efforts should go beyond pay increases to include trust, professional respect, and authentic participation in school policy.
+
+
+[People who learned through AI-generated summaries developed shallower, less original knowledge and produced less informative advice than those who learned through traditional web search. ](https://substack.com/redirect/d7eebbf7-3ca7-4170-aace-bdf511494bd3?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This study tested whether using ChatGPT or similar large language models (LLMs) for information search affects how deeply people learn compared with using standard web search (e.g. Google). The authors proposed that while LLMs make information access easier, they remove the need for learners to actively discover and integrate information from multiple sources—processes essential for constructing deep understanding. Participants were randomly assigned to learn about everyday topics such as vegetable gardening, healthy living, or financial scams either through LLM summaries or through Google links. Across seven preregistered online and laboratory experiments, those using LLMs spent less time exploring, reported learning less, produced advice with fewer factual references and less originality, and saw their advice rated by others as less helpful and persuasive—even when the factual content was identical across conditions or when the LLM provided real-time web links.
+
+
+This reveals something profound I think: that navigating between sources and assembling information manually is not merely a means to an end, but constitutes the learning process itself. When LLMs perform this synthesis, they eliminate the very cognitive work that builds understanding.
+
+
+[Current generative AI tools offer little benefit for genuine learning unless students already possess substantial prior knowledge, because genAI produces probabilistic summaries rather than supporting the development of expertise](https://substack.com/redirect/754bf585-fd79-4e97-a926-716b2567ee5f?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs).
+
+
+This commentary sets out to test the common claim that genAI enables learners to think more deeply, more creatively, or at a “higher level.” Drawing on Alexander’s Model of Domain Learning, the authors argue that learning in any domain follows a developmental trajectory that depends heavily on prior knowledge, strategic processing, and interest. When judged against this developmental model, current genAI performs poorly because it does not support novices in building foundational knowledge or domain strategies. Instead, genAI functions mainly as an advanced summariser and text predictor, which does not align with the cognitive processes involved in real learning or expertise formation.
+
+
+The authors contend that genAI may only be helpful for students with stronger prior knowledge who can evaluate and interrogate its outputs. For novices, genAI is likely to create an illusion of understanding and may even undermine the deliberate effort required to build domain knowledge. The implication for educators is clear: genAI cannot compensate for weak prior knowledge, and any classroom use must be carefully matched to the learner’s expertise level. Teachers may find genAI useful for surface-level tasks but should not expect it to drive meaningful cognitive development.
+
+
+[In a small exploratory trial in five UK schools, a pedagogy tuned AI tutor supervised by expert teachers matched human tutoring on immediate maths learning and showed a modest edge on transfer to the next topic, while remaining safe under close oversight](https://substack.com/redirect/334dcecf-a68e-4b5d-80d4-17013a26a41b?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs).
+
+
+The study tested whether a generative AI tutor (LearnLM) could support Year 9 and 10 students on Eedi’s mathematics platform. Students who made an initial error were randomised to receive either a static hint or interactive chat tutoring; within tutoring, sessions were further randomised to a human tutor or to LearnLM with a human tutor supervising every message. Tutors approved about three quarters of LearnLM’s drafts with zero or trivial edits, the safety audit found no harmful content and only five factual errors in 3617 messages, and immediate outcomes were strong for both human and AI supported tutoring. On the tougher test of transfer to the next unit, LearnLM students were 5.5 percentage points more likely to answer the first question correctly than those with a human tutor.
+
+
+[Self-regulated learning is not a character trait but a designed environment: the quality of cues determines the quality of follow-through. ](https://substack.com/redirect/f4c42290-61e1-46d5-94e7-13021b2b6a89?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This study examined whether daily if-then planning prompts delivered through a mobile app would help German fifth and sixth graders study vocabulary more regularly. Across 42 days, children were prompted to create short plans specifying *when* and *where* they would study the next day. Simply receiving a planning prompt did not increase the probability of studying compared to just opening the app. What really mattered was the quality of the plan: specific, salient, and context-appropriate plans (for example, “After brushing my teeth in the morning…”) made children far more likely to study the next day than vague or inappropriate ones. Category 1 plans produced an 82.69 per cent next-day study probability; low-quality plans dropped to as low as 64.17 per cent.
+
+
+[When students compare their performance with others, with their past selves, or across subjects, their confidence in their academic ability shifts, rising after favourable comparisons and falling after unfavourable ones.](https://substack.com/redirect/19ca2561-22ce-47c4-9695-a521857542ff?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This two study diary investigation tracked university students (n = 130) and high school students (n = 226) across eight days, asking them to log every academic comparison they noticed in real time and to rate how it changed their sense of ability, talent and performance. Social comparisons were the most common, followed by temporal, then dimensional, then criterial; most downward comparisons were associated with increases and most upward with decreases in state self concept, suggesting that self belief fluctuates from moment to moment in everyday study life.
+
+
+[A rights based inquiry by the Manitoba Human Rights Commission finds that many pupils are not receiving evidence based early reading teaching, screening, intervention, and accommodations, and sets out system wide recommendations to secure an equal right to read.](https://substack.com/redirect/010d5b63-e2f8-4014-a53d-af99154ff01b?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This report is a Phase One stocktake of how Manitoba teaches reading and where pupils encounter barriers, framed explicitly as a human rights issue rather than a curriculum preference. It focuses on six pillars: curriculum and instruction, early screening, assessment, intervention, accommodations, and teacher education. The report argues for direct, explicit, systematic and cumulative teaching of early word recognition, rejects three cueing approaches, and calls for universal early screening two to three times per year within a multi tiered system of supports. It highlights the Supreme Court’s Moore decision which affirmed meaningful access to reading instruction as a right.
+
+
+Recommendations: Prioritise secure decoding and fluency through explicit code focused teaching; screen all pupils routinely and use the data for timely support; deliver tiered, small group interventions that are systematic and matched to need; provide effective accommodations and assistive technology quickly; and seek sustained professional learning in the science of reading. The report also urges Manitoba to strengthen curriculum guidance, resources, and teacher preparation so that almost all pupils become accurate and fluent word readers, with comprehension built on language, vocabulary and knowledge rich experiences.
+
+
+[Personalised reading texts generated by ChatGPT-4 from pupils’ own prompts led to large improvements in Turkish fourth graders’ reading accuracy, comprehension, and reading motivation compared with business as usual.](https://substack.com/redirect/f436ad20-f03a-4509-acf4-09b0bc291448?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This study tested whether letting primary pupils co-create reading texts with ChatGPT-4 could strengthen reading accuracy, comprehension, and motivation. Across ten weeks, pupils in the experimental classes generated stories, information texts, questions, and images with ChatGPT-4 using their own prompts, and then completed teacher-led reading and comprehension activities using printed versions of these materials. Using a Solomon four-group design with 106 pupils, the author found large gains: pupils in both experimental groups made far fewer reading errors and achieved higher comprehension and motivation scores than the two control groups. The effect sizes were consistently large across outcomes (η² = .29 for errors, .40 for comprehension, .16 for motivation).
+
+
+[In an online maths tutoring pilot, one-to-one tutoring led to greater student progress and engagement than small-group (three-to-one) tutoring, mainly because tutors found it easier to personalise support and manage interaction in individual sessions.](https://substack.com/redirect/ebc2d4bf-cba6-4aba-b859-5b164db12200?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This experimental study tested whether reducing the number of students per tutor improved learning outcomes in an online maths tutoring programme for middle school students. Comparing 1:1 and 3:1 student–tutor ratios, the researchers found that one-to-one tutoring was modestly but consistently more effective for student maths growth. Tutors themselves reported that small-group online tutoring made it harder to tailor instruction, build rapport, maintain attention, and manage behaviour, which likely limited its impact.
+
+
+For educators and school leaders, this suggests that while small-group tutoring can reach more students at lower cost, its effectiveness online may be reduced by weaker personal connections and less individualised feedback. Schools designing online tutoring should weigh quantity against quality, invest in tutor training for group management, and consider blended models that combine both formats.
+
+
+[This perspective review argues that structured literacy will be stronger if it is explicitly aligned with what we know about human memory systems and staged learning, and it sketches how AI could be used responsibly to support that alignment. ](https://substack.com/redirect/acebbee2-7fd4-40bf-9975-25b4961b661b?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+The authors set out to connect the science of reading with the wider science of learning, especially memory and an instructional hierarchy from acquisition to fluency to generalisation. Their central claim is that teaching decoding, language and comprehension benefits from principled use of spacing, retrieval, cumulative practice and clear sequencing, because these exploit how long term memory is built and stabilised. They also signal opportunities and risks in using AI for instructional design, practice and feedback.
+
+
+For educators, the practical message is to marry structured literacy with routines that strengthen memory. That means tight lesson objectives, explicit modelling, high success practice, frequent low stakes retrieval, spaced review of previously taught items, and cumulative texts that recycle taught code and vocabulary. The review encourages teachers and leaders to judge AI tools by whether they make these memory aligned moves easier, more precise and more consistent.
+
+
+[More evidence that student evaluations are biased against women. ](https://substack.com/redirect/f66603ae-0fe5-431d-b1a8-3e4d6f720d65?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+** **This systematic review examined how instructor gender affects student evaluations of teaching (SETs), analysing 21 robustly designed studies published between 2000 and 2021. The review found that, although effect sizes are generally small, women tend to receive lower SET scores than men, even when teaching performance is identical. These results are best explained by gender stereotypes and expectancy violation theories, which suggest that students unconsciously expect men to display competence and authority, and women to show warmth and care. When teachers’ behaviour does not fit these gendered expectations, students penalise them in their evaluations.
+
+
+For educators and institutions, the implications are serious. SETs remain a standard component of academic promotion and appraisal, yet they reflect student bias as much as teaching quality. Teachers, especially women, may therefore face structural disadvantages unrelated to their performance. Schools and universities should treat SET data cautiously, triangulating it with peer observations and learning outcomes, and training students to recognise bias in evaluation.
+
+
+[UC San Diego’s admissions workgroup reports a sharp decline in first year academic readiness since 2020, especially in mathematics. ](https://substack.com/redirect/dff8f867-6a72-42b9-aa29-24578b93a146?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This report analyses administrative data and campus processes to understand why far more entrants now require remedial mathematics and, to a lesser extent, additional writing support. Between 2020 and 2025 the share of students placing below precalculus rose dramatically, with nearly one in eight of the 2024–25 cohort routed to new preparatory courses in middle school maths content (Math 2) or high school content (Math 3B). The report links this trend to COVID 19 learning loss, grade inflation, the removal of standardised tests, growth in enrolments from under resourced LCFF plus schools, and rapid campus growth. It notes weak alignment between high school transcripts and actual placement, and observes that writing placement and literacy concerns likely need a separate inquiry.
+
+
+[A new three year study suggests that for most secondary students, perseverance in schoolwork slowly slips rather than grows. Classrooms where mastery goals are normal seem to produce students whose perseverance grows instead of fading.](https://substack.com/redirect/bb280258-f903-4294-81a8-753e6d0659b5?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+This study tracked 5593 secondary students in 16 schools over three years to see how their perseverance in schoolwork develops, what predicts different patterns, and how these patterns relate to academic achievement. Using a standard variable centred analysis, the authors found almost no average change in perseverance over time, which might tempt you to conclude that perseverance is basically a fixed trait. However, when they used a person centred approach that looks for distinct subgroups, a very different picture emerged.
+
+
+Four trajectories appeared: low decreasing (11 percent), low stable (33 percent), moderate decreasing (46 percent), and high increasing (10 percent). In other words, most students either stayed low or drifted down, while only a small minority started high and climbed further. Those in this high increasing group had the highest test scores by the end of the study, while those whose perseverance slid had the lowest. Talking about grit in assemblies is a distraction; the real lever on perseverance is everyday teacher support plus a mastery focused classroom culture.
+
+
+Finally, the EEF have issued [new guidance](https://substack.com/redirect/3111ca6c-9747-43ad-9264-73536798ec4d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) on metacognition.[ ](https://substack.com/redirect/f6318b35-b3ab-4e2b-a64e-c430a5fdea8f?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)The new report includes more examples from schools, showing what metacognition looks like in practice. A notable addition is the WISE Academies Trust case study on *think aloud* modelling. The purpose is to move beyond abstract principles and show real teacher behaviours that make metacognitive strategy use visible and learnable. Good blog from Blackpool Research School on it [here.](https://substack.com/redirect/f6318b35-b3ab-4e2b-a64e-c430a5fdea8f?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+---
+
+
+The Learning Dispatch is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+
+[Upgrade to paid](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZjYXJsaGVuZHJpY2suc3Vic3RhY2suY29tJTJGcCUyRnRoZS1yZXNlYXJjaC1icmllZi13aGF0cy1uZXctaW4tbGVhcm5pbmctNzlmJnI9MXJ6YXV2JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbWxoZENJNk1UYzJORGMwTURFMk9Td2laWGh3SWpveE56WTNNek15TVRZNUxDSnBjM01pT2lKd2RXSXRNekEyTVRJME9DSXNJbk4xWWlJNkltTm9aV05yYjNWMEluMC5uMzEwQWFzTTRYdmptLTR0bEVuS2NYZVpBVnJWYnZ2M3N4dHRmbUFrN2RjIiwicCI6MTc3ODY4MDgwLCJzIjozMDYxMjQ4LCJmIjp0cnVlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc2NDc0MDE2OSwiZXhwIjoyMDgwMzE2MTY5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.Nkey-xq3y8VzYwNIDyhGMgSmxBfBubsRymMJObzcWJA?&utm_medium=email&utm_source=subscribe-widget-preamble&utm_content=177868080)
+
+
+You're currently a free subscriber to [The Learning Dispatch](https://substack.com/redirect/8df0dd54-30e3-4bfe-a4d8-091bae7d23b4?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs). For the full experience, [upgrade your subscription.](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZjYXJsaGVuZHJpY2suc3Vic3RhY2suY29tJTJGcCUyRnRoZS1yZXNlYXJjaC1icmllZi13aGF0cy1uZXctaW4tbGVhcm5pbmctNzlmJnI9MXJ6YXV2JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbWxoZENJNk1UYzJORGMwTURFMk9Td2laWGh3SWpveE56WTNNek15TVRZNUxDSnBjM01pT2lKd2RXSXRNekEyTVRJME9DSXNJbk4xWWlJNkltTm9aV05yYjNWMEluMC5uMzEwQWFzTTRYdmptLTR0bEVuS2NYZVpBVnJWYnZ2M3N4dHRmbUFrN2RjIiwicCI6MTc3ODY4MDgwLCJzIjozMDYxMjQ4LCJmIjp0cnVlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc2NDc0MDE2OSwiZXhwIjoyMDgwMzE2MTY5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.Nkey-xq3y8VzYwNIDyhGMgSmxBfBubsRymMJObzcWJA?&utm_source=substack&utm_medium=email&utm_content=postcta)
+
+
+[Upgrade to paid](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPXBvc3QmdXRtX2NhbXBhaWduPWVtYWlsLWNoZWNrb3V0Jm5leHQ9aHR0cHMlM0ElMkYlMkZjYXJsaGVuZHJpY2suc3Vic3RhY2suY29tJTJGcCUyRnRoZS1yZXNlYXJjaC1icmllZi13aGF0cy1uZXctaW4tbGVhcm5pbmctNzlmJnI9MXJ6YXV2JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbWxoZENJNk1UYzJORGMwTURFMk9Td2laWGh3SWpveE56WTNNek15TVRZNUxDSnBjM01pT2lKd2RXSXRNekEyTVRJME9DSXNJbk4xWWlJNkltTm9aV05yYjNWMEluMC5uMzEwQWFzTTRYdmptLTR0bEVuS2NYZVpBVnJWYnZ2M3N4dHRmbUFrN2RjIiwicCI6MTc3ODY4MDgwLCJzIjozMDYxMjQ4LCJmIjp0cnVlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc2NDc0MDE2OSwiZXhwIjoyMDgwMzE2MTY5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.Nkey-xq3y8VzYwNIDyhGMgSmxBfBubsRymMJObzcWJA?&utm_source=substack&utm_medium=email&utm_content=postcta)
+
+
+[Like](https://substack.com/app-link/post?publication_id=3061248&post_id=177868080&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE3Nzg2ODA4MCwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3NjQ3NDAxNjksImV4cCI6MTc2NzMzMjE2OSwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.TPYrSE4erI1QiMsPdnQP40KSPxRa-8ZKBFIQuRjuYQI&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[Comment](https://substack.com/app-link/post?publication_id=3061248&post_id=177868080&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE3Nzg2ODA4MCwiaWF0IjoxNzY0NzQwMTY5LCJleHAiOjE3NjczMzIxNjksImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.XNVg7sXaJGkURyyJnOrsxdXP-TjN0xzEndusriVJ0xk&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[Restack](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3AvdGhlLXJlc2VhcmNoLWJyaWVmLXdoYXRzLW5ldy1pbi1sZWFybmluZy03OWY_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPTFyemF1diZ0b2tlbj1leUoxYzJWeVgybGtJam94TURjME5qSTRNemtzSW5CdmMzUmZhV1FpT2pFM056ZzJPREE0TUN3aWFXRjBJam94TnpZME56UXdNVFk1TENKbGVIQWlPakUzTmpjek16SXhOamtzSW1semN5STZJbkIxWWkwek1EWXhNalE0SWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuWE5WZzdzWGFKR2tVUnl5Sm5PcnN4ZFhQLVRqTjB4ekVuZHVzcmlWSjB4ayIsInAiOjE3Nzg2ODA4MCwicyI6MzA2MTI0OCwiZiI6dHJ1ZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3NjQ3NDAxNjksImV4cCI6MjA4MDMxNjE2OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.bH6cAseGVd0mhAli-qFGThkQ-VNgWPuX3LEPa08VyD4?&utm_source=substack&utm_medium=email)
+
+
+© 2025 Carl Hendrick
+548 Market Street PMB 72296, San Francisco, CA 94104
+[Unsubscribe](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakUzTnpnMk9EQTRNQ3dpYVdGMElqb3hOelkwTnpRd01UWTVMQ0psZUhBaU9qRTNPVFl5TnpZeE5qa3NJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2laR2x6WVdKc1pWOWxiV0ZwYkNKOS5pWlk2N0VMYkpMeXRMbVpOVk5LM2NTa2hNYnl6czE3NWlZMllqVGdZTXdrIiwicCI6MTc3ODY4MDgwLCJzIjozMDYxMjQ4LCJmIjp0cnVlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc2NDc0MDE2OSwiZXhwIjoyMDgwMzE2MTY5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.iiirs03aS9z0Jge8K3SwXTpXPx_vk3cRCOYyv625Io4?)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1uZXdzdGFydHhtQGljbG91ZC5jb20mcj0xcnphdXYiLCJwIjoxNzc4NjgwODAsInMiOjMwNjEyNDgsImYiOnRydWUsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzY0NzQwMTY5LCJleHAiOjIwODAzMTYxNjksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.cf3rkYNdngJldcUP5wOGT08pc_a-l8XBLZlPc6hZVto?)
