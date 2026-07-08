@@ -16,26 +16,216 @@ tags:
 
 ---
 
-![](_assets/20260524-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Death%20of%20the%20University%20Degree/p-b1442e85b0.gif)
+Forwarded this email? [Subscribe here](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xcnphdXYmbmV4dD1odHRwcyUzQSUyRiUyRmNhcmxoZW5kcmljay5zdWJzdGFjay5jb20lMkZwJTJGdGhlLWRlYXRoLW9mLXRoZS11bml2ZXJzaXR5LWRlZ3JlZSIsInAiOjE5OTAyMTU0MywicyI6MzA2MTI0OCwiZiI6ZmFsc2UsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzc5NTk4MzU5LCJleHAiOjIwOTUxNzQzNTksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.u1TJPyw6KG9-dUTgjPCfqMg8I8sshADsXBMxNZJqqAg?) for more
 
-Cognitive surrender, borrowed competence and the "vast counterfeiting of
-knowledge"
 
-͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­
+[![](_assets/20260524-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Death%20of%20the%20University%20Degree/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa56d5196-0834-44b0-afb1-b9bb512a5047_1162x202-7c9cbec5bf.png)](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3AvdGhlLWRlYXRoLW9mLXRoZS11bml2ZXJzaXR5LWRlZ3JlZT91dG1fY2FtcGFpZ249ZW1haWwtaGFsZi1wb3N0JnI9MXJ6YXV2JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakU1T1RBeU1UVTBNeXdpYVdGMElqb3hOemM1TlRrNE16VTVMQ0psZUhBaU9qRTNPREl4T1RBek5Ua3NJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS56eWJXUWVKT0xOY0QxRFJoR0VCdFpoMlZXSzVKWnYtQUV1Z3oweE9IMWlZIiwicCI6MTk5MDIxNTQzLCJzIjozMDYxMjQ4LCJmIjpmYWxzZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3Nzk1OTgzNTksImV4cCI6MjA5NTE3NDM1OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.8wCNfaIM_rTZqftqqgBigoeEBu6ccufdYoFWnogP3-M?)
 
-[TABLE]
 
-![](_assets/20260524-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Death%20of%20the%20University%20Degree/p-b1442e85b0.gif)![](_assets/20260524-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Death%20of%20the%20University%20Degree/eJxMkEuOwyAQBU8TlhZu_gvOYvHpJCgGItxkxrcfJdnMtkrdKr0UCG99nP7ZD2LZcwPJRIZ-NcYpZ4VyDGso-3bDhiMQ5i3QPyscsLs3EiLGhFdlTbRZORGS-98b3d9d20e.gif)
+# [The Death of the University Degree](https://substack.com/app-link/post?publication_id=3061248&post_id=199021543&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=false&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5OTAyMTU0MywiaWF0IjoxNzc5NTk4MzU5LCJleHAiOjE3ODIxOTAzNTksImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.zybWQeJOLNcD1DRhGEBtZh2VWK5JZv-AEugz0xOH1iY)
+
+
+### Cognitive surrender and the "vast counterfeiting of knowledge"
+
+
+[Carl Hendrick](https://substack.com/@carlhendrick)
+
+
+May 24
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=199021543&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5OTAyMTU0MywicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3Nzk1OTgzNTksImV4cCI6MTc4MjE5MDM1OSwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.px9yspYZdny07H9LbKR_Fyqq32q_XtbIRzK9N_71lJw&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=199021543&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5OTAyMTU0MywiaWF0IjoxNzc5NTk4MzU5LCJleHAiOjE3ODIxOTAzNTksImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.zybWQeJOLNcD1DRhGEBtZh2VWK5JZv-AEugz0xOH1iY&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=199021543&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5OTAyMTU0MywiaWF0IjoxNzc5NTk4MzU5LCJleHAiOjE3ODIxOTAzNTksImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.zybWQeJOLNcD1DRhGEBtZh2VWK5JZv-AEugz0xOH1iY)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3AvdGhlLWRlYXRoLW9mLXRoZS11bml2ZXJzaXR5LWRlZ3JlZT91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9MXJ6YXV2JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakU1T1RBeU1UVTBNeXdpYVdGMElqb3hOemM1TlRrNE16VTVMQ0psZUhBaU9qRTNPREl4T1RBek5Ua3NJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS56eWJXUWVKT0xOY0QxRFJoR0VCdFpoMlZXSzVKWnYtQUV1Z3oweE9IMWlZIiwicCI6MTk5MDIxNTQzLCJzIjozMDYxMjQ4LCJmIjpmYWxzZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3Nzk1OTgzNTksImV4cCI6MjA5NTE3NDM1OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.cf9u2HX9dLd-Q_fI-sEUF8f5wFncUryu2JqYNM7PHX0?&utm_source=substack&utm_medium=email)
+
+
+[
+
+
+READ IN APP](https://open.substack.com/pub/carlhendrick/p/the-death-of-the-university-degree?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app)
+
+
+*For 133 years, Princeton University upheld an honour code that allowed students to take exams unsupervised, trusted to write a simple pledge on their answer sheets affirming they had not cheated. [In May 2026, the faculty voted to end the tradition. Starting in summer 2026,](https://substack.com/redirect/03ff8b9c-ca27-4cfc-8bbd-d42ada87352a?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) all in-person exams will require proctoring. As Rose Horowitch [noted in The Atlantic, ](https://substack.com/redirect/8fcab4ea-3bac-4703-b32c-725c54490f9d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)the honour code had lasted through two world wars, the upheaval of the 1960s, the disillusionment of Watergate, and even the rise of search engines and SparkNotes, but it did not survive ChatGPT. One professor at Cornell responded differently, implementing oral examinations where students must explain concepts face-to-face. What both institutions recognise is that the social contract underpinning unsupervised assessment has collapsed. When task completion no longer signals learning, every tradition built on that assumption must be reconsidered.*
+
+
+[![](_assets/20260524-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-The%20Death%20of%20the%20University%20Degree/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F9ee15df1-e9ba-44c2-bb97-fb933b19da45_1672x941-11bf517902.png)](https://substack.com/redirect/d922baf3-9b4c-413d-986c-495bd48840bd?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+---
+
+
+Here is a question I find myself asking a lot today: does anyone seriously believe that a degree completed in 2026 is the same diagnostic instrument as one completed in 2016, or indeed, any time before chatGPT showed up in 2023? I was reminded of this at[ the Hay Festival last Friday](https://substack.com/redirect/cd62a4f8-eafb-4e36-99ce-cd1d76cffd4b?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs), where the novelist and Oxford fellow Katherine Rundell spoke of a depressing survey a colleague had given her of student reading at his university. Where 70 per cent of students used to do half of the course reading, now 20 per cent do 10 per cent of the work.
+
+
+She called what is happening a “vast counterfeiting of knowledge”, and accused universities of raising a “white flag” by reclassifying AI use, provided it is footnoted, as legitimate scholarship. “It is now possible,” she said, “to write an essay about a book without having read the book.” This week, [Glasgow announced a return to in-person examinations](https://substack.com/redirect/4fac2660-977b-48e1-9c37-64b5a9fa6ae2?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs), and the same Times investigation reports that the number of Russell Group undergraduates formally disciplined for AI misuse tripled in a single academic year, from roughly 700 to more than 2,000. What then is the value of a degree as a measure of intellectual worth in 2026?
+
+
+The signalling value of the university degree as a credential, [on Spence's old account,](https://substack.com/redirect/ff245c53-eb6e-4efb-9d67-f86487188a5c?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)  depended on a separating equilibrium: obtaining the degree was costly, and more costly for those without the underlying ability. If the production conditions have changed, the signal it carries has changed too. The work that undergraduates do during a degree; coursework, problem sets, take-home essays, unsupervised exam preparation, is precisely what has been most affected by AI substitution. A 2016 graduate accumulated knowledge under a regime in which finishing the work and learning the material were tightly coupled. A 2026 graduate has accumulated, in part, a track record of finished work whose coupling with learning is now an open question.
+
+
+Employers have noticed, and the labour-market data has begun to catch up. [Alan Milburn's interim review for the UK government](https://substack.com/redirect/b308724f-e114-4c9a-ae42-8461dee208cc?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs), published this week, finds 946,000 sixteen-to-twenty-four-year-olds not in education, employment or training. More than half have never worked. Youth unemployment is at an eleven-year high of 16.2 per cent. Thousands of them hold university degrees. Milburn frames the problem in terms of smartphones and mental health, the "bedroom generation" rewired by years of scrolling, and he is not wrong but this is not the full story. AI is the second arm of the pincer: students whose degrees are increasingly composed of work they did not do, arriving in a labour market that has already begun to discount the certificate they are carrying. A senior New York financier [told the ](https://substack.com/redirect/faba4e94-9e9a-4834-8836-a405a33c36c8?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[Financial Times](https://substack.com/redirect/faba4e94-9e9a-4834-8836-a405a33c36c8?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*['s Gillian Tett](https://substack.com/redirect/faba4e94-9e9a-4834-8836-a405a33c36c8?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) that his firm now combs through humanities students rather than "AI-native" STEM graduates, on the grounds that the latter arrive with "alarmingly shallow ideas".
+
+
+But weren’t there always students who cheated? The within-cohort variance is also very different now. There were always students who coasted, but the coasting had a ceiling set by the cost of the alternative routes to a finished assignment. That ceiling is now much higher, and there is no way to tell from a transcript which side of it any given graduate sat on. The credential no longer reliably differentiates between students who did the work and students who did not, on precisely the dimensions where AI substitution is easiest.
+
+
+---
+
+
+### Faster Completion, Less Learning
+
+
+A core part of doing a degree, especially in the humanities, is the coursework essay or project. I actually loved this. I have very fond memories of going to Senate House Library in London and spending a whole day reading primary texts and secondary scholarship on a particular topic, following one footnote into another author and that author into a third, accumulating context the assignment did not strictly require but the question itself seemed to. The reading was not efficient. It was, on most measures, wasteful: hours spent following arguments that turned out not to bear on the essay I was supposed to be writing; hours spent arguing in my notebook with critics who had stopped publishing decades earlier. But somewhere in that wandering, the shape of an idea would form, usually not the idea I had set out to find. The essay was the artefact at the end, but the argument it created had been built in the wandering.
+
+
+The coursework proxy held up for a long time, partly because the alternative routes to a finished task were narrow. A pupil could copy from a friend, plagiarise, or even pay for an essay, but each had a friction cost and a reasonably detectable signature. The signal was noisy at the margins but generally sound for broader purposes. The relationship between completion and learning was stable enough that we built an entire infrastructure of assessment on top of it.
+
+
+However, [a new preprint by Sina Rismanchian and colleagues](https://substack.com/redirect/817824e9-53b4-4583-adda-9f53e624fbf1?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs), drawing on 3.2 million ALEKS learning interactions across a ten-year panel, suggests that the proxy has now broken. The title puts it about as plainly as a title can: *Faster Completion, Less Learning*. The paper shows that time spent on AI-susceptible word problems has fallen by roughly 27% among college students and 31% among high-schoolers since ChatGPT’s release in late 2022.
+
+
+Crucially, under proctored conditions, where AI access is restricted, the divergence vanishes entirely. When those same students are later tested on what they supposedly learned, their odds of answering correctly drop by 25%. Meanwhile, in unproctored assessments, performance rises sharply. The pattern is unambiguous: students are using AI to generate answers, platforms are recording completion, and durable knowledge is evaporating.
+
+
+Two earlier randomised trials make the same case in tighter laboratory conditions. [Bastani and colleagues](https://substack.com/redirect/00405d9e-601a-4e8f-82b9-c1c96bdfb461?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) ran a field experiment in a Turkish high school: GPT-4 access during maths practice raised assisted performance by 48%, but unassisted exam scores fell by 17% against control. [Barcaui’s](https://substack.com/redirect/ff4ec414-2ad0-4c3e-8412-2010a4e97044?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) RCT with undergraduates found the same shape: a surprise retention test 45 days after study produced 68.5% correct in the traditional condition and 57.5% in the ChatGPT condition (d = 0.68), and the gap survived an adjustment for time on task. Rismanchian’s contribution is not the discovery of the effect. It is the demonstration that the laboratory pattern is now operating in the field at the scale of millions of students over years.
+
+
+A [separate study published in ](https://substack.com/redirect/72899282-650f-4b78-91aa-7e511ba5d9a0?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[Science](https://substack.com/redirect/72899282-650f-4b78-91aa-7e511ba5d9a0?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[ this month](https://substack.com/redirect/72899282-650f-4b78-91aa-7e511ba5d9a0?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) documents the scale. Kizilcec, Chirikov and Smirnov surveyed over 95,000 students across twenty US research universities and found that 9% admitted to using generative AI to cheat, a figure that rises to more than one in four among daily AI users. These are self-reported numbers gathered through a list-randomisation method designed to protect respondents; the true rate is almost certainly higher. When a quarter of your heaviest users are submitting AI-generated work as their own, the contamination of behavioural signals that Rismanchian’s team identified is not a theoretical concern. It is the baseline condition across American higher education.
+
+
+---
+
+
+### Cognitive Surrender, Not Cognitive Offloading
+
+
+One argument I often hear is that AI is not going to change much, and that we have seen this before with calculators and the internet. But what students are doing with generative AI is qualitatively different from what they do with calculators, spreadsheets, or search engines. Classical cognitive offloading, delegating a well-defined subtask like arithmetic to a calculator, leaves the reasoning process in the learner’s hands. The student who uses a calculator to perform a multiplication has offloaded the arithmetic but still constructs the solution strategy, evaluates the result, and integrates it with prior knowledge, the active learning that produces durable retention.
+
+
+The thing about someone who cheats is that they are at least aware of the domain of knowledge that was there. In Rumsfeldian terms, they know what they don’t know. Worse still for me is the idea that students will *not even know what they don’t know. *A student who copies a word problem into a chatbot and pastes the returned solution bypasses the whole metacognitive process. [A recent paper calls the pattern ](https://substack.com/redirect/eb03c2c3-b296-413a-b4a2-da81dc323e00?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[cognitive surrender](https://substack.com/redirect/eb03c2c3-b296-413a-b4a2-da81dc323e00?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*: the adoption of an AI-generated output as one’s own answer with minimal scrutiny, in which the user relinquishes cognitive control of problem-solving rather than merely delegating a discrete subtask. The behavioural signature documented at population scale, selective, gradually growing, supervision-sensitive, age-graded, present where students have autonomy and absent where they do not, is exactly what cognitive surrender predicts when it operates across millions of interactions.
+
+
+[Fan and colleagues](https://substack.com/redirect/dcd3c5e3-e223-41be-adb0-9e034f3468a2?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) call the underlying disposition *metacognitive laziness*. In their randomised study, students using ChatGPT to write essays produced better essays during the task but showed no advantage on knowledge gain or transfer, and the process data revealed measurably fewer evaluation and orientation moves. Surrender names the act; laziness names the disposition that produces it. They are the same phenomenon described at different levels.
+
+
+The downstream consequence is what [Barcaui calls ](https://substack.com/redirect/b6a3ace2-c390-457f-a6cf-37df26615341?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[borrowed competence](https://substack.com/redirect/b6a3ace2-c390-457f-a6cf-37df26615341?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*. AI supplies structure, vocabulary and reasoning scaffolds that inflate the feeling of mastery during study without strengthening memory traces through retrieval or learner-generated elaboration. Even experienced AI users showed no better retention in the Brazilian trial; familiarity with the tool did not translate into more effective use for learning. Students confuse the AI’s fluency with their own understanding, a metacognitive blindness that prevents them from recognising when assistance is undermining their learning.
+
+
+---
+
+
+### **The Illusion of Mastery**
+
+
+So what is the effect of chatbots on how students *think *they learn? The metacognitive dimension is important here I think. Students in both the Turkish and Brazilian trials reported that they believed they had learned effectively, even when objective measures showed the opposite. In the Turkish trial, students’ self-reported perceptions of exam performance and learning were “overly optimistic”. In other words, those in the unguided GPT condition believed they had learned as much as the control group, despite performing 17% worse on the actual exam.[ This mismatch between perceived and actual learning has been observed in other educational settings,](https://substack.com/redirect/b34ff6d2-90be-4d05-bcce-4640d2bc2370?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) but generative AI appears to intensify it.
+
+
+So what is happening here is that during the practice session, students *feel* competent because they are producing correct answers. The AI handles the cognitive labor, but the student experiences the outcome as their own achievement. When the tool is removed, the illusion collapses. But by then, the opportunity for genuine learning has passed.
+
+
+This has immediate implications for adaptive learning systems. Platforms like ALEKS calibrate their mastery estimates on the assumption that student responses reflect genuine cognitive effort. When students bypass this process using AI, the platform’s diagnostic inferences become unreliable; the system may assign mastery credit for knowledge the student does not actually possess. The 25% cumulative decline in retention odds on randomly assigned items represents the downstream manifestation of this structural disruption.
+
+
+---
+
+
+### **The Proctoring Paradox**
+
+
+One reason why Edtech has been such an expensive failure is down to a fundamental feature of the human brain: we don’t want to think hard, and usually won’t do it unless the conditions are right. In a classroom, this usually means a teacher who monitors cognitive work and focus. [Doug Lemov](https://open.substack.com/users/309501819-doug-lemov?utm_source=mentions) calls this [“be seen looking”;](https://substack.com/redirect/5e5dda09-8ffa-4fd0-affd-05a840664429?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) the deliberate act of a teacher circulating, making eye contact, checking work, signalling to every student that their effort is visible and valued. It’s not surveillance for compliance; it’s accountability for cognitive engagement. Students work harder, persist longer, and think more deeply when they know their thinking is being seen.
+
+
+Most edtech removes that signal entirely. A student alone with a screen, unsupervised, working through problems at eleven o'clock at night, is operating in the precise conditions under which the Rismanchian study shows learning collapses. A student alone with a screen has no teacher circulating, no “be seen looking” creating the conditions for effortful thought. And one fascinating revelation from this new study is what it shows about proctoring as a replacement for that live presence.
+
+
+Students who spent less time on word problems during the learning phase (because they were outsourcing them to AI) perform worse when later tested under proctored conditions on the same material. The same estimator applied to non-proctored retention finds the opposite result: apparent performance rises. Only one mechanism predicts that reversal: AI assistance at the point of assessment, masking a genuine decline in durable knowledge.
+
+
+The effect also scales with age. College students show the largest decline, high schoolers nearly as much, middle schoolers a smaller but significant drop, and primary students none at all. This is not because younger children are more virtuous; it is because they complete more work under direct supervision, in environments where an adult can see the screen. The age gradient mirrors exactly what decades of academic-integrity research documented about dishonesty rates before generative AI existed. AI has not invented the incentive to cheat; it has simply reduced the effort cost to near zero.
+
+
+Paradoxically, a solution to this AI-created problem might also come from AI. At Alpha School, developers have pioneered an AI proctoring platform that is able to create the kinds of constraints that lead to learning at scale. The system monitors not just for prohibited behaviours such as using chatbots, but for also for distraction and patterns of cognitive engagement such as time on task, latency and tracking whether students are actually thinking through problems or bypassing that effort. It’s an attempt to restore, through algorithmic observation, the accountability structure that classroom presence naturally provides. Seeing it in action last year changed my mind. I had assumed that effective learning at scale required a traditional classroom; Alpha's system suggests a credible alternative.
+
+
+---
+
+
+### **An unwinnable arms race?**
+
+
+[Hollis Robbins](https://open.substack.com/users/4890710-hollis-robbins?utm_source=mentions) has [argued](https://substack.com/redirect/9a535bbc-a2f5-4c5d-b4d7-7624fa2ab3db?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) convincingly that in the AI era universities must focus on the “last mile” of human expertise that exceeds AI capability. The evidence here suggests a more immediate problem: students are not even reaching the *first *mile. When undergraduates outsource the foundational cognitive work of a degree to a chatbot, they never build the substrate on which any “last mile” would rest. The diagnostic crisis the data describe is, at root, an architectural one. The completion proxy was load-bearing because we trusted that the artefact had been produced by a particular kind of cognitive activity. That trust is no longer warranted, and the structures we built on top of it are creaking accordingly.
+
+
+Two responses present themselves immediately, and neither is sufficient. The first is to design tasks AI cannot do for you: graph manipulation, interactive simulation, multimodal reasoning that depends on visual-spatial structure. But every task we certify as AI-resistant today is provisional, on a clock set by the labs’ release schedule. We end up redefining authentic cognitive work as whatever the latest model cannot yet do, and redefining it again the next time it can. That is no way to write a curriculum. The second is to retreat to proctored, time-limited, human-observed assessment, the conditions under which the behavioural signal returns. But universal proctoring is impractical, expensive, and falls hardest on under-resourced institutions. It is also a measurement fix, not a learning fix: it can tell us whether learning happened, but does little to make learning happen.
+
+
+The third response is the one most consistently ignored, and almost certainly the most important, because it is the one that does not play the arms race at all. If the problem is that students are skipping the cognitive work because an AI is sitting next to them while they study, the answer is not to police the AI or redesign the task. It is to change the moment at which the AI enters the cognitive process. [Wong and Qiu](https://substack.com/redirect/ab8c3937-9347-4446-95b4-23bfd8c9dd1a?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) tested a “think first, ChatGPT later” regime in which students had to generate their own solutions before being allowed to consult the model. On the assisted task this group showed no advantage. On a subsequent transfer task with the model withdrawn, the free-AI users had dropped back to the unassisted baseline, while the think-first group outperformed everyone, including the students who had worked alone throughout. The pedagogical instruction is almost embarrassingly simple. AI introduced before the cognitive work has happened prevents the work from happening; AI introduced after the work has begun has a chance to extend it rather than replace it. The lesson is sequencing, not abstention, and it is almost universally ignored.
+
+
+---
+
+
+### Knowledge for its own sake
+
+
+But all this suggests a transactional notion of education that I find depressing to be honest. The point of a degree, on the older view, was never the certificate. It was the slow cultivation of mind that the certificate happened to represent. [Newman's ](https://substack.com/redirect/64162b6b-2308-4413-87fa-3cb2e1dfc2a7?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[Idea of a University](https://substack.com/redirect/64162b6b-2308-4413-87fa-3cb2e1dfc2a7?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*, von Humboldt's *[Bildung](https://substack.com/redirect/b2209d08-6fbd-4afd-9582-6c6bcb870eed?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*, the post-war liberal-arts settlement: each rests on the assumption that what is valuable about higher education is the knowledge acquired in the doing of it, and that the credential is merely the residue of an interior transformation.
+
+
+But that defence collapses when the learning never happens. And it becomes nearly impossible to sustain when students leave university carrying £50,000 in debt, facing a jobless horizon, clutching a credential the market has already begun to discount. Knowledge for its own sake is a luxury afforded to those who can bear the cost without expecting return. For everyone else, and that is most people, the degree was always a wager: sacrifice now, in time and money, for certification that opens doors later. If the certification fails and the knowledge was never acquired, the wager was simply lost.
+
+
+However I would prefer to make this defence. It is the one I believe. But I (and my generation) did not have to pay £9000 a year to go to university for an interior transformation that the modern student need not, in fact, undergo, in order to enter a labour market that no longer trusts the document the transformation produces.
+
+
+---
+
+
+### **The Broken Contract and what I tell my daughters**
+
+
+The deepest irony is that we possess the tools to make learning more effective. For many of us, AI is augmenting learning in a way we never thought possible. Structured AI scaffolding can extend human cognitive capacity without replacing it. The technology is not inherently destructive. But we are deploying it in ways that bypass the very cognitive processes that make learning durable.
+
+
+The Milburn report focuses on smartphones and social media during adolescence. But the mechanism it identifies, cognitive and behavioural patterns established during formative years that persist into adulthood, points directly to the generative AI question. If smartphones alone can reshape a generation’s capacity for sustained attention and independent problem-solving, what happens when that same cohort spends their university years outsourcing the effortful thinking that builds those capacities to ChatGPT?
+
+
+I think about this often, because I have three daughters. They are growing up in a world where the social contract we inherited; *“work hard in school, earn your degree, build a future”* may no longer hold. The credentials we received certified not just domain knowledge but cognitive capacity: the ability to read difficult texts, synthesise arguments, solve complex problems, and produce coherent work under our own power. If they choose to do one, what will their degrees certify?
+
+
+The deal worked, often enough, for enough people, that an entire civic and economic order was built on the assumption that it would continue to. I am no longer confident it will. I do not yet know what to tell them.
+
+
+---
+
+
+#### Invite your friends and earn rewards
+
+
+If you enjoy The Learning Dispatch, share it with your friends and earn rewards when they subscribe.
+
+
+[Invite Friends](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2xlYWRlcmJvYXJkP3JlZmVycmVyX3Rva2VuPTFyemF1diZyPTFyemF1diZ1dG1fY2FtcGFpZ249ZW1haWwtbGVhZGVyYm9hcmQiLCJwIjoxOTkwMjE1NDMsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc3OTU5ODM1OSwiZXhwIjoyMDk1MTc0MzU5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.5lao7fiVxNYnQ62DuN5ECQAoFLjGoVfXLzT6ish6XWU?&utm_source=substack&utm_medium=email&utm_content=postcta)
+
+
+[Like](https://substack.com/app-link/post?publication_id=3061248&post_id=199021543&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5OTAyMTU0MywicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3Nzk1OTgzNTksImV4cCI6MTc4MjE5MDM1OSwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.px9yspYZdny07H9LbKR_Fyqq32q_XtbIRzK9N_71lJw&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[Comment](https://substack.com/app-link/post?publication_id=3061248&post_id=199021543&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5OTAyMTU0MywiaWF0IjoxNzc5NTk4MzU5LCJleHAiOjE3ODIxOTAzNTksImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.zybWQeJOLNcD1DRhGEBtZh2VWK5JZv-AEugz0xOH1iY&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[Restack](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3AvdGhlLWRlYXRoLW9mLXRoZS11bml2ZXJzaXR5LWRlZ3JlZT91dG1fc291cmNlPXN1YnN0YWNrJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXJlc3RhY2stY29tbWVudCZhY3Rpb249cmVzdGFjay1jb21tZW50JnI9MXJ6YXV2JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakU1T1RBeU1UVTBNeXdpYVdGMElqb3hOemM1TlRrNE16VTVMQ0psZUhBaU9qRTNPREl4T1RBek5Ua3NJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2ljRzl6ZEMxeVpXRmpkR2x2YmlKOS56eWJXUWVKT0xOY0QxRFJoR0VCdFpoMlZXSzVKWnYtQUV1Z3oweE9IMWlZIiwicCI6MTk5MDIxNTQzLCJzIjozMDYxMjQ4LCJmIjpmYWxzZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3Nzk1OTgzNTksImV4cCI6MjA5NTE3NDM1OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.cf9u2HX9dLd-Q_fI-sEUF8f5wFncUryu2JqYNM7PHX0?&utm_source=substack&utm_medium=email)
+
+
+© 2026 Carl Hendrick
+548 Market Street PMB 72296, San Francisco, CA 94104
+[Unsubscribe](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakU1T1RBeU1UVTBNeXdpYVdGMElqb3hOemM1TlRrNE16VTVMQ0psZUhBaU9qRTRNVEV4TXpRek5Ua3NJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2laR2x6WVdKc1pWOWxiV0ZwYkNKOS52R0dZcnJ1NzBmQnlDVm4wV2JPZFlkemhFdkhBNUlwME9iYWN1ZnZNSjBRIiwicCI6MTk5MDIxNTQzLCJzIjozMDYxMjQ4LCJmIjpmYWxzZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3Nzk1OTgzNTksImV4cCI6MjA5NTE3NDM1OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.PaIWk2_Wv63XofefGr5o5EwVQhtCqfhmKShmUGR7lzc?)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1uZXdzdGFydHhtQGljbG91ZC5jb20mcj0xcnphdXYiLCJwIjoxOTkwMjE1NDMsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc3OTU5ODM1OSwiZXhwIjoyMDk1MTc0MzU5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.6CyEJa8OLn09_XRSaTMawvVI9-7gTWVcJsA0QBr5ycE?)

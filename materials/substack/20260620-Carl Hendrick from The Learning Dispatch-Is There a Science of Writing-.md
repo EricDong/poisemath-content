@@ -16,25 +16,156 @@ tags:
 
 ---
 
-![](_assets/20260620-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Is%20There%20a%20Science%20of%20Writing-/p-b1442e85b0.gif)
+Forwarded this email? [Subscribe here](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xcnphdXYmbmV4dD1odHRwcyUzQSUyRiUyRmNhcmxoZW5kcmljay5zdWJzdGFjay5jb20lMkZwJTJGaXMtdGhlcmUtYS1zY2llbmNlLW9mLXdyaXRpbmciLCJwIjoyMDIwNDUzMzgsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc4MTkxNTg5MiwiZXhwIjoyMDk3NDkxODkyLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.FyZ80eymJskztnXxCDi_JlIKlwAJeP3HJXHKxLyH-J0?) for more
 
-"the dry rudiments of the beautiful science of reading"
 
-͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­
+[![](_assets/20260620-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Is%20There%20a%20Science%20of%20Writing-/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa56d5196-0834-44b0-afb1-b9bb512a5047_1162x202-7c9cbec5bf.png)](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3AvaXMtdGhlcmUtYS1zY2llbmNlLW9mLXdyaXRpbmc_dXRtX2NhbXBhaWduPWVtYWlsLWhhbGYtcG9zdCZyPTFyemF1diZ0b2tlbj1leUoxYzJWeVgybGtJam94TURjME5qSTRNemtzSW5CdmMzUmZhV1FpT2pJd01qQTBOVE16T0N3aWFXRjBJam94TnpneE9URTFPRGt5TENKbGVIQWlPakUzT0RRMU1EYzRPVElzSW1semN5STZJbkIxWWkwek1EWXhNalE0SWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkueDRZQllpVTNJVkZQdnNlUEF0M01XbFpZMTVMN1BTb09HenJGQU9YWnJEQSIsInAiOjIwMjA0NTMzOCwicyI6MzA2MTI0OCwiZiI6ZmFsc2UsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzgxOTE1ODkyLCJleHAiOjIwOTc0OTE4OTIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.7-QyhAr-ivYjPEX-4rwMIf_F-09oa8mLyp57lrtagRA?)
 
-[TABLE]
 
-![](_assets/20260620-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Is%20There%20a%20Science%20of%20Writing-/p-b1442e85b0.gif)![](_assets/20260620-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Is%20There%20a%20Science%20of%20Writing-/eJxMkEmu4yAURVfzGVqPJjQD1mLR3EpQbIgwpMq7LzmZ_Ok9ekdHL4WBe-unf7VjsOzJiGQig-fGcsdv1gmGPZRtvaOih4G8hvGLSmvYw2tY6KAyOecEckJ2-98b3d9d20e.gif)
+# [Is There a Science of Writing?](https://substack.com/app-link/post?publication_id=3061248&post_id=202045338&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=false&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjIwMjA0NTMzOCwiaWF0IjoxNzgxOTE1ODkyLCJleHAiOjE3ODQ1MDc4OTIsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.x4YBYiU3IVFPvsePAt3MWlZY15L7PSoOGzrFAOXZrDA)
+
+
+### Writing research has the evidence reading had, but not the influence. Why?
+
+
+[Carl Hendrick](https://substack.com/@carlhendrick)
+
+
+Jun 20
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=202045338&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjIwMjA0NTMzOCwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3ODE5MTU4OTIsImV4cCI6MTc4NDUwNzg5MiwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.epgucooOAjV6o6GYQqKKBhnp8zqAJAClODea-zXVTtQ&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=202045338&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjIwMjA0NTMzOCwiaWF0IjoxNzgxOTE1ODkyLCJleHAiOjE3ODQ1MDc4OTIsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.x4YBYiU3IVFPvsePAt3MWlZY15L7PSoOGzrFAOXZrDA&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=202045338&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjIwMjA0NTMzOCwiaWF0IjoxNzgxOTE1ODkyLCJleHAiOjE3ODQ1MDc4OTIsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.x4YBYiU3IVFPvsePAt3MWlZY15L7PSoOGzrFAOXZrDA)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3AvaXMtdGhlcmUtYS1zY2llbmNlLW9mLXdyaXRpbmc_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPTFyemF1diZ0b2tlbj1leUoxYzJWeVgybGtJam94TURjME5qSTRNemtzSW5CdmMzUmZhV1FpT2pJd01qQTBOVE16T0N3aWFXRjBJam94TnpneE9URTFPRGt5TENKbGVIQWlPakUzT0RRMU1EYzRPVElzSW1semN5STZJbkIxWWkwek1EWXhNalE0SWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkueDRZQllpVTNJVkZQdnNlUEF0M01XbFpZMTVMN1BTb09HenJGQU9YWnJEQSIsInAiOjIwMjA0NTMzOCwicyI6MzA2MTI0OCwiZiI6ZmFsc2UsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzgxOTE1ODkyLCJleHAiOjIwOTc0OTE4OTIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.-3AjLB0cunVRZ-G9UQib82yFDiV9rJpIIybam6Yi9B8?&utm_source=substack&utm_medium=email)
+
+
+[
+
+
+READ IN APP](https://open.substack.com/pub/carlhendrick/p/is-there-a-science-of-writing?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app)
+
+
+*For roughly a decade, the phrase “science of reading” has dominated literacy discourse in the United States, the United Kingdom, and most Anglophone education systems. The phrase refers to a large body of converging evidence about how the brain learns to decode print, the centrality of phonemic awareness, and the role of background knowledge and vocabulary in comprehension. It has reshaped statute, curriculum, and teacher preparation in roughly thirty US states, in England through the statutory phonics screening check and the systematic synthetic phonics requirement embedded in the national curriculum. Writing, by contrast, has been almost entirely absent from this conversation. The natural question is whether there is a comparable science of writing, and if so, why is it so unknown? *
+
+
+---
+
+
+[![](_assets/20260620-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Is%20There%20a%20Science%20of%20Writing-/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F29109c2e-ecc7-4197-aa4f-9d62a496dbd6_1280x686-8f2ff42d49.png)](https://substack.com/redirect/f5afa4ba-ddc9-4d82-9439-efa63281c7a2?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+---
+
+
+Although the ‘science of reading’ appears to be a relatively new term, it appears in an [American education journal as early as 1836,](https://substack.com/redirect/bb5fd676-3723-4a3c-b52a-943256d8ec64?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) and for most of its life it meant nothing other than the study of decoding. The broader body of research came after that, but still quite long ago: [Gough and Tunmer gave us the Simple View of Reading in 1986,](https://substack.com/redirect/d30bac3d-5743-40bb-906f-7db2def52ff2?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) and the journal *Scientific Studies of Reading* has been publishing since 1997 but none of that produced a movement anything like what we have seen in the recent past. It popularity is explained in part by journalism and podcasts such as [Emily Hanford’s hugely successful ](https://substack.com/redirect/284d64c0-cef4-4b86-b7a3-263b5ff3184d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[Sold a Story](https://substack.com/redirect/284d64c0-cef4-4b86-b7a3-263b5ff3184d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)* in 2022, which carried the argument to a far wider audience than the academic literature ever had.
+
+
+[![](_assets/20260620-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Is%20There%20a%20Science%20of%20Writing-/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F623aebbf-11e1-4a66-a0af-1490fa666868_1312x480-2950c45a9a.png)](https://substack.com/redirect/dbfa6fd2-c47c-4f9f-9cb9-7caa8b4b2293?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+* American Annals of Education and Instruction for the Year 1836, Vol. 6, ed. William C. Woodbridge (Boston: Otis, Broaders, and Company), p. 67.*
+
+
+The honest answer is that if we are happy with the term *science of reading* (and “science” here is admittedly doing a lot of heavy lifting), then there probably is a science of writing. However, it is younger, more diffuse, and harder to translate into the kind of media-friendly slogans that tends to travel well. It is also, as [Steve Graham and Young-Suk Grace Kim have repeatedly argued, inseparable from the science of reading itself.](https://substack.com/redirect/ab05495b-5cbf-46ac-bba0-5f026e34781e?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)  But two points emerge from reading through the broader body of evidence.
+
+
+Firstly, the science of writing is much less unified than the science of reading. The science of reading rests on a relatively narrow biological fact, namely that the [brain is just not built to read](https://substack.com/redirect/c6bed8d4-1b02-4892-a5b4-5bbd75addea0?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) and must be taught to map letters to sounds. Writing however, has no equivalent single mechanism. It draws on several things: language, motor control, working memory, knowledge, and motivation. So its scientific base is broader and therefore less easily summarised in a single phrase.
+
+
+Secondly, the strongest findings in writing research are about instruction rather than acquisition. We know with reasonable confidence what kinds of teaching improve writing, (we have meta-analyses to point to¹). But we know less about the developmental trajectory of writing in the way that we know about phonological awareness or orthographic mapping. The science of writing is closer to a science of writing *instruction* than to a basic science of how children acquire the actual skill of writing. In other words, we are better gardeners of writing than we are biologists of it: we know what helps it grow without fully understanding the *thing* that is growing.
+
+
+Ultimately, it simply does not yet have the thing the science of reading possessed at the equivalent stage: a usable theoretical anchor, [a clear political argument, ](https://substack.com/redirect/b480f4e8-d938-4c86-8df7-70fd2c291a25?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)and a settled view of how it could be implemented in the classroom. [The Simple View of Reading ](https://substack.com/redirect/a46fe286-924b-4bf5-92e5-86a160d5f417?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)was clear and reductive (in a good way), and that was its strength. Writing has no equivalent in terms of clarity and may never have one, mainly because its the simultaneous orchestration of transcription, sentence-level syntax, discourse structure, domain knowledge, audience awareness and self-regulation, all of it held in working memory at once, and none of these components reduces to or substitutes for the others.
+
+
+The act of writing is precisely the management of that load, not the exercise of any single faculty. When[ Berninger and Winn called their model the Not-So-Simple View of Writing,](https://substack.com/redirect/2add3fc0-2b40-4a55-822b-985e089002c1?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) the name was an admission as much as a description: the field has looked for its own Simple View and concluded that the object will not yield one.
+
+
+[![](_assets/20260620-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Is%20There%20a%20Science%20of%20Writing-/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fe0b64e69-227e-4bbf-a81a-87d92771263b_1494x680-2f9d41dae9.png)](https://substack.com/redirect/7f38ab35-d6e8-4fbd-8ee2-2ce042d7a46d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+The 13 cognitive resources children have to draw on to write well [(Young & Ferguson 2022) ](https://substack.com/redirect/6ffffbe7-c170-4ce0-90d9-84a0d12a1f63?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+### How to teach writing
+
+
+So what does the science of writing actually look like in a classroom? Across the best books in the field, from [Hochman and Wexler’s ](https://substack.com/redirect/2a168019-a9ff-4aa0-9601-0bdb55a45ac3?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[The Writing Revolution 2.0](https://substack.com/redirect/6537d578-bd9d-4ef9-ab15-4f47f68ba54e?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[ ](https://substack.com/redirect/6537d578-bd9d-4ef9-ab15-4f47f68ba54e?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)to [Harris and Graham’s work on Self-Regulated Strategy ](https://substack.com/redirect/df0fd7fb-ce4d-47ab-b4c6-683eba7cfb2b?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)Development to [Engelmann and Carnine’s older insistence on faultless communication,](https://substack.com/redirect/c5f77fc6-26eb-447e-995e-9eb2a7c5c930?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) the same picture keeps emerging. Writing is taught well when it is broken into components the developing mind can actually hold, and when each component is rehearsed deliberately, in content the child already knows something about, before the next one is added.
+
+
+ The first thing to consider, which is common to all of these traditions, is to privilege the sentence as the unit of instruction. Hochman and Wexler describe the sentence as "*the building block of writing and thinking, the complete thought,*" and they show, with twenty years of classroom evidence behind them, that until children can construct varied sentences they cannot produce coherent paragraphs, let alone essays.
+
+
+Their reasoning is rooted in cognitive science. Working memory, they remind us, can hold only four or five new items for around twenty seconds before it collapses, and a novice writer asked to compose an extended piece is simultaneously juggling letter formation, spelling, word choice, sentence structure, organisation, and the content itself. The result is overload, and overload produces the broken, repetitive writing teachers know all too well. Graham's meta-analytic evidence converges on the same point from the other direction, with sentence combining showing reliable effects on writing quality across grades and learner profiles.
+
+
+The strategies that follow from this insight are deceptively simple. Hochman's *because, but, so *exercise gives children a kernel sentence, *"Abraham Lincoln was a great president,"* and asks them to extend it three ways, each conjunction forcing a different cognitive move: explanation, contrast, and consequence.
+
+
+In a [very good new book](https://substack.com/redirect/288f38f3-76c7-4e4e-8a2e-3e066915ac1b?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) on writing, [David Didau](https://open.substack.com/users/2058233-david-didau?utm_source=mentions) and Rikki Cole call these structures "cognitive levers," and they list them as a small but powerful inventory of subordinating conjunctions, each paired with the kind of thinking it elicits.
+
+
+[![](_assets/20260620-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Is%20There%20a%20Science%20of%20Writing-/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F2267e782-9c4c-4937-bd5e-d9e22146e681_1046x1322-9342933b6b.png)](https://substack.com/redirect/ca6ea492-dae9-4aa5-a2da-a5f2657a3fd3?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+Table 4.1. Cognitive levers. From David Didau and Rikki Cole, *[Writing Fitness: From Beginner to 5K](https://substack.com/redirect/288f38f3-76c7-4e4e-8a2e-3e066915ac1b?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)* (Routledge, 2026), p. 51.
+
+
+So *Although* prompts the consideration of more than one perspective. *Because* forces causal reasoning. *At first glance* invites a child to reconsider a first impression. *Unless* opens up exceptions to a rule. *Even though* signals contrast against expectation etc. The list is short, but the cognitive activiation each conjunction triggers is precise, and the discipline of writing a sentence that begins with one of them is, in effect, the discipline of constructing a thought under syntactic constraint. As Didau and Cole put it, grammar in this sense is not decoration but a "*cognitive lever, shaping precise thought.*"
+
+
+[Harris and Graham's Self-Regulated Strategy Development ](https://substack.com/redirect/729739f5-78bd-4202-a49e-17f839521b80?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)extends the same logic to the level of the composition. Rather than treating writing as a process to be facilitated, SRSD treats it as a sequence of strategies to be taught, modelled, memorised, and gradually released. The six stages, *Develop and Activate Background Knowledge, Discuss It, Model It, Memorise It, Support It, Independent Performance*, are not, as is sometimes claimed, a recipe that crowds out thinking. They are scaffolds that free working memory for thinking by automating everything around it. The accumulated evidence base, over a hundred experimental and quasi-experimental studies across age groups, genres, and learner profiles, makes SRSD one of the most reliably effective writing interventions we have, with the largest effects coming from small-group, trained-instructor delivery and particularly strong effects for students with learning difficulties
+
+
+### **The answering word**
+
+
+Writing is one of the most cognitively demanding activities humans ever undertake. It is also one of the most consequential: to write a sentence well is to think a thought well. Writing is the mechanism by which inchoate thinking is forced into a form that can be examined, challenged, and revised. Speech allows us to be ambiguous annd for misunderstanding to occur,  writing demands that we focus our thoughts in a way that is far more precise.
+
+
+The science of reading, for all its hard-won gains, addresses only half of the literate mind. A child who can decode fluently but cannot produce a coherent paragraph is not truly literate in a meaningful sense; they are a consumer of text who cannot yet participate in the long human conversation that text exists to sustain. Reading lets a child receive what others have already worked out. Writing is what allows them to work something out for themselves and to offer what Bakhtin would call the “answering word”.
+
+
+Like many aspects of explicit instruction, there is also an equity argument here, one that rarely gets made in the same terms as the reading debate. Children from language-rich homes arrive at school having heard, on some estimates, tens of millions more words than their peers, and they have heard those words in the kinds of elaborated, subordinated, causally connected structures that map onto written prose.
+
+
+Children who have not had that exposure are not less capable; they are simply further from the conventions of the written register, and without explicit instruction they will stay there. Explicit teaching in the form of sentence-level teaching, cognitive levers, SRSD scaffolds, and the rest of the apparatus described above are not enrichment for the already articulate. They are the means by which schools can give every child access to the syntactic machinery that the most fortunate learners absorb almost by accident.
+
+
+1
+
+
+Graham, S., Harris, K. R., and Chambers, A. B. (2016). Evidence-Based Practice and Writing Instruction: A Review of Reviews. In MacArthur, Graham and Fitzgerald (eds.), *Handbook of Writing Research* (2nd ed.), pp. 211-226. Guilford
+
+
+#### Invite your friends and earn rewards
+
+
+If you enjoy The Learning Dispatch, share it with your friends and earn rewards when they subscribe.
+
+
+[Invite Friends](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2xlYWRlcmJvYXJkP3JlZmVycmVyX3Rva2VuPTFyemF1diZyPTFyemF1diZ1dG1fY2FtcGFpZ249ZW1haWwtbGVhZGVyYm9hcmQiLCJwIjoyMDIwNDUzMzgsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc4MTkxNTg5MiwiZXhwIjoyMDk3NDkxODkyLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.0tYtMvVG8lLa1_hdW-kUGGHr8jRKRlvipgCPPMYrOQA?&utm_source=substack&utm_medium=email&utm_content=postcta)
+
+
+[Like](https://substack.com/app-link/post?publication_id=3061248&post_id=202045338&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjIwMjA0NTMzOCwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3ODE5MTU4OTIsImV4cCI6MTc4NDUwNzg5MiwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.epgucooOAjV6o6GYQqKKBhnp8zqAJAClODea-zXVTtQ&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[Comment](https://substack.com/app-link/post?publication_id=3061248&post_id=202045338&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjIwMjA0NTMzOCwiaWF0IjoxNzgxOTE1ODkyLCJleHAiOjE3ODQ1MDc4OTIsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.x4YBYiU3IVFPvsePAt3MWlZY15L7PSoOGzrFAOXZrDA&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[Restack](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3AvaXMtdGhlcmUtYS1zY2llbmNlLW9mLXdyaXRpbmc_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPTFyemF1diZ0b2tlbj1leUoxYzJWeVgybGtJam94TURjME5qSTRNemtzSW5CdmMzUmZhV1FpT2pJd01qQTBOVE16T0N3aWFXRjBJam94TnpneE9URTFPRGt5TENKbGVIQWlPakUzT0RRMU1EYzRPVElzSW1semN5STZJbkIxWWkwek1EWXhNalE0SWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkueDRZQllpVTNJVkZQdnNlUEF0M01XbFpZMTVMN1BTb09HenJGQU9YWnJEQSIsInAiOjIwMjA0NTMzOCwicyI6MzA2MTI0OCwiZiI6ZmFsc2UsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzgxOTE1ODkyLCJleHAiOjIwOTc0OTE4OTIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.-3AjLB0cunVRZ-G9UQib82yFDiV9rJpIIybam6Yi9B8?&utm_source=substack&utm_medium=email)
+
+
+© 2026 Carl Hendrick
+548 Market Street PMB 72296, San Francisco, CA 94104
+[Unsubscribe](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakl3TWpBME5UTXpPQ3dpYVdGMElqb3hOemd4T1RFMU9Ea3lMQ0psZUhBaU9qRTRNVE0wTlRFNE9USXNJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2laR2x6WVdKc1pWOWxiV0ZwYkNKOS5pbGcyNzd0Nlk2WUlRLUd1a3FNTk9wanZXNnFWQ0dqRzd5ZkN5TGg5bGFrIiwicCI6MjAyMDQ1MzM4LCJzIjozMDYxMjQ4LCJmIjpmYWxzZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3ODE5MTU4OTIsImV4cCI6MjA5NzQ5MTg5MiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.laH9zpJwlMDTzzm0S53juFIZ0ig0Hy0KyMhUioO1sSA?)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1uZXdzdGFydHhtQGljbG91ZC5jb20mcj0xcnphdXYiLCJwIjoyMDIwNDUzMzgsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc4MTkxNTg5MiwiZXhwIjoyMDk3NDkxODkyLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.2HDBhSoAzCuUKVxy6eJMr_wrYbVDrKbPNDjC7Cqs728?)

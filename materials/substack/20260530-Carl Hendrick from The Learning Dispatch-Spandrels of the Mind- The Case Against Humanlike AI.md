@@ -16,25 +16,252 @@ tags:
 
 ---
 
-![](_assets/20260530-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Spandrels%20of%20the%20Mind-%20The%20Case%20Against%20Humanlike%20AI/p-b1442e85b0.gif)
+Forwarded this email? [Subscribe here](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xcnphdXYmbmV4dD1odHRwcyUzQSUyRiUyRmNhcmxoZW5kcmljay5zdWJzdGFjay5jb20lMkZwJTJGc3BhbmRyZWxzLW9mLXRoZS1taW5kLXRoZS1jYXNlLWFnYWluc3QiLCJwIjoxOTgwMjM4ODQsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc4MDEyMjI5NCwiZXhwIjoyMDk1Njk4Mjk0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.rchmSqYKI_ER7UdELcN8qGq2q_7cU4GiN-E5Ld_wAj0?) for more
 
-AI tutoring will work when it stops pretending to be human
 
-͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏  
-  ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏
-    ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­͏     ­
+[![](_assets/20260530-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Spandrels%20of%20the%20Mind-%20The%20Case%20Against%20Humanlike%20AI/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa56d5196-0834-44b0-afb1-b9bb512a5047_1162x202-7c9cbec5bf.png)](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL3Avc3BhbmRyZWxzLW9mLXRoZS1taW5kLXRoZS1jYXNlLWFnYWluc3Q_dXRtX2NhbXBhaWduPWVtYWlsLWhhbGYtcG9zdCZyPTFyemF1diZ0b2tlbj1leUoxYzJWeVgybGtJam94TURjME5qSTRNemtzSW5CdmMzUmZhV1FpT2pFNU9EQXlNemc0TkN3aWFXRjBJam94Tnpnd01USXlNamswTENKbGVIQWlPakUzT0RJM01UUXlPVFFzSW1semN5STZJbkIxWWkwek1EWXhNalE0SWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuUEdJSjExbThSQmxiaXdaUWY4a01nTTcweVExRjk3aGtmQmd2MUlzOGpBWSIsInAiOjE5ODAyMzg4NCwicyI6MzA2MTI0OCwiZiI6ZmFsc2UsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzgwMTIyMjk0LCJleHAiOjIwOTU2OTgyOTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.8lq_AZiwV3mCSvUU0uKzudxKZs1l8kIRXOnz3m9QQDE?)
 
-[TABLE]
 
-![](_assets/20260530-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Spandrels%20of%20the%20Mind-%20The%20Case%20Against%20Humanlike%20AI/p-b1442e85b0.gif)![](_assets/20260530-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Spandrels%20of%20the%20Mind-%20The%20Case%20Against%20Humanlike%20AI/eJxMkEEO4yAMRU9TlpExJCELzhI54LSoASpiOpPbj9puZvuebD39QML32i7_qqeo6GHGMG-KvZ4daERcrOJM6VjvXLiRcFxJ_rO4gHr4zc77PuM88cImjFFr-98b3d9d20e.gif)
+# [Spandrels of the Mind: The Case Against Humanlike AI](https://substack.com/app-link/post?publication_id=3061248&post_id=198023884&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=false&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5ODAyMzg4NCwiaWF0IjoxNzgwMTIyMjk0LCJleHAiOjE3ODI3MTQyOTQsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.PGIJ11m8RBlbiwZQf8kMgM70yQ1F97hkfBgv1Is8jAY)
+
+
+### AI tutoring might work if it stops pretending to be human
+
+
+[Carl Hendrick](https://substack.com/@carlhendrick)
+
+
+May 30
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=198023884&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5ODAyMzg4NCwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3ODAxMjIyOTQsImV4cCI6MTc4MjcxNDI5NCwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.xQZUArtUdTsKnVb93yOK1tPgOwwyCqueKn_xtW9eTSo&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=198023884&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5ODAyMzg4NCwiaWF0IjoxNzgwMTIyMjk0LCJleHAiOjE3ODI3MTQyOTQsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.PGIJ11m8RBlbiwZQf8kMgM70yQ1F97hkfBgv1Is8jAY&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[](https://substack.com/app-link/post?publication_id=3061248&post_id=198023884&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5ODAyMzg4NCwiaWF0IjoxNzgwMTIyMjk0LCJleHAiOjE3ODI3MTQyOTQsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.PGIJ11m8RBlbiwZQf8kMgM70yQ1F97hkfBgv1Is8jAY)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3Avc3BhbmRyZWxzLW9mLXRoZS1taW5kLXRoZS1jYXNlLWFnYWluc3Q_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPTFyemF1diZ0b2tlbj1leUoxYzJWeVgybGtJam94TURjME5qSTRNemtzSW5CdmMzUmZhV1FpT2pFNU9EQXlNemc0TkN3aWFXRjBJam94Tnpnd01USXlNamswTENKbGVIQWlPakUzT0RJM01UUXlPVFFzSW1semN5STZJbkIxWWkwek1EWXhNalE0SWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuUEdJSjExbThSQmxiaXdaUWY4a01nTTcweVExRjk3aGtmQmd2MUlzOGpBWSIsInAiOjE5ODAyMzg4NCwicyI6MzA2MTI0OCwiZiI6ZmFsc2UsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzgwMTIyMjk0LCJleHAiOjIwOTU2OTgyOTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.PwLNBBG_Y28pIesq-ph2L9_kFZiKzjQOwZ2q86dCMgw?&utm_source=substack&utm_medium=email)
+
+
+[
+
+
+READ IN APP](https://open.substack.com/pub/carlhendrick/p/spandrels-of-the-mind-the-case-against?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app)
+
+
+In Voltaire’s novel *Candide*, the philosopher Dr Pangloss tutors the young hero that everything happens for a reason or the idea that our world is the “best of all possible worlds”. Earthquakes, public hangings, the Lisbon catastrophe and a procession of personal disasters come and go; Pangloss is unmoved. Every horror, on his telling, is the necessary cost of an optimal arrangement too complex for the rest of us to perceive.
+
+
+[![](_assets/20260530-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Spandrels%20of%20the%20Mind-%20The%20Case%20Against%20Humanlike%20AI/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F69d91366-c396-44b6-94d3-05d3eca736de_915x1566-e4216f0b0e.jpeg)](https://substack.com/redirect/a0d00844-07bc-4c75-a551-fb45b2853dbf?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+Pangloss teaching at Thunder-ten-Tronckh, illustration by Daniel-Nicolas Chodowiecky for *Candide* (Berlin, Himbourg, 1778) ([Gallica / Bibliothèque nationale de France](https://substack.com/redirect/db14cd6d-1a79-4331-81df-773393fae4bf?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)).
+
+
+Two centuries later, evolutionary biology developed its own Panglossian paradigm: the assumption that every feature of the body and brain must have been engineered for some ideal purpose. However [a new paper by Kayson Fakhar and Duncan Astle ](https://substack.com/redirect/aadc1a9e-339b-48f6-b744-0eb2be5481a9?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)argues that the assumption is doing real damage in cognitive neuroscience and in the AI research that draws on it. The brain is absolutely **not **the best of all possible cognitive “worlds”. It is the one our ancestors happened to inherit, with the wiring back to front and the optimisation half done.
+
+
+For me, this paper has underlined something quite profound about cognition and captures something I have been thinking about since the emergence of LLMs; the idea that if you set out to design our brains from scratch today, you would do a hell of a lot better than the one reading this sentence.
+
+
+---
+
+
+### Not the best of all possible brains
+
+
+There is a widely held view that the human brain is the most remarkable object in nature. The astronomer Owen Gingerich called it [“by far the most complex physical object known to us in the entire cosmos”](https://substack.com/redirect/4d43e6a9-8404-4980-ae93-3bd89fbf1f28?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs), a view which is often followed with a religious sense of divine creation. Gingerich’s line comes from a book in which the brain’s complexity is offered as evidence of a designer behind the cosmos, and the broader claim that the brain is too marvellous to be the product of blind chance runs straight back to the kind of thinking Voltaire was satirising in Candide. Pangloss’s “best of all possible worlds” was a claim about God’s design before it was a punchline.
+
+
+The reality is that our biology is far from optimal. It is a stack of compromises, and the brain is only one of them. If you want a concrete case, start with the eye. The eye is the part of the body we most often hold up as the textbook case of evolved engineering, (complex enough that Darwin himself worried it might be too complex for natural selection to account for). If you trace what the light actually has to do and the case for elegant design starts to fall apart at the first step.
+
+
+Light enters the human eye, hits the cornea, passes through the lens, and then runs into a problem. Before it reaches the photoreceptors that detect it, the light has to push through a tangle of blood vessels and nerve fibres lying on top of the retina. The cells that do the seeing face the wrong way. The optic nerve punches a blind spot straight through the middle of the picture, and the brain quietly fills it in. (By the way, cephalopods, who evolved eyes on a separate evolutionary line, ended up with the wiring the right way round.) This is not particularly clever engineering, it just happens to be the engineering that won because our alternative ancestors died first
+
+
+[![](_assets/20260530-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Spandrels%20of%20the%20Mind-%20The%20Case%20Against%20Humanlike%20AI/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F956ce677-d296-4618-983e-0914e9c49772_1460x712-c491fd23b7.png)](https://substack.com/redirect/bedd46ef-00b1-4b24-b13a-8d0639254097?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+What the brain does well is occupy a useful position on a high dimensional surface of competing demands, with that position held in place by deep evolutionary history. Some of its features are solutions to problems we care about such as language, theory of mind, or the dopaminergic learning signal that lets you update beliefs from experience.  Others are [spandrels](https://substack.com/redirect/80f39a8f-2749-486c-b591-64aaf4860a78?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs), by‑products of constraints that mattered to a fish four hundred million years ago but still shape how our cortex is wired today.
+
+
+The concept as applied to cognition comes from a 1979 paper by Stephen Jay Gould and Richard Lewontin, ["The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme"](https://substack.com/redirect/25a1e9d2-4a01-4b8a-8e39-746ea8e411f1?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs), one of the most-cited papers in evolutionary biology and the source from which I am borrowing the title.
+
+
+---
+
+
+### Spandrels of the mind
+
+
+A spandrel, in the architectural original, is the tapering triangular space you get when two rounded arches meet at right angles, or when an arch meets the wall above it. You cannot mount a dome on rounded arches without producing them. They exist because of geometry, not because anyone wanted them. The four spandrels under the central dome of St Mark’s in Venice each contain an elaborate mosaic, an evangelist above and one of the four Biblical rivers below. Standing in the church, you are tempted to think the architecture was designed to house these images. Gould and Lewontin’s point is that the causation runs the other way. The mosaics are decoration of inevitable space. The spaces themselves are a by-product of putting a dome on arches.
+
+
+Many features of organisms exist not because they were selected for, but as necessary by-products of selection for something else, or as consequences of developmental or architectural constraints that have nothing to do with the trait’s current use. The example they like best is Tyrannosaurus’s tiny front legs, almost certainly not “for” anything in particular but a developmental correlate of selection on head and hindlimb size. The human chin is another: not a trait in itself but a leftover of the interaction between two growth fields. The whole point is that asking “what is this for?” is the wrong question for a spandrel. The answer is “nothing; the structure that *is* for something else made it inevitable.”
+
+
+[![San Marco Cathedral, Venice](_assets/20260530-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Spandrels%20of%20the%20Mind-%20The%20Case%20Against%20Humanlike%20AI/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fc927e878-9a22-447b-b99b-528003593743_800x533-a9ba739c3a.jpeg)](https://substack.com/redirect/5b6026b0-43e6-4a14-9bf5-d5f1ef5832a1?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+San Marco Cathedral, Venice credit: Richard Carter
+
+
+So there are biological spandrels but also cognitive spandrels which are far less benign. Half a century of work by cognitive scientists like Kahneman, Tversky and others has produced something close to a complete catalogue of the human brain's failure modes: confirmation bias, anchoring, the availability heuristic, base rate neglect, the conjunction fallacy, sunk-cost reasoning, the planning fallacy, hindsight bias, and a long list besides.
+
+
+Memory is no more dependable. [Elizabeth Loftus has spent her career demonstrating that what feels like a recording of an event is in fact a reconstruction reassembled each time it is recalled,](https://substack.com/redirect/26747693-05a0-4d71-9bb6-3d53dc62badd?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) and that the reconstruction is trivially easy to corrupt. None of this is a defect in any individual brain. It is the default architecture, present in every brain ever built. The system that produced this sentence is the same system that systematically misjudges probabilities, misremembers its own past, and is largely convinced of its own competence at all of the above. Whatever else it is, it is not optimal.
+
+
+And crucially, a core characteristic of human cognitive bias is that we think we are special. [The Lake Wobegon effect, ](https://substack.com/redirect/15cdb558-0187-46c3-9634-0ff01b601214?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)where most people rate themselves above average on almost every desirable trait, is the individual version. The brain does not just fail; it fails *confidently.* Ask people to explain how a zipper or a toilet works and they will report a strong sense that they understand both, until they actually try to explain it, at which point the confidence collapses. [Rozenblit and Keil called this the illusion of explanatory depth,](https://substack.com/redirect/5fe1d53a-aa7a-4b17-bd69-10968bcbea6d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) and it applies to almost everything we claim to understand, including the system between our ears.
+
+
+[Nisbett and Wilson showed in the 1970s ](https://substack.com/redirect/c943e7d5-1ca2-4831-aa41-f569fdd453e0?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)that we do not have reliable introspective access to why we do what we do; we just confabulate plausible-sounding explanations and feel confident about them. [Robert Bjork's work on the illusion of fluency ](https://substack.com/redirect/1d946690-b3c2-46e3-9f43-6bb060dc7261?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)makes the same point in the domain that matters most for teachers: students who re-read a passage feel they have mastered it, when that very fluency is the worst predictor of whether they have actually learned anything. The brain, in other words, is the kind of system that produces systematic errors and then assures the user that it has not. If you wanted to build a cognitive system that could not see its own faults, you would build something rather like us.
+
+
+---
+
+
+### Why AI shouldn't think like us
+
+
+To me then, one of the strangest criticisms of AI is the idea that it’s ‘not human’ or doesn’t do things a human does. For anyone who has studied the brain’s hundred‑and‑eighty‑odd cognitive biases, the demand that AI be more like us is almost perverse; the *last *thing you would want from a safety‑critical system is that it think like a human. The human brain is the system that produced rampant confirmation bias, anchoring, the availability heuristic, motivated reasoning, base-rate neglect, the conjunction fallacy, sunk-cost reasoning, the planning fallacy, and all of the rest of it. Half a century of cognitive psychology has shown us how the human mind fails at exactly the kinds of reasoning we would ideally want a cognitive system to do.
+
+
+If we were to design self-driving cars to be “more human”, we would need to programme them to kill an extra 37,000 Americans, and over a million people worldwide, that are currently attributed to human error every year. We do not ask self-driving cars to be ‘more human’ and share the human driver’s 250-millisecond reaction time, 200-degree visual field, or tendency to look at the wrong thing at the wrong moment. We ask them to do the opposite.
+
+
+That is the context in which complaints that *‘AI isn’t really intelligent because it doesn’t think like us’* should be read. If anything, the direction of travel in AI and instructional design should be away from human‑like cognition, not towards it. The question is not whether systems like LLMs pass some folk‑psychological Turing test of sounding human, but whether their pattern of errors, biases and blind spots is *less* correlated with ours, so that human and machine can catch each other’s mistakes rather than amplify them. On that view, insisting that AI must become more human before we trust it has things almost exactly backwards.
+
+
+Now obviously when it comes to deeper ethical and philosophical questions, it’s a differnt story. There are domains where what we actually want is human judgement: questions about what matters, about how to live, about what counts as a fair outcome, about the texture of a particular relationship or a particular pupil’s experience. These are not problems to be solved by colder, cleaner cognition; they are problems the colder, cleaner cognition has no native standing to solve. An AI that bypasses human bias in a probability calculation is doing what we want but an AI that bypasses human judgement in deciding what the school is for is making a category error in the other direction.
+
+
+---
+
+
+### “Beautiful and deserved to be true”
+
+
+Gould and Lewontin [tell a story about Herbert Spencer ](https://substack.com/redirect/25a1e9d2-4a01-4b8a-8e39-746ea8e411f1?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)that I think is just fantastic. Spencer, the Victorian thinker who coined the widely misunderstood term *"survival of the fittest",* had a habit of finding adaptive purpose everywhere he looked. He visited Francis Galton's anthropometric laboratory one afternoon to have his fingerprints taken. As they talked, Galton mentioned the long-running puzzle of how fingerprint ridges develop, and that researchers had been dissecting the fingers of unborn children to find out. Spencer told him this was the wrong question. The right question, he said, was what the ridges were *for*; once you knew that, the developmental story would follow.
+
+
+He then produced, at length, such an elegant explanation: the ridges must exist to protect the delicate mouths of the sweat glands, which would naturally sit safely in the valleys between them. Galton's reply is wonderful on so many levels:* *
+
+
+*"I replied that his arguments were beautiful and deserved to be true, but it happened that the mouths of the ducts did not run in the valleys between the crests, but along the crests of the ridges themselves."*
+
+
+I love this because the retina and the fingerprints are the same just-so story. In each case, a clever story about optimal design collapses as soon as you look at the actual wiring. Biology is full of structures that invite a purpose‑driven explanation and then refuse to co‑operate when you check the anatomy. The danger is not that the stories are ugly, but that they, as Galton put it, are *‘beautiful and deserved to be true’ *and we believe them anyway. Together they bracket what goes wrong when biology is read as engineering, and the same failure mode shows up wherever we treat an evolved system as if it were a designed one, in neuroscience, in AI research, and most damagingly in education.
+
+
+---
+
+
+### The NeuroBollocks of “Brain-based” learning
+
+
+Education has fallen for this trick more credulously than almost any other field. For three decades it has imported claim after claim about “how the brain learns” that turn out, under inspection, to be Herbert Spencer on fingerprints with a flashing fMRI picture of the brain attached. Learning styles, left-brain versus right-brain dominance, hemispheric thinking, the ten per cent myth, multiple intelligences in their classroom-poster versions. Each offered a beautiful explanation of individual differences; each was confidently delivered, often by people charging by the day; and none survives five minutes with the evidence. The brain is not an ideal. It is a compromise. Teaching that treats the brain as the design goal, rather than the design problem, will keep producing elegant stories about ridges and valleys that turn out to run the other way round.
+
+
+The deeper problem is the prefix itself. “Brain-based learning” always sounded silly to me. *All* learning is brain-based, in the same trivial sense that all digestion is gut-based and all running is leg-based. The phrase is the ultimate tautology and most of the genre runs on the same conjuring trick: a vague behavioural claim, a brain image, a confident voice, an invoice. *“Brain-based teaching”, “brain-friendly classrooms”, “neuroeducation”, “neuroleadership”, “neuromarketing”, “neurolaw”, *an entire prefix industry has grown up on the premise that adding “neuro-” to a perfectly ordinary claim transmutes it into a finding. The prefix functions like the word *“organic”* on a supermarket label.
+
+
+[![](_assets/20260530-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Spandrels%20of%20the%20Mind-%20The%20Case%20Against%20Humanlike%20AI/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa8d52a59-b21f-4dbd-a7c3-852238677e5e_1310x1388-34dc3fdb89.png)](https://substack.com/redirect/dfb080cf-4bfa-436a-8fcd-2fd7b8178dac?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+Hydro-bollocks
+
+
+The empirical case for questioning all this is by now embarrassingly strong. Steven Poole popularised the diagnosis in a 2012 New Statesman essay under the name “neurobollocks”;[ a brilliant Twitter account ](https://substack.com/redirect/db652789-5284-43e1-b0c9-684c0021f324?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)of the same name spent years cataloguing examples; Sally Satel and Scott Lilienfeld’s *Brainwashed* did the long-form version. [McCabe and Castel showed in 2008](https://substack.com/redirect/4bbdd8bd-110f-46f6-9e7e-af847270708d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) that people rate the same explanation as more credible when accompanied by an fMRI picture, even an irrelevant one. Weisberg and colleagues showed the same effect for the word “neuroscience” prepended to an otherwise vacuous account. The colours are doing the persuading.
+
+
+John Bruer made the deeper point a decade earlier, in [“Education and the Brain: A Bridge Too Far”: ](https://substack.com/redirect/493bcdb9-65c4-4a5d-951b-e9b06018db30?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)his claim is that almost nothing in neuroscience is at a level of resolution that translates into classroom practice, and the bridge from one to the other is, to a first approximation, made of nothing. A bit harsh I think but certainly the brain scan is the new fingerprint, and the explanations being draped over it are mostly Spencer’s.
+
+
+---
+
+
+### Designing instruction for the brain we actually have
+
+
+One reason why John Sweller’s [Cognitive Load Theory](https://substack.com/redirect/f2ec70c8-8601-415e-9edf-94b1d8cc9193?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) made so much sense to me when I first came across it as a teacher. It refused to flatter the brain with the idea that the human mind is the most wonderful thing in creation. A lot of pedagogical theory I had encountered up to that point assumed the learner’s mind was, in some quiet sense, ready for the material and innately primed to discover knowledge and that the job of the teacher was to remove obstacles, “light a spark”, get out of the way. This model of the brain suggested that learning is largely a natural unfolding, something that will happen of its own accord if we do not get in the way too much.
+
+
+Sweller’s great contribution for me is how he flagged the problem with this in the cognitive architecture itself, and he did so without blaming the student or the teacher. It treated the brain as the design problem rather than the design goal. It was such a relief it was to learn that the reason my students were struggling was not because my lessons were not ‘engaging enough’ but rather the fact that the brain we are teaching was actually *not* built for thinking hard and certainly not built for discovering knowledge for itself. It has severe shortcomings when it comes to learning complex tasks and domains like reading, writing and Maths. Its working memory and attentional frame are vanishingly small. Almost everything you do that feels intuitively right in the learning process, is often the worst predictor of long term learning.
+
+
+---
+
+
+### Learning from a different kind of mind
+
+
+So in terms of instructional design, the question is not whether systems like LLMs pass some folk-psychological Turing test of sounding human, but whether their pattern of errors, biases and blind spots is uncorrelated enough with ours that human and machine can catch each other’s mistakes rather than amplify them. On that view, insisting that AI must become more human before we trust it has things almost exactly backwards for me.
+
+
+One reason I am interested in, and even excited by, the development of AI is that we can learn more about not just how learning happens but about the instructional design that might optimise for it. For the first time we have large, tractable cognitive systems whose internals we can inspect, perturb and redesign, without having to wait for a few million years of evolution or a new cohort of undergraduates. We can see what happens to performance when we change the architecture, relax a constraint, or give the system a memory capacity no human could ever have. We can potentially pick up a much better signal around retrieval, spacing and interleaving that is [almost impossible to do in real classrooms. ](https://substack.com/redirect/0b71a6da-4585-4738-8162-dffc15fa74b8?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+
+That opens up a question education has never been able to ask in a serious way: what would teaching look like if the student were not the only cognitive system in the room. The student is still a human being with the attendant human architecture; limited working memory, attention still fragile, biases still in place etc. We cannot redesign that. What we can do, for the first time in the history of schooling, is pair the student with another kind of cognitive system whose bottlenecks fall in different places. An AI does not need to learn like a human any more than a calculator needs to count on its fingers, and that is precisely the point. Large language models are not interesting because they mimic us. They are interesting because they give us a working counterexample, another way of turning exposure into competence under a different set of constraints. The things our brains find hardest are often the things the model finds* easiest.* And vice versa. Spaced retrieval, the generation of worked examples at scale, patient repetition without irritation: none of these are useful to the student because the AI is more humanlike; they are useful because it is less so.
+
+
+That counterexample cuts both ways. It highlights where our cognitive architecture is astonishingly efficient, for example in how quickly children acquire spoken language from sparse, noisy input, and where it is painfully bad, for example at holding intermediate steps of an algebraic manipulation in mind. It also forces us to be more precise about what we mean by “better learning”. Do we mean faster acquisition, greater robustness to distraction, better transfer to new problems, deeper structural understanding? AI gives us knobs to turn on all of those dimensions, and then invites the awkward question: if this is what a different mind can do with well-designed input, what excuse do we have for curricula and pedagogies that still behave as if the brain were the best of all possible cognitive worlds.
+
+
+---
+
+
+### AI tutors that exploit the asymmetry
+
+
+The same logic carries straight across to the rapidly expanding question of AI in classrooms. The dominant frame is that the AI tutor should be as humanlike as possible, modelled on a patient adult who knows the material, responsive in the way a good teacher is responsive. Some of this is sensible; much of it is the same category error in a new disguise. An AI tutor is not a person and is not a brain. Its constraint space is wildly different. It has no working memory limit in the human sense. It does not get tired. It does not forget systematically. It does not have its own developmental trajectory.
+
+
+The right question for me is not how we make the AI more like the brain. It is what this new system, with its own quite different trade-offs, can do that the human brain cannot, and how we marry the two. Working memory bottlenecks are an evolved compromise, not a target to engineer towards. The fact that the AI does not share them is the opportunity. Spaced retrieval is harder for the human brain than for the model; that is exactly why the AI can scaffold it. Generation of worked examples at scale is trivial for the model and impossible for the classroom teacher; that is the lever.
+
+
+The early experimental evidence on AI tutoring is clearest when the systems lean into this asymmetry rather than play at being a second, slightly worse human in the room. In a recent [randomised controlled trial with 194 undergraduate physics students at Harvard](https://substack.com/redirect/3e9a1a5c-52a3-4d29-95ae-8d5a15006af2?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs), a carefully designed AI tutor outperformed an already refined active-learning class, despite students spending about twenty per cent less time on task and reporting higher engagement and motivation. Students using the AI tutor achieved roughly twice the learning gains of those in the classroom condition, with effect sizes in the range educational researchers almost never see. A small UK trial of a pedagogy-tuned maths tutor in secondary schools found a similar pattern. [Eedi’s constrained AI tutor](https://substack.com/redirect/e7f63461-ce8e-431e-bcdb-07821c164190?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) only activated when a student answered a diagnostic question incorrectly, and its messages were limited to the specific misconception the student held, with a human tutor in the loop. The human-AI team produced around a ten percentage-point gain on a key learning metric compared with 4.5 points for a human tutor alone; the AI effectively doubled the tutor’s impact. The gains were modest rather than miraculous, and they came precisely because the system exploited its differences from the human brain, not because it did a good impersonation of a chatty adult.
+
+
+Education has been worse than most fields at this. We have spent a long time treating biology as both the diagnosis and the cure. Brain scans get invoked to justify pedagogies that the cognitive evidence does not support. The notion that good teaching is what aligns with “how the brain learns” has been the engine of more rubbish than almost any other claim in the field. [Fakhar and Astle’s paper](https://substack.com/redirect/aadc1a9e-339b-48f6-b744-0eb2be5481a9?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) offers a useful tonic. Stop treating biology as the gold standard. The brain is not an ideal architecture. It is a working draft, several hundred million years late, made of compromises some of which are still useful and some of which are merely inherited.
+
+
+What teaching is actually for, on this view, is closer to what it always was: the deliberate construction of cognitive capacities the brain was not built for, using the constraints of the brain as the design problem rather than the goal. The retina faces the wrong way because evolution had no other option. We do have other options. The point of school, and increasingly the point of well-designed AI in school, is to use them.
+
+
+The Panglossian instinct to make AI more humanlike is, structurally, a demand to reproduce our spandrels. The brain's bottlenecks and biases are not features the cognitive system was designed to have; they are the residue of an evolutionary process that was solving for survival, reproduction and energy efficiency, not for holding the intermediate steps of an algebraic manipulation in mind. The working memory limit is not a target. The catalogue of biases is not a feature set. The Pangloss view of cognition asks what these things are for. The Gouldian view answers, accurately, that mostly they are for nothing; the architecture that is for something else made them inevitable. AI does not share the geometry, so it need not share the spaces. The cognitive partner now sitting in our classrooms is the first one in history that gets to be designed rather than inherited, and the temptation to design it as a slightly worse second human in the room is the same instinct that has us teaching to a brain we imagine is the best of all possible cognitive worlds. It is the same mistake in a new register, and the same correction applies: stop worshipping the brain, use the asymmetry.
+
+
+---
+
+
+[Share](https://substack.com/app-link/post?publication_id=3061248&post_id=198023884&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1rzauv&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5ODAyMzg4NCwiaWF0IjoxNzgwMTIyMjk0LCJleHAiOjE3ODI3MTQyOTQsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.PGIJ11m8RBlbiwZQf8kMgM70yQ1F97hkfBgv1Is8jAY)
+
+
+#### Invite your friends and earn rewards
+
+
+If you enjoy The Learning Dispatch, share it with your friends and earn rewards when they subscribe.
+
+
+[Invite Friends](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2xlYWRlcmJvYXJkP3JlZmVycmVyX3Rva2VuPTFyemF1diZyPTFyemF1diZ1dG1fY2FtcGFpZ249ZW1haWwtbGVhZGVyYm9hcmQiLCJwIjoxOTgwMjM4ODQsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc4MDEyMjI5NCwiZXhwIjoyMDk1Njk4Mjk0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.2SrPjrrdnt3W2WGq8-Y4Ay4pnsu9RxKVhG6WrxLeC00?&utm_source=substack&utm_medium=email&utm_content=postcta)
+
+
+[Like](https://substack.com/app-link/post?publication_id=3061248&post_id=198023884&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5ODAyMzg4NCwicmVhY3Rpb24iOiLinaQiLCJpYXQiOjE3ODAxMjIyOTQsImV4cCI6MTc4MjcxNDI5NCwiaXNzIjoicHViLTMwNjEyNDgiLCJzdWIiOiJyZWFjdGlvbiJ9.xQZUArtUdTsKnVb93yOK1tPgOwwyCqueKn_xtW9eTSo&utm_medium=email&utm_campaign=email-reaction&r=1rzauv)
+
+
+[Comment](https://substack.com/app-link/post?publication_id=3061248&post_id=198023884&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjoxMDc0NjI4MzksInBvc3RfaWQiOjE5ODAyMzg4NCwiaWF0IjoxNzgwMTIyMjk0LCJleHAiOjE3ODI3MTQyOTQsImlzcyI6InB1Yi0zMDYxMjQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.PGIJ11m8RBlbiwZQf8kMgM70yQ1F97hkfBgv1Is8jAY&r=1rzauv&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email)
+
+
+[Restack](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvY2FybGhlbmRyaWNrL3Avc3BhbmRyZWxzLW9mLXRoZS1taW5kLXRoZS1jYXNlLWFnYWluc3Q_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPTFyemF1diZ0b2tlbj1leUoxYzJWeVgybGtJam94TURjME5qSTRNemtzSW5CdmMzUmZhV1FpT2pFNU9EQXlNemc0TkN3aWFXRjBJam94Tnpnd01USXlNamswTENKbGVIQWlPakUzT0RJM01UUXlPVFFzSW1semN5STZJbkIxWWkwek1EWXhNalE0SWl3aWMzVmlJam9pY0c5emRDMXlaV0ZqZEdsdmJpSjkuUEdJSjExbThSQmxiaXdaUWY4a01nTTcweVExRjk3aGtmQmd2MUlzOGpBWSIsInAiOjE5ODAyMzg4NCwicyI6MzA2MTI0OCwiZiI6ZmFsc2UsInUiOjEwNzQ2MjgzOSwiaWF0IjoxNzgwMTIyMjk0LCJleHAiOjIwOTU2OTgyOTQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.PwLNBBG_Y28pIesq-ph2L9_kFZiKzjQOwZ2q86dCMgw?&utm_source=substack&utm_medium=email)
+
+
+© 2026 Carl Hendrick
+548 Market Street PMB 72296, San Francisco, CA 94104
+[Unsubscribe](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsaGVuZHJpY2suc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hNRGMwTmpJNE16a3NJbkJ2YzNSZmFXUWlPakU1T0RBeU16ZzROQ3dpYVdGMElqb3hOemd3TVRJeU1qazBMQ0psZUhBaU9qRTRNVEUyTlRneU9UUXNJbWx6Y3lJNkluQjFZaTB6TURZeE1qUTRJaXdpYzNWaUlqb2laR2x6WVdKc1pWOWxiV0ZwYkNKOS5UMm95N2VWN1J0eGM4NFRyMGd1Z3dEalFuM09ZZlNTejZCNW5ySllwX1AwIiwicCI6MTk4MDIzODg0LCJzIjozMDYxMjQ4LCJmIjpmYWxzZSwidSI6MTA3NDYyODM5LCJpYXQiOjE3ODAxMjIyOTQsImV4cCI6MjA5NTY5ODI5NCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.do1KEfR9HQ01WSfYfPAR3H-YVgjlDR1PKu7YdxnDzww?)
+
+
+[](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1uZXdzdGFydHhtQGljbG91ZC5jb20mcj0xcnphdXYiLCJwIjoxOTgwMjM4ODQsInMiOjMwNjEyNDgsImYiOmZhbHNlLCJ1IjoxMDc0NjI4MzksImlhdCI6MTc4MDEyMjI5NCwiZXhwIjoyMDk1Njk4Mjk0LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.v7-CprlDiI4Htfu6Oz-UKvdDYTUPxrs5ElB2Ix4GtyY?)
