@@ -1,0 +1,216 @@
+---
+title: "Children of the Magenta Line"
+date: 2026-07-05
+source: Carl Hendrick, The Learning Dispatch
+subtitle: "Why minimally guided AI does not work. Chatbots, novices, the automation of learning and the case for Alpha School"
+---
+
+# Children of the Magenta Line
+
+*In 1997, American Airlines captain Warren VanderBurgh gave [a lecture warning about the dangers of autopilot](https://substack.com/redirect/659a8a60-d162-4a2a-8e00-3cef60446094?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs). He titled it "children of the magenta line," after the magenta coloured course line the flight computer draws across a cockpit display. He noticed that pilots were so used to following that line, to managing the automation rather than actually flying the plane, that they lost their own skills to manually fly the plane. This wasn’t a problem until it was a problem. *
+
+*VanderBurgh’s concern was not about autopilot itself but rather the complete dependency on autopilot at the expense of the internal knowledge of how it works and the loss of the judgment to know when to use it. In 2009, his warning came true in the very worst way possible over the Atlantic. When Air France 447’s sensors iced over, the autopilot handed a perfectly good airliner back to its crew, the pilots, confused and out of practice, stalled it into the sea.  *
+
+[![](../substack/_assets/20260705-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Children%20of%20the%20Magenta%20Line/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F4dd9104e-0b64-4b42-880f-bb2906b5bda5_1254x704-b45c9c6eba.png)](https://substack.com/redirect/d1dbecc7-ec1d-4fbc-a54c-bde87f973982?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+---
+
+The thing I find really fascinating about this story and why I think it has so much import for learning and AI is that his core diagnosis was that the autopilot was in fact, *not* the problem. The truth is that automated function in planes saves far more lives than it endangers and I think the same will be true of self-driving cars. (I have no interest in the hackneyed claim that the machines are bad and the humans good. The machines are, on the whole, magnificent I think). The thing I think is so interesting is that when faced with an emergency, the pilots reached instinctively for *more* automation not less, when the right thing to do was often to drop *down* a level and fly. So the danger is not automation itself but *over-dependency* on automation and this is quite obviously what happens when we give novice learners unfettered access to chatbots.
+
+But actually its worse than that because those pilots had already internalised lots of organised knowledge. What is happening now for many students is worse because they dont even know what they dont know. To understand why this is the case, we need to go back and look at some misguided ideas about learning.
+
+---
+
+### You can’t connect the dots if you don’t have any
+
+One of the dominant concepts of learning since the 1970s has been the idea that facts and internalised knowledge is the lowest rung on the ladder of learning, the part we can safely externalise, because you can always look it up ([see Bloom’s taxonomy](https://substack.com/@tinaaustin/p-194387968)). Teach the transferable skills, ie the critical thinking, the questioning, the analysing, and let the facts take care of themselves; after all, they are only a search away, and half of them will be out of date within five years in any case. It is a seductive picture, and it is almost exactly wrong. In fact, in the words of Wolfgang Pauli, it’s not even wrong.
+
+The person who addressed this misconception most clearly for me was E.D. Hirsch in a [now-classic essay from 2000](https://substack.com/redirect/d553545d-44fb-453a-ad31-c5557a3044e9?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) in which he examined the misguided progressive view that a child could skip the tedious accumulation of knowledge and acquire instead a set of all-purpose skills, questioning, analysing, synthesising, interpreting, that would serve for a lifetime of looking things up. The trouble with that view as Hirsch expertly showed, is that you cannot connect the dots if you dont have any dots to connect in the first place. These kind of skills are not all-purpose at all, they are dependent on knowledge and you cannot “21st Century skill” your way around it.
+
+The other thing here is that they are also highly domain-specific. You cannot analyse a text on a subject you know nothing about; you cannot evaluate a claim in a field whose hinterland of knowledge is unavailable to you. Comprehension itself, the plain act of understanding a sentence, depends on a vast store of background knowledge, and I am not talking about learning off facts rote here, I am talking about a deeply interconnected tapestry of knowledge that is, in the end, the very apparatus of thought itself.
+
+---
+
+#### [Reading Comprehension Is Not a Skill](https://substack.com/redirect/8d455bd6-75f1-4928-8f3d-7ff29b18b508?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+[Carl Hendrick](https://substack.com/profile/11889163-carl-hendrick)
+
+·
+
+[
+
+Read full story
+
+](https://substack.com/redirect/8d455bd6-75f1-4928-8f3d-7ff29b18b508?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+---
+
+This is what schema theorists have in mind when they talk about assimilation of knowledge and say we grasp a new thing only by fastening it to things we already hold: the richer the existing weave, the more points at which a new thread can catch. This is why knowledge doesn’t just add to what you know but also compounds what you are able to learn next, and why the child with the fuller store of knowledge pulls further ahead with every passing year. It is also the part that can never be looked up, because it is the very thing that makes looking up intelligible in the first place. A chatbot can hand a novice a ‘dot’, fluent, finished and correct but what it cannot do is weave the tapestry, because the weave is not a product to be delivered but a labour that only the mind doing the connecting can perform, and a mind that is handed the finished picture never learns to connect anything at all.
+
+The individual store of knowledge is not interchangeable with the external one, ie a duplicate we keep for convenience and can shed once the external copy is reliable enough. It is the *very *precondition for using the external one at all. To look something up and understand what you have found, you must already know a great deal that you did not look up in the first place.
+
+Knowledge in your own head is the very filter that makes the now constant tsunami of information in our current world legible. The fatuity of *“You can always look it up” *is not false because looking stuff up is bad; it is false because the looking up only works for someone who has already done the learning in the first place.
+
+---
+
+### Why chatbots should be banned in the classroom
+
+At his UCLA graduation last year, a young man named Andre Mai crossed the stage holding his laptop open to the crowd. On the screen, magnified on the arena's jumbotron, was ChatGPT. He was not hiding it. He was showing it off, and his classmates cheered, and when people later asked whether this was cheating he was baffled by the question: his professors, he said, had encouraged the use of AI. The [subsequent viral video](https://substack.com/redirect/e5e8ff55-09de-4119-aea1-cc74bc5ab82d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) received tens of millions of views inside a few days, led to claims to take his degree back and that “we’re so cooked”, and revealed to the world something profoundly broken about education as we currently know it.
+
+But the tragic part of this for me is not that this made a complete mockery of the occasion or that the he didn’t even see he had done anything wrong. It was that his professors, he said, had encouraged the use of AI, and so he had done exactly what he was told he could do.* *
+
+[![](../substack/_assets/20260705-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Children%20of%20the%20Magenta%20Line/https%253A%252F%252Fsubstack-video.s3.amazonaws.com%252Fvideo_upload%252Fpost%252F203663647%252Fffc30afd-15c2-4d71-8086-087cd86d9239%252-fa64c842dd.png)](https://substack.com/redirect/5fb98a80-59a5-430d-a461-d523de47212e?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+---
+
+This moment suggests to me that something has fundamentally gone wrong in education and that so many in the field simply have no clue how to respond to what’s coming. A degree is supposed to be a proxy for a changed mind: proof that the person holding it now carries knowledge, judgement and skill they did not possess four years earlier. What is the value now of that credential?
+
+---
+
+#### [The Death of the University Degree](https://substack.com/redirect/cc3b1208-153e-46a9-b78d-8fb3eb8f2108?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+[Carl Hendrick](https://substack.com/profile/11889163-carl-hendrick)
+
+·
+
+[
+
+Read full story
+
+](https://substack.com/redirect/cc3b1208-153e-46a9-b78d-8fb3eb8f2108?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+---
+
+A really good piece on this was James Walsh’s *New York* essay, [Everyone Is Cheating Their Way Through College](https://substack.com/redirect/1141f9ca-002b-4bfa-9678-32378dac00d0?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) in which Walsh introduces us to a Columbia undergraduate, Roy Lee, who breezed through the core curriculum on ChatGPT because, he shrugs, *“most assignments in college are not relevant. They’re hackable by AI.” Why trouble to reach an Ivy League university at all? “It’s the best place to meet your co-founder and your wife.”*
+
+More alarming, is the account of a student called Wendy, who used the chatbot to write a paper on critical pedagogy (in fairness the human slop from this field is arguably worse than anything AI has ever produced), an essay arguing that learning is what *“makes us truly human”,* and could not see the irony when it was put to her. Her own account of the method is the most damning line: it *“just gives you straight up what you have to follow. You just don’t really have to think that much.”*
+
+Almost all of this commentary though, seems to view the problem through the lens of cheating as if this is all the students’ fault. The anxiety is about integrity, detection, the arms race between the essay mill and the plagiarism scanner. A few people seemed to have grasped that this cannot be the whole of it. Phil Christman, who teaches first-year writing, [comes closest in Slate](https://substack.com/redirect/fd0e2edb-0ded-4b14-9533-ab363fb7c3d1?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs): the chatbot, he grants, *“hurts their ability to learn”, *but the deeper casualty he says is *“the trust that any teaching relationship depends on”*. He is right that trust is a casualty, and he is not alone in his unease; a [New Yorker essay by Jessica Winter ](https://substack.com/redirect/8886e80b-5118-43f8-a418-71c7b8d3ad7d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)recently conveyed the turning tide, “a growing number of parents, educators, and cognitive scientists” now saying that AI does not belong in the rooms where children learn.
+
+So how bad is the problem? In the year before Andre Mai crossed that stage, the share of American teenagers who [told Pew they used ChatGPT for schoolwork ](https://substack.com/redirect/9d56f356-fb38-4f4c-ba5b-35816d54ffb3?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)had doubled, from 13 per cent in 2023 to 26 per cent in 2024, and because familiarity is the strongest predictor of use, with 56 per cent of the teenagers who know the tool well already leaning on it, that number is probably a conservative estimate.
+
+[![](../substack/_assets/20260705-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Children%20of%20the%20Magenta%20Line/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F4da6a1c2-3ff7-40a7-8270-81a9805f67cb_400x768-a1557ca478.png)](https://substack.com/redirect/454ff8ee-00d2-4d00-83bd-fb4853198061?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+[Pew, 2025](https://substack.com/redirect/9d56f356-fb38-4f4c-ba5b-35816d54ffb3?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+But the thing I find truly dispiriting and frankly bizarre about this is that the broader education establishment not only seems to have no clue how to address this, but in many cases they are actively making it worse. Many exam boards are passing the buck, invoking the language of “academic integrity”, as though again, the problem were with the students rather than their own abdication of responsibility.
+
+The International Baccalaureate has got this spectacularly wrong I think and managed the rare feat of writing a policy that refutes itself in its own supporting examples. Artificial Intelligence, [the IB assures us](https://substack.com/redirect/6ba15798-2499-4236-a8b3-fbaf6d4c838b?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs), *“will become part of our everyday lives, like spell checkers, translation software and calculators,” *and so students may use it provided they treat it *“as with any quote or material from another source” *and reference it in the bibliography. Except of course that chatbots are not just “any quote” or “source”, they’re completion engines.
+
+*“The IB believes that artificial intelligence (AI) technology will become part of our everyday lives—like spell checkers, translation software and calculators. We, therefore, need to adapt and transform our educational programmes and assessment practices so that students can use these new AI tools ethically and effectively. The IB is not going to ban the use of such software but will work with schools to help them support their students on how to use these tools ethically in line with our principles of academic integrity.” [source. ](https://substack.com/redirect/6ba15798-2499-4236-a8b3-fbaf6d4c838b?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*
+
+A spell checker corrects a word; a calculator resolves a computation; each automates a bounded clerical task but then hands the actual reasoning back to the student to complete. However, a chatbot writes the whole damn essay.
+
+Let’s be clear about two things here. Firstly, in any kind of proper scholarship, a “source” is something you consult, and then have to do the real work with; read it, question it, weigh it against other sources, and fold it into an argument that is your own. Chatbots on the other hand bypass all of that, they are a completion engine which does the work you were meant to do. Asking a student to reference the AI that produced their paragraph is not a “safeguard against academic misconduct”. It is giving students the flimsiest of guidelines to work with and hoping for the best. It is also something that will ultimately penalise the ones who are the more academically “honest” and diligent.
+
+Secondly, you cannot cite your way out of not having done the thinking. A citation records where knowledge *came from*; it cannot manufacture the knowledge the citation was meant to certify. For someone who already mastered a domain of knowledge, this doesn’t matter, because the expertise is already built and the reference is just an honest note about what led to the learning. For the novice however, whose entire task is to build that expertise, so *“reference the AI” *is not a safeguard, its a free pass to bypass thinking altogether dressed up as “academic integrity”.
+
+So to say that citing a chatbot cannot manufacture the thinking is true, but it only hints at the symptom not the real cause. The deeper question is why handing a novice the finished answer should damage learning at all, when handing a novice a good explanation plainly helps it. The answer is not obvious, and here I will turn to one of the most important papers in educational psychology.
+
+---
+
+#### [AI Brain Fry, Workslop and the Ironies of Automation](https://substack.com/redirect/f59edd1d-ae5c-4154-89e7-5e7d0db11c8d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+[Carl Hendrick](https://substack.com/profile/11889163-carl-hendrick)
+
+·
+
+[
+
+Read full story
+
+](https://substack.com/redirect/f59edd1d-ae5c-4154-89e7-5e7d0db11c8d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+---
+
+### Why Minimally Guided AI Does Not Work
+
+In 2006 [Paul Kirschner](https://open.substack.com/users/98747293-paul-kirschner?utm_source=mentions), John Sweller and Richard Clark published a paper which had a huge influence on me and many other educators based in the UK : *[Why Minimal Guidance During Instruction Does Not Work](https://substack.com/redirect/f0e9af82-5799-4cd8-8dae-aa0606d2e71d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*. Their target was the whole family of “minimally guided” approaches such as discovery learning, problem-based learning, inquiry learning, constructivism, that broadly share a single misguided idea: that learners build knowledge most durably when they construct it for themselves rather than being shown explicitly.
+
+[![](../substack/_assets/20260705-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Children%20of%20the%20Magenta%20Line/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F4e08ceae-de26-4574-b230-f83b405df811_1322x666-7df266b7fb.png)](https://substack.com/redirect/f0e9af82-5799-4cd8-8dae-aa0606d2e71d?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+I once joked to my wife that I’d like to call our three children Kirschner, Sweller and Clark. It didn’t go down well.
+
+Their argument against it was not so much ideological but architectural. Working memory is narrow and easily swamped; long-term memory is vast; learning is the effortful business of moving something from the first into the second. Minimal guidance fails because it floods the narrow channel with the wrong load, leaving novices to hunt for information they lack the schema to find. And the advantage of guidance, they observed, recedes only once a learner knows enough to guide himself.
+
+Underneath this sits a distinction that John Sweller arguably built cognitive load theory on: the brilliant discovery that solving a problem and learning from it are not the same thing, and can even work against each other. A novice can reach the right answer by trial and error, or by working backwards from the goal ([means-end analysis](https://substack.com/redirect/1fc0afec-dec3-4514-ba23-24fa587db91a?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)), and form no durable schema at all, because every scrap of his working memory went into reaching the answer rather than into grasping the structure that produced it. Performance and learning are not the same thing. You can watch a student succeed and be watching him learn nothing: a chatbot is a machine for maximising the first while giving the illusion of the second. It manufactures correct answers at scale and builds nothing behind them, which is precisely the pattern the trials keep turning up, scores up during practice, knowledge gone by the test.
+
+At which point a fair objection emerges here. Direct instruction also hands knowledge over; the whole case against discovery learning is that novices should be shown rather than left to flounder. So why is a chatbot not simply very efficient teaching, the logical end of the same argument? Because the two hand over entirely different things. Good instruction hands over a carefully designed structure built to be absorbed: the worked example you study line by line, the explanation you have to follow, the guidance that deliberately fades as your own competence grows. Its entire design is to get knowledge into your long-term memory and then step back. A chatbot hands over the finished answer to the task in front of you and asks nothing of your memory whatsoever. One is a scaffold, put up so that something can be built and then taken down; the other is a crane that lowers the finished object into place and leaves you standing beneath it, having lifted nothing and learned nothing about how it was made.
+
+An open chatbot in the hands of a novice is therefore minimal guidance carried to its logical conclusion. In fact it’s worse, it is discovery learning with the actual discovery removed.
+
+#### What grokking tells us: There is no shortcut to understanding
+
+A digression. There is a curious echo of all this inside the machines themselves. When you train a neural network on certain tasks it will often do the obvious thing first: it memorises. It fits the examples it has been shown perfectly and remains hopeless on anything new, having learned the answers rather than the rule that produces them. Researchers call the thing that sometimes happens next “grokking”¹, a term which comes from [Robert Heinlein's brilliant 1961 novel ](https://substack.com/redirect/34d6fa60-b392-4e67-8f34-7bfc7ca6af6f?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[Stranger in a Strange Land](https://substack.com/redirect/34d6fa60-b392-4e67-8f34-7bfc7ca6af6f?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[, ](https://substack.com/redirect/34d6fa60-b392-4e67-8f34-7bfc7ca6af6f?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)in which "grok" is a Martian verb meaning to understand something so completely that you merge with it, that it becomes a part of you.
+
+So with LLMs, long after the network has aced its training set, and only after a great deal more effort, its performance on unseen problems suddenly climbs, as though it had at last stopped reciting and started understanding. The key idea here for me is that memorisation is fast and cheap; generalisation is slow, and arrives late if it arrives at all, and on some tasks never comes, because the data stays, in the researchers’ own phrase, effectively random to the model.
+
+In other words, the network prefers the patterns that are quick to learn and poor at transferring, and only reluctantly gives them up for the slow ones that actually generalise. I offer this as analogy and not as evidence; a transformer doing modular arithmetic is not a child, and I have spent too long objecting to brain-based hand-waving to smuggle in a machine-based version of it here. But the shape of the thing is instructive I think. Even the systems we built to be shortcuts confirm that there is no shortcut from having seen the answer to understanding it. Fluency without the slow work is a performance, and it shatters the moment the task is one it has never seen.
+
+### AI is bad for novice learning but a gift for expert learning
+
+So how to we make sense of all this? Fitzgerald once said that *“the test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.”*² I certainly don’t consider myself to have a first rate intelligence but I have tried to live by this maxim wherever possible and also how it resonates with one of Fitzgerald’s (and my) idols John Keats and his idea of [negative capability](https://open.substack.com/pub/carlhendrick/p/ultra-processed-minds-the-end-of?r=72tqj&selection=6acb9eaa-f7fd-4c07-b320-48a308701d31&utm_campaign=post-share-selection&utm_medium=web&aspectRatio=instagram&textColor=%23ffffff&bgImage=true).
+
+Since I first encountered LLMs in the form of chatGPT back in those heady days of 2023, I found myself thinking two counterintuitive things about AI and learning:
+
+-
+
+AI is bad for novice learning.
+
+-
+
+AI is a gift for *designing *learning.
+
+Back in 2023, I was seeing how disastrous chatbots were for novice learners in school and college but at the same time, I personally was learning more and with greater intensity, than I had since my days at University, and more importantly for my own work, I was learning more about learning science and instructional design than ever before. I was also fascinated at how LLMs were telling us something about the fundamental nature of learning itself.
+
+For a while I held these two thoughts as a real contradiction, and it really nagged at me. If AI was hollowing out the learning of students, why was it so powerful for me? I resolved this eventually by realising that the two ideas were not opposed at all. They were the same idea seen from opposite ends of expertise. What gave me real clarity however (and to be frank, a kind of Damascene conversion), was visiting a highly unique school in the US with a group of other learning scientists and seeing how they were harnessing but also limiting the latent power of AI.
+
+### The case for Alpha School
+
+Last year I visited Alpha school in Austin and met with Joe Liemandt and his team. One of the things which convinced me that something different was going on there was when he made it very clear that chatbots are banned for learning in the classroom at Alpha school and calling them “cheatbots”. This was surprising because I had mistakenly assumed that the most AI-driven school on the planet would be the very place that was creating the education equivalent of children of the magenta line at scale.
+
+The other thing that surprised me was that everyone I met there from the engineers to the guides working with kids were all talking about Engelmann, Sweller, Kirschner, Ausubel, Willingham and all the people who had formed my own view of how learning happens. The counterintuitive thing for me was that their approach was not only to completely reject the minimally guided approaches which I have spent my career fighting against but how to engineer the best conditions for learning through curriculum design and learning science and through an intensive period of focus in the morning where the kids work towards mastery not simply time on task.
+
+The missing element for me was creating the kind of constraints that I knew would lead to learning. I had assumed that the only place this works at scale is the classroom. Indeed, the history of edtech has been one of expensive failure and my view up until last year was that, to paraphrase an old colleague, the best way to use technology in the classroom is *not *to use technology in the classroom.
+
+But the inconvenient truth is that learning doesn’t care how it happens. It follows the same stubborn principles either way: mastery before moving on, effortful retrieval, the right cognitive load at the right moment.
+
+I also realised that almost everything I learned since the age of 12, I have learned on my own. Mainly through books, but also through videos like [Ken Clark’s Civilisation ](https://substack.com/redirect/b63bc800-222c-46ee-9f4b-3987ad9bea24?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)and Ken Burns’ documentaries about America. I think this is why I have always disagreed with social constructivism as a means of teaching.
+
+[![](../substack/_assets/20260705-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Children%20of%20the%20Magenta%20Line/V0MmfgEZnaE-c1cb915046.jpg)](https://substack.com/redirect/ad6d873d-3275-44dd-84cc-8141edec2ab3?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+The thing which surprised me further was learning that the answer to the chatbot problem, *also* comes from AI itself and how Alpha have created a highly constrained platform where students not only cannot access chatbots, but have to complete the cognitive tasks put to them, designed by learning science. The AI monitors and evaluates what the student is doing at every step, tracking where they are fluent and where they stall, which misconceptions are surfacing in real time, what has been mastered and what needs to come round again. It calibrates the difficulty in real time, refuses to let a student move on until the current idea is genuinely secure, and tells the human guides precisely which child needs what. What it never does is the one thing an open chatbot does by default, which is the actual thinking. The aim is that the cognitive work stays exactly with the student. The machine’s job is not to spare the child the [desirable difficulty](https://substack.com/redirect/44fad657-50d8-4a2c-9b88-b55cca3ad299?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) but to engineer the right amount of it, and then to make sure it actually takes place.
+
+And the thing I find most hopeful about this whole enterprise is that it is only getting started. There is a great deal still to do, and I say that as someone who now spends part of his working life doing it, because after that visit I was fortunate to be offered the opportunity to work with Alpha and an incredible team of learning scientists, educators and engineers on the learning science behind these systems. I mention this not as a disclaimer to be got out of the way but because it is the whole point: the visit changed my mind, and changing my mind changed what I do.
+
+Admittedly, I want kids spending as less time as possible in front of screens. [I would like to see them reading physical books for long, uninterrupted stretches every day,](https://substack.com/redirect/8e7f47aa-f4d2-4444-99cc-b80f9945eebd?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) discussing/arguing with each other, playing sports, making things with their hands, out in the world. But I see no contradiction at all between that and what I have just described, because the entire point of compressing the academic core into a short, intense, well-designed block is that it buys back the rest of the day. Every teacher knows that if you could get kids to focus, *really focus,* for a few hours each day you would have most of the battle won.
+
+The scarce resource in education is not time, it’s attention. So much of a school day is lost to friction: the settling and re-settling, the misbehaviour, the transitions, the admin, the low hum of thirty minds doing their best but half-present. Protect a short block of genuine concentration, and the amount a child can learn inside it is remarkable.
+
+The other problem is that it is very hard to scale good teaching. This is the fact that every reform of the last century has struggled with. An uncomfortable truth is that the variation in teacher quality is real and often larger than we might like to admit. ( And I say this as someone who worked in a classroom for 18 years.) We know, with about as much confidence as education ever offers, what works well in the average: a positive environment, clear routines, high expectations, explicit instruction, motivating kids, well designed curricula, worked examples, spaced retrieval, feedback tuned to the individual child at the moment of difficulty, the slow accretion of knowledge in a sensible sequence.
+
+But what we have so rarely solved is how to give thirty children at thirty different points all of that at once, from one teacher, in one room, for one hour. The best teachers approximate it through sheer  virtuosity, craft and stamina, and often burn out doing so. This is why the effect of a truly excellent teacher is real and measurable and also, at the level of a system, almost impossible to reproduce. You cannot clone the person, and the moment you dilute the method to fit the average classroom, the very thing that made it work in the first place is lost.
+
+This is where I finally understood what the technology was for, and it was not what I had feared. The core idea was never a machine that teaches in place of a human. It was a machine that does the one part of good teaching that is so hard to scale: the careful and precise sequencing of knowledge, the relentless, patient, individual tracking of where each child is, what they have mastered, what they are about to get wrong, and what they need next. That is not the glamorous part of teaching and it is not the human part; it is the sort of clerical substrate beneath the human part, the bookkeeping of thirty separate minds. So again with the paradox, the automation, done right, does not replace judgement. It creates the conditions under which human judgement can finally be spent where it counts.
+
+The case for [TimeBack](https://substack.com/redirect/bb35a939-ee06-44ec-b979-7e785a59c6e0?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) (the AI-powered EducationOS behind Alpha), was never that screens are good; it was that the cognitive work must remain with the child. And once you believe that, and properly hold to that, the screen is there only for the narrow window in which it does something different; calibrating difficulty in real time, catching the misconception at the moment it forms in a way that is efficient and scalable. The morning block at Alpha is short by design. The point of compressing the academic core into a couple of hours of intense, guided, machine-monitored work is not to maximise time on screen but to *minimise it*, to buy back the rest of the day (6 hours) for other stuff that they would never get to do otherwise. The paradox I saw there was that technology enabled more human interaction, not less.
+
+Used badly, technology expands to fill a childhood. [Robert Pondiscio](https://open.substack.com/users/3024781-robert-pondiscio?utm_source=mentions) has argued convincingly [here](https://substack.com/redirect/575d74fd-3a4a-4365-9344-7b060db16976?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) that the anti-phone movement, however justified, risks turning into a simple philosophy of technological abstinence, and that the important question is not whether a tool involves a screen but what it does to a student’s attention and cognition. He is right of course, and it is the same point I am keen to make: the phone and the open chatbot are interruption and substitution engines respectively, tools that degrade the very faculties school exists to build. However, a tool designed to protect the difficulty rather than remove it is a very different animal altogether.
+
+### Beyond the Magenta Line
+
+Which returns me, in the end, to Warren VanderBurgh and the line he drew across that cockpit display. His warning was never that automation was the problem, rather it was that a tool built to reduce our workload will, if we let it, quietly reduce our competence, and that the reduction is invisible right up until the point it is not, when the sensors ice over and the autopilot hands the aircraft back and there is no one aboard who remembers how to fly. The chatbot is in danger of doing to a generation of novices exactly what the flight computer did to a generation of pilots, with one major difference: The pilots of flight 447 had the knowledge but lost the access to it. The students we are now raising on frictionless answers are being denied the knowledge in the first place, and you cannot drop down a level and fly the plane manually if you were never taught to fly at all.
+
+The task then, is not to keep AI out of education, which let’s be honest, is neither possible nor desirable, nor to wave it in under the flag of academic integrity, offload all the responsibility to the kids and hope for the best. It is to do the harder thing: to design the optimum setting for understanding to flourish, to provide the constraints under which learning happens, to engineer the conditions under which the cognitive work stays with the child. To build the tapestry first, by hand, in sequence, under guidance, and only then to hand over the tools that assume it is already there. Get that sequence wrong and we will produce, at extraordinary expense and remarkable speed, a generation of children of the magenta line, fluent in following and helpless the moment the line disappears. Get it right, and we may yet have the first genuinely new answer to an old question, which was not how to make learning easier, but how to make it happen at all.  And the possibility of doing so at a scale we could never have previously imagined.
+
+---
+
+[![](../substack/_assets/20260705-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Children%20of%20the%20Magenta%20Line/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F90feae96-d3c4-4b8c-a1b4-0b874a9752fb_924x486-fd7d509f30.png)](https://substack.com/redirect/b4e5f418-b43c-4194-8474-ad4e0c0821c3?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+1
+
+Thanks to the brilliant [Barbara Oakley](https://open.substack.com/users/54892936-barbara-oakley?utm_source=mentions) for sending me this paper: Alethea Power, Yuri Burda, Harri Edwards, Igor Babuschkin and Vedant Misra, "Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets," arXiv:2201.02177 (2022).
+
+2
+
+F. Scott Fitzgerald, “The Crack-Up,” *Esquire*, February 1936; repr. in *The Crack-Up*, ed. Edmund Wilson (New York: New Directions, 1945).

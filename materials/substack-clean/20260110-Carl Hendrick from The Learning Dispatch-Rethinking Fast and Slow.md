@@ -1,0 +1,86 @@
+---
+title: "Rethinking Fast and Slow"
+date: 2026-01-10
+source: Carl Hendrick, The Learning Dispatch
+subtitle: "New evidence suggests the standard dual process story undersells intuition"
+---
+
+# Rethinking Fast and Slow
+
+*How much of good thinking happens before we even start trying? The question sounds almost paradoxical, especially in the shadow of **[Thinking, Fast and Slow. ](https://substack.com/redirect/aac8bd30-536e-441f-940c-bd935dd8cef6?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)**For more than a decade, Daniel Kahneman’s influential framework has shaped how we talk about thinking, learning, and intelligence. We have absorbed the lesson that fast thinking is intuitive and unreliable, while slow thinking is careful, effortful, and corrective. Education, unsurprisingly, has leaned hard into this story. We give students time to reflect. We encourage them to slow down. We equate intellectual seriousness with visible effort.*
+
+*But what if this picture is incomplete? What if, for a significant class of problems, the most important cognitive work has already been done before deliberation even begins?*
+
+[![](../substack/_assets/20260110-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Rethinking%20Fast%20and%20Slow/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fec60f89b-0228-4da2-b25b-22628c045611_892x516-d75a07f910.png)](https://substack.com/redirect/fc0f6452-3c6d-45f3-8f50-94e1412bc960?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+---
+
+A striking[ new study published in ](https://substack.com/redirect/9b5d42d4-322c-43aa-af3e-9ad2ec10ac40?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)*[Cognition](https://substack.com/redirect/9b5d42d4-322c-43aa-af3e-9ad2ec10ac40?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)* by Jérémie Beucler and Wim De Neys challenges the received wisdom that correct thinking necessarily requires deliberation. Their findings suggest that when it comes to creative problem solving, the intuitive mind may be far more capable than we have traditionally assumed.
+
+The researchers used the [Compound Remote Associates test,](https://substack.com/redirect/e686266b-0151-4061-b524-26c0fce45b0f?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs) a classic measure of convergent thinking in which participants must find a single word that connects three seemingly unrelated words. Given “river, note, account,” for instance, the solution is “bank” (riverbank, banknote, bank account). It is the kind of problem that appears to demand careful, methodical search through one’s mental lexicon.
+
+The ingenious twist in this study was the use of a two response paradigm. Participants first had to provide an answer under severe constraints: a tight deadline of six to eight seconds combined with a concurrent cognitive load task (memorising a matrix pattern). These conditions were designed to minimise the likelihood of deliberate processing. Only after this initial, intuitive response were participants given unlimited time to deliberate and provide a final answer.
+
+Participants first memorised a dot pattern, then had just six seconds to solve the word association problem (here: COTTAGE, SWISS, CAKE; solution: "cheese") while holding the pattern in mind. Only after recalling the matrix were they given unlimited time to deliberate on the same problem. Trials where participants missed the deadline or failed to recall the correct pattern were excluded, ensuring that initial responses genuinely reflected thinking under constraint.
+
+[![](../substack/_assets/20260110-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Rethinking%20Fast%20and%20Slow/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F1d6701fa-51b9-439d-9177-310a1e1ee422_1691x623-e6bbe2375b.jpeg)](https://substack.com/redirect/5826e5c7-2a44-4322-87d2-e99a08568c13?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)
+
+Fig. 1. Time course of a two-response CRA trial (Experiment 2).
+
+The results were remarkable. When participants gave a correct final answer, they had already given the correct answer in the initial, intuitive stage approximately 70% of the time. In other words, extended deliberation was not the engine of correct responding; it was, more often than not, merely confirmation of what the mind had already produced under conditions that precluded careful thought.
+
+This finding inverts a common assumption of dual process theories, which have dominated cognitive psychology for decades. The standard story runs something like this: fast, intuitive “System 1” processes generate quick but often erroneous responses, while slower, effortful “System 2” processes detect and correct these errors. Sound thinking, on this view, is fundamentally about engaging deliberation to override misleading intuitions.
+
+But the evidence increasingly suggests otherwise. As Beucler and De Neys demonstrate, sound thinkers are not primarily characterised by their capacity to correct intuitive errors through deliberation. Rather, they appear to be distinguished by their ability to intuit correctly in the first place.
+
+#### **What predicts good intuition?**
+
+What makes some people better intuitive thinkers than others? The researchers found two key factors. First, problems with a smaller semantic search space, where the solution word is closer in meaning to the cue words, were more likely to be solved intuitively. This is perhaps unsurprising: easier problems are easier.
+
+The second finding is more intriguing. Using a verbal fluency task to map participants’ semantic networks, the researchers found that individuals with more interconnected, flexible semantic memory structures displayed higher rates of correct intuitive responding. Specifically, those who performed well intuitively had semantic networks characterised by shorter path lengths between concepts, greater local clustering, and fewer distinct sub-networks. Their knowledge was not siloed but integrated.
+
+Crucially, the researchers also measured “forward flow”: how efficiently participants traversed semantic space when generating words. This metric predicted intuitive performance even after controlling for the sheer number of words produced. It was not how much people knew that mattered, but how their knowledge was organised and how fluidly they could move through it.
+
+#### **Structure, not quantity**
+
+This distinction is important and worth dwelling on. The study does not show that knowing more stuff produces better intuition. It shows that having a more *interconnected, flexible semantic architecture does*. These might correlate, but they are not the same thing. Someone with a vast but poorly integrated body of knowledge might perform worse than someone with less knowledge that is richly interconnected.
+
+In other words, it’s not so much *what* you know but the *way *in which you know it.
+
+The metaphor of a network is apt. Imagine two libraries containing the same number of books. In one, the books are organised by arbitrary criteria; in the other, related volumes are shelved together, with cross references and connecting passages between sections. A reader in the second library will find relevant material faster, not because there is more of it, but because the structure facilitates retrieval.
+
+The study suggests that something similar operates in the mind. The participants who solved problems intuitively were not those who thought harder or longer. They were those whose semantic networks were structured in ways that allowed rapid, automatic retrieval of relevant associations. Their advantage lay not in the quality of their deliberation but in the architecture of their memory.
+
+#### **The limits of what we know**
+
+Here, however, we must be careful. The study tells us that semantic memory structure predicts intuitive performance. It does not tell us how these structures develop, whether they can be trained, or what role instruction might play in shaping them. The question of whether education can cultivate the kind of flexible, interconnected semantic networks that support sound intuition remains open.
+
+It is tempting to leap from these findings to confident prescriptions: teach for connection, not mere accumulation; emphasise integration over coverage; build webs of meaning rather than lists of facts. These may well be sound pedagogical principles, but this study does not directly support them. The researchers measured the organisation of knowledge; they did not manipulate it. We do not know from this evidence whether deliberate instructional choices can reshape semantic architecture, or whether these structures reflect something more stable about individuals.
+
+What we can say is that the study challenges a certain picture of what good thinking looks like. If intuition, properly structured, can reliably produce correct answers without deliberation, then the goal of education cannot simply be to teach students to think more slowly and carefully. The mind that arrives at the right answer instantly is not cheating or getting lucky; it may be operating exactly as a well prepared mind should.
+
+#### Thinking Fast and Slow, Revisited
+
+Seen in this light, the challenge to *Thinking, Fast and Slow* is not that Kahneman was wrong about the existence of fast and slow processes, but that his framework has been overlearned in a particular direction. In popular and educational discourse, Kahneman’s work is often reduced to a moral: slow thinking is good, fast thinking is bad, and intellectual virtue lies in restraint and effort.
+
+What this study complicates is the assumption that good thinking begins when we consciously *decide *to think. For a substantial class of problems, the decisive cognitive work appears to have happened before deliberation even starts. Intuition, here, is not a rash shortcut waiting to be corrected by reason, but the expression of a well organised knowledge system operating automatically. Deliberation still has a role, but it is not the universal engine of correctness that *Thinking, Fast and Slow* is often taken to imply. Much of what we call good thinking may consist not in overriding intuition, but in having intuitions that are already right.
+
+#### **Intelligence as architecture**
+
+There is an encouraging implication here, and it is worth stating plainly: this should not be mistaken for a counsel of despair about innate ability. If sound intuition depends on the structure of semantic memory rather than some fixed cognitive endowment, then what looks like raw intelligence may be partly the residue of learning.
+
+The person who arrives at the right answer instantly is not necessarily blessed with superior processing power (although that is a factor); it may be rather that they may simply have built, through accumulated experience and knowledge, the kind of interconnected mental architecture that allows rapid retrieval.
+
+Networks are built. The person whose knowledge is richly interconnected did not arrive in that state; they developed it through some combination of reading, experience, and reflection. The quick, correct intuition is not evidence of a gifted mind operating mysteriously; it may be evidence of a well stocked and well organised one.  So what appears as natural talent could be the visible surface of invisible preparation. If intelligence is partly a matter of how knowledge is organised, then it is partly a matter of what can be learned. The architecture of the mind is not given at birth; it is constructed. Intelligence, on this view, is not a fixed quantity but something that can be cultivated. The question, which this study raises but does not answer, is how.
+
+#### **Deliberation still matters**
+
+None of this is to disparage deliberation or the value of [‘thinking hard’. ](https://substack.com/redirect/af2a137d-7a8f-4b5a-bb97-8d748d13bd44?j=eyJ1IjoiMXJ6YXV2In0.i_L8wvFkLUcXdz4pbEPfM8vw56XPotyGsyX7YQYkvWs)The study is explicit that intuition has limits. As problems become more demanding and the semantic distance between cues and solutions increases, intuitive processes are less likely to deliver correct answers on their own. In those cases, deliberation plays a genuinely constructive role, enabling individuals to explore more remote possibilities, inhibit unproductive associations, and persist when automatic retrieval falls short. Slow thinking, in other words, becomes necessary not because intuition is flawed, but because the problem exceeds what intuition can readily supply.
+
+What this suggests is a more conditional view of good thinking. Deliberation is not the default engine of correctness, but a resource that is recruited when automatic processes reach their limits. The researchers capture this elegantly by showing that both item level factors, such as the structure of the problem itself, and individual level factors, such as the organisation of one’s semantic memory, jointly determine whether a solution emerges intuitively or requires effortful search. The need for deliberation is therefore not a moral failing or a sign of weak thinking, but a reflection of task demands.
+
+---
+
+The Learning Dispatch is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+[![](../substack/_assets/20260110-Carl%20Hendrick%20from%20The%20Learning%20Dispatch-Rethinking%20Fast%20and%20Slow/https%253A%252F%252Fsubstack.com%252Ficon%252FLucideCheck%253Fv%253D4%2526height%253D40%2526fill%253Dtransparent%2526stroke%253D%252523FF6719%2526stro-3bff44912e.6)Subscribed](https://carlhendrick.substack.com/account.p1icEGIvoToxn0TNFZyqyXlAzG94S-s9K-jmDd8eaAU?)
