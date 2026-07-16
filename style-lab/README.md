@@ -13,7 +13,7 @@ style-lab/
 
 ## 工作流(一轮循环)
 
-1. **出稿**,用 poisemath-writer(或 khazix-writer)产出初稿到 `draft/`,**同时立刻复制一份到 `style-lab/originals/` 同名文件**。这一步是整个闭环的前提,忘了快照这轮就废了。
+1. **出稿**,用 poisemath-writer(或 khazix-writer)产出初稿到 `draft/`,**同时立刻复制一份到 `style-lab/originals/` 同名文件**。这一步是整个闭环的前提,忘了快照这轮就废了。同一篇文章多轮迭代时(AI refine 后 Eric 再改),新基线加 `-r2`/`-r3` 后缀另存,首轮快照永不覆盖。
 2. **二改**,Eric 直接在 `draft/` 里的文件上改,想怎么改怎么改,不用留痕迹。
 3. **触发分析**,Eric 说一声「改完了,分析一下」(或类似表达),Claude 执行下面的对比分析协议。
 4. **沉淀**,分析结果记入 `style-log.md`,达到晋升门槛的规则提案后写进 poisemath-writer SKILL.md 的「Eric 风格增量层」。
