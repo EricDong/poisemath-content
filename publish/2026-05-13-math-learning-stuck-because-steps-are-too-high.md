@@ -2,6 +2,7 @@
 title: "孩子学数学总卡壳？可能是学习台阶太高了"
 date: "2026-05-13T06:30:00"
 slug: "math-learning-stuck-because-steps-are-too-high"
+description: "解释孩子学数学卡壳常因学习台阶过高，介绍 Math Academy 如何依据前置知识和学习数据把复杂主题拆成小步骤，通过循序渐进、分散练习和具体计算建立理解。"
 ---
 
 本文来自 Math Academy 播客第四期的后半部分。Jason和Justin分享了多年来在教学设计上的核心心得：

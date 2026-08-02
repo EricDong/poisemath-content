@@ -2,6 +2,7 @@
 title: "Math Academy 是孩子真正需要的数学老师"
 date: "2026-04-06T09:18:05"
 slug: "math-academy-math-teacher-children-need"
+description: "解释传统按年级授课为何容易累积数学知识缺口，以及 Math Academy 如何用 AI 识别前置知识、及时反馈并在掌握后推进，为孩子提供不贴标签的个性化学习路径。"
 ---
 
 你有没有想过一个问题: 为什么孩子数学越学越差?

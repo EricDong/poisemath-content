@@ -2,6 +2,7 @@
 title: "如何用Deepseek培养数学推理思维"
 date: "2025-01-27T18:08:37"
 slug: "use-deepseek-to-cultivate-math-reasoning"
+description: "以上海2024年中考二次函数题为案例，展示如何研读 DeepSeek 的数学推理过程，理解考查目标、解题步骤与多种思路，并把 AI 用作数学学习辅助工具。"
 ---
 
 过去半个月我一直在测试Deepseek V3的数学推理能力,特别是观察它的思考过程是否学习数学有帮助.

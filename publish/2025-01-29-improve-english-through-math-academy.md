@@ -2,6 +2,7 @@
 title: "学生如何通过Math Academy提高英语水平?"
 date: "2025-01-29T20:40:44"
 slug: "improve-english-through-math-academy"
+description: "探讨中国学生如何利用 Math Academy 的全英文数学环境，在理解概念和解题的真实场景中积累常用词汇、训练逻辑表达，并同步提升数学与英语能力。"
 ---
 
 Math Academy是一个AI驱动的数学学习平台,最初是为美国学生开发的.

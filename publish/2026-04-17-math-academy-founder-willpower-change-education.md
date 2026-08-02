@@ -2,6 +2,7 @@
 title: "对平庸开战：MA创始人聊如何用意志力改变教育系统?"
 date: "2026-04-17T06:30:00"
 slug: "math-academy-founder-willpower-change-education"
+description: "整理 Math Academy 创始人关于改变教育系统的十条洞见，讨论如何推动机构变革、守住教学标准，以及自主学习、扎实基础、理论练习结合和优质向导的重要性。"
 ---
 
 >

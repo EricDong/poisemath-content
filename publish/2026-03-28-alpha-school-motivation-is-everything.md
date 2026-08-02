@@ -2,6 +2,7 @@
 title: "Alpha School: 动机就是一切"
 date: "2026-03-28T20:02:23"
 slug: "alpha-school-motivation-is-everything"
+description: "解析 Alpha School 如何用两小时 AI 学科学习、自由项目、即时激励和导师连接重构学习环境，说明孩子缺乏动力往往是系统设计问题，而非自制力不足。"
 ---
 
 Alpha School 是一所什么样的学校?

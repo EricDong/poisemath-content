@@ -2,6 +2,7 @@
 title: "Math Academy共学群成立第 4 月回顾"
 date: "2025-03-18T16:28:00"
 slug: "math-academy-wechat-group-review-4th-month"
+description: "回顾 Math Academy 共学群第四个月的增长与活动，汇总数学英语学习、学校教学体系和 AI 情绪咨询分享，并介绍 AMC 评测与英语提升服务设想。"
 ---
 
 Math Academy共学群成立 4 个月了. 越来越多的学生和家长遇到了自己的“知识前沿”,学习速度慢了下来,开始体会到MA系统设计的精妙.

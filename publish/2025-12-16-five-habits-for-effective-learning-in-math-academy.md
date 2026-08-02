@@ -2,6 +2,7 @@
 title: "在MA有效学习的五大习惯"
 date: "2025-12-16T06:30:00"
 slug: "five-habits-for-effective-learning-in-math-academy"
+description: "解释 Math Academy 学习中出现零分或负分的常见原因，并介绍认真阅读、跟随例题、纸笔演算、拒绝猜测和持续练习五个帮助学生真正掌握知识的习惯。"
 ---
 
 最近有些家长问我: 有时候会收到Math Academy的官方邮件,邮件标题是: Keys To Success
