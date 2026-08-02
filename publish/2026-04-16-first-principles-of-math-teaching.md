@@ -109,5 +109,5 @@ description: "总结 Math Academy 的数学教学第一性原理：从亲身教�
 
 有对数学学习和Math Academy感兴趣的,欢迎一起交流.
 
-![图片](media/wechat/2fef8a95-01-f06d846885.webp)
+![文章配图](media/wechat/2fef8a95-01-f06d846885.webp)
 

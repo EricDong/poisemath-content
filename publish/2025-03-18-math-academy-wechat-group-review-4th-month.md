@@ -17,15 +17,8 @@ Math Academy共学群成立 4 个月了. 越来越多的学生和家长遇到了
 
 以下是MA共学群2025年2-3月总结
 
-1.
-
-1. 截至2025年3月15日,本群共用230+MA用户.小学超过65%,初中其次,高中以上比较少.地理分布:北上广深占比50%,海外华人用户越来越多.
-
-2.
-
-2. 本月做了两场群友分享. 文一分享的是Math Academy与中小学数学教学体系的比较; LotusDocoder分享的是如何用AI做情绪咨询.都是非常精彩的分享,在中文网络中很少看到的. 本次一并把群友分享的三期视频放出.
-
-3.
+1. 截至 2025 年 3 月 15 日，本群共有 230+ MA 用户。小学超过 65%，初中其次，高中以上比较少。地理分布：北上广深占比 50%，海外华人用户越来越多。
+2. 本月做了两场群友分享。文一分享的是 Math Academy 与中小学数学教学体系的比较；LotusDecoder 分享的是如何用 AI 做情绪咨询。都是非常精彩的分享，在中文网络中很少看到的。本次一并把群友分享的三期视频放出。
 
 ## 羊叔: Math Academy的鱼与熊掌,我们都要 ^_^
 
@@ -38,8 +31,6 @@ Math Academy共学群成立 4 个月了. 越来越多的学生和家长遇到了
 日期：2025-03-05 12:14:33
 
 录制文件：https://meeting.tencent.com/crm/2Y8pRZY3e7
-
-1.
 
 ## LotusDecoder: 如何使用AI做情绪咨询
 
@@ -57,25 +48,17 @@ Math Academy共学群成立 4 个月了. 越来越多的学生和家长遇到了
 
 专栏地址在: https://www.zhihu.com/column/c_1858865163022786560
 
-1.
-
 6. 下个月会邀请更多群友分享经验,不限于Math Academy,但与教育和AI高度相关.
-
-2.
 
 7. 中国和美国都有妈妈反映女儿在MA找到了学习数学的自信.
 
-3.
+![文章配图](media/wechat/caed6fc7-01-2e47f2d792.webp)
 
-![图片](media/wechat/caed6fc7-01-2e47f2d792.webp)
+![文章配图](media/wechat/caed6fc7-02-81c881d5ba.webp)
 
-![图片](media/wechat/caed6fc7-02-81c881d5ba.webp)
+![文章配图](media/wechat/caed6fc7-03-9972073a21.webp)
 
-![图片](media/wechat/caed6fc7-03-9972073a21.webp)
-
-![图片](media/wechat/caed6fc7-04-3b1013d811.webp)
-
-1.
+![文章配图](media/wechat/caed6fc7-04-3b1013d811.webp)
 
 Math Academy,
 
@@ -103,5 +86,4 @@ MA共学群现有用户200+,供MA用户交流学习.
 
 加我微信,验证MA用户身份后邀请入群.
 
-![图片](media/wechat/caed6fc7-05-190a2ed62d.webp)
-
+![文章配图](media/wechat/caed6fc7-05-190a2ed62d.webp)

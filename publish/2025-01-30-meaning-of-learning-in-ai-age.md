@@ -121,7 +121,7 @@ AI都这么强大了,
 
 3. 好的学习环境是“健脑房”
 
-![图片](media/wechat/9c600dbf-01-748d84fbf1.jpg)
+![文章配图](media/wechat/9c600dbf-01-748d84fbf1.jpg)
 
 工业革命后,
 
@@ -201,5 +201,5 @@ MA共学群现有用户180+,供MA用户交流学习.
 
 加我微信,验证MA用户身份后邀请入群.
 
-![图片](media/wechat/9c600dbf-02-b1b6e21ab8.webp)
+![文章配图](media/wechat/9c600dbf-02-b1b6e21ab8.webp)
 

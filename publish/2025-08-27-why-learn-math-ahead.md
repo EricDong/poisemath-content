@@ -13,7 +13,7 @@ description: "通过中小学生和大学生使用 Math Academy 的案例，解�
 
 Math Academy的Justin Skycak最近提到,超前学习数学,不是为了和同龄人竞争,而是自己和时间赛跑.
 
-![图片](media/wechat/cfaabaf1-01-ae9a091889.jpg)
+![文章配图](media/wechat/cfaabaf1-01-ae9a091889.jpg)
 
 中译本使用了李继刚老师的翻译prompt,我觉得挺好:
 
@@ -59,5 +59,5 @@ MA共学群现有用户290+,供MA用户交流学习.
 
 加我微信,验证MA用户身份后邀请入群.
 
-![图片](media/wechat/cfaabaf1-02-190a2ed62d.webp)
+![文章配图](media/wechat/cfaabaf1-02-190a2ed62d.webp)
 

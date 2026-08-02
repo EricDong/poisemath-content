@@ -11,17 +11,9 @@ description: "解释传统按年级授课为何容易累积数学知识缺口，
 
 数学是所有学科里最讲究"先后顺序"的。
 
--
-
-加减乘除不熟练，分数就学不会；
-
--
-
-分数不过关，方程就是天书；
-
--
-
-方程没吃透，函数就是噩梦。
+- 加减乘除不熟练，分数就学不会；
+- 分数不过关，方程就是天书；
+- 方程没吃透，函数就是噩梦。
 
 它像盖楼，少一层，上面全是危房。
 
@@ -33,7 +25,7 @@ Shane Parrish是硅谷最受欢迎的思维类播客主理人。他最近分享�
 
 One of the primary reasons that AI is better is that it simply teaches you what you need to know, regardless of your grade level.
 
-![图片](media/wechat/c4b3b360-01-001a3ba398.jpg)
+![文章配图](media/wechat/c4b3b360-01-001a3ba398.jpg)
 
 这话说到了根上。你的孩子上八年级，老师教八年级的内容，这天经地义。
 
@@ -51,17 +43,9 @@ Math Academy解释了为什么传统课堂效率低下?
 
 而有效的学习只需满足三个条件：
 
--
-
-• 让学生始终在能力边缘主动练习，
-
--
-
-• 提供及时的反馈，
-
--
-
-• 确保真正掌握后再前进。
+- 让学生始终在能力边缘主动练习；
+- 提供及时的反馈；
+- 确保真正掌握后再前进。
 
 AI 恰好能同时满足这三条，而一个面对几十个学生的老师，做不到。
 
@@ -85,4 +69,4 @@ Alpha School 还没有进入中国, 但 Math Academy 早就可以学习了.具�
 
 也可以直接加我微信交流.
 
-![图片](media/wechat/c4b3b360-02-b9dc06fa66.webp)
+![文章配图](media/wechat/c4b3b360-02-b9dc06fa66.webp)

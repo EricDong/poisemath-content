@@ -45,7 +45,7 @@ Math Academy之所以是学习英语的绝佳工具,
 
 让学生更容易理解.
 
-![图片](media/wechat/a761b7e1-01-879d39dc5a.jpg)
+![文章配图](media/wechat/a761b7e1-01-879d39dc5a.jpg)
 
 先上提示词:
 
@@ -119,4 +119,4 @@ Mulan smiled and said, "When two rabbits run side by side, can you tell which is
 
 想要学习如何使用AI赋能娃儿学习的家长,可以加我微信.
 
-![图片](media/wechat/a761b7e1-02-190a2ed62d.webp)
+![文章配图](media/wechat/a761b7e1-02-190a2ed62d.webp)

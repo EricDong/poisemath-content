@@ -43,7 +43,7 @@ Math Academy是中国学生学习英文的最好工具.
 
 该会议开启了报名功能，请扫描二维码报名：
 
-![图片](media/wechat/5e6e27ab-01-c90190efcf.png)
+![文章配图](media/wechat/5e6e27ab-01-c90190efcf.png)
 
 我一直在尽我所能推荐数学学习神器Math Academy:
 
@@ -71,5 +71,5 @@ MA共学微信群,供MA用户交流学习.
 
 加我微信,验证MA身份后会邀请入群.
 
-![图片](media/wechat/5e6e27ab-02-b1b6e21ab8.webp)
+![文章配图](media/wechat/5e6e27ab-02-b1b6e21ab8.webp)
 

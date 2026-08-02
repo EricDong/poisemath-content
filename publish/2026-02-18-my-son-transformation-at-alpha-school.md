@@ -21,7 +21,7 @@ description: "一位家长记录儿子在 Alpha School 五个月的学习转变�
 
 不久前，我转发了 Joe Liemandt 关于 Alpha 学校取得卓越成效的帖子，并附上了我儿子 Mac（11岁）自2025年8月加入 Alpha Anywhere 以来的亲身经历。
 
-![图片](media/wechat/0eaceedd-02-b5e725e3f4.png)
+![文章配图](media/wechat/0eaceedd-02-b5e725e3f4.png)
 
 Bill Ackman 好心转发了我的帖子，引发了大量关注。借此机会，我想为正在考虑 Alpha School的家长们分享更深入的感悟，也谈谈这一切对未来教育意味着什么。
 
@@ -255,5 +255,5 @@ Mac 的考试没有任何准备，没有特殊早餐，只是"这周我们做MAP
 
 有对数学学习和Math Academy感兴趣的,我有一个300人的MA会员群,欢迎一起交流.
 
-![图片](media/wechat/0eaceedd-03-f06d846885.webp)
+![文章配图](media/wechat/0eaceedd-03-f06d846885.webp)
 

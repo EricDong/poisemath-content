@@ -17,7 +17,7 @@ description: "从长期数学学习受挫到重新打基础的亲身体验，解
 
 也像一部电影，你从中间才溜进去看——错过了开头，后面的剧情当然看得一头雾水。
 
-![图片](media/wechat/561f8ce3-01-ae2dae51ef.png)
+![文章配图](media/wechat/561f8ce3-01-ae2dae51ef.png)
 
 学习数学、计算机科学这些复杂的知识，道理都是一样的。
 
@@ -57,7 +57,7 @@ Math Academy正是补齐前置知识的地方.
 
 注册MA后可以加我申请加入微信共学群.
 
-![图片](media/wechat/561f8ce3-02-190a2ed62d.webp)
+![文章配图](media/wechat/561f8ce3-02-190a2ed62d.webp)
 
 [手把手教你注册Math Academy](https://mp.weixin.qq.com/s?__biz=MzIwNzMzODkyNA==&mid=2247484009&idx=1&sn=95ca5bd210dc22300030f485e1d131c8&scene=21#wechat_redirect)
 

@@ -103,5 +103,5 @@ Jason 和 Justin 用亲身经历告诉我们一件事：**教育改革从来不�
 
 有对数学学习和Math Academy感兴趣的,加我一起交流.
 
-![图片](media/wechat/c98d9613-01-f06d846885.webp)
+![文章配图](media/wechat/c98d9613-01-f06d846885.webp)
 

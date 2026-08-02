@@ -63,5 +63,5 @@ MA共学群现有用户200+,供MA用户交流学习.
 
 加我微信,验证MA用户身份后邀请入群.
 
-![图片](media/wechat/62d6efcb-01-190a2ed62d.webp)
+![文章配图](media/wechat/62d6efcb-01-190a2ed62d.webp)
 
