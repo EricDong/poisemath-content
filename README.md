@@ -2,7 +2,7 @@
 
 Obsidian vault — 内容源。
 
-构建与部署由 [`poisemath-site`](https://github.com/EricDong/poisemath-site) 仓库通过 Quartz + Cloudflare Pages 完成。
+构建与部署由 [`tiwenzhe-site`](https://github.com/EricDong/tiwenzhe-site) 仓库通过 Quartz + Cloudflare Pages 完成。本地 checkout 在 `~/Desktop/projects/tiwenzhe-site`（2026-08-04 从本 vault 内移出，站点构建时由 `scripts/sync-content.sh` 从 GitHub 拉取本仓 `publish/`，不依赖本地相对路径）。
 
 ## 写作流程
 
