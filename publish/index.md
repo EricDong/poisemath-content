@@ -1,14 +1,14 @@
 ---
-title: Poise Math
-modified: 2026-06-26T00:00:00+08:00
-description: 面向中国家长和自学者的数学学习、AI 教育与 Math Academy 使用经验。
+title: 聪明的提问者
+modified: 2026-08-04T00:00:00+08:00
+description: AI 时代的具身学习者：提问是内核，具身学习是方法，Math Academy 是当前实验场。写给全球华人家长与自学者。
 tags:
   - 数学学习
   - AI教育
   - Math Academy
 ---
 
-Poise Math 记录数学学习、AI 教育和自学工具的实践经验。
+我是一个 AI 时代的具身学习者：**提问是内核，具身学习是方法，Math Academy 是当前实验场**。这里记录我自己和两个孩子第一手的学习实践——先做（test），再讲（tell）。
 
 如果你正在为孩子寻找更系统的数学学习方式，或希望用更科学的方法重建自己的数学基础，可以从下面这些文章开始。
 
