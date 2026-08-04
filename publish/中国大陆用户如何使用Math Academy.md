@@ -1,7 +1,7 @@
 ---
 title: "中国大陆用户如何使用Math Academy?"
 date: "2024-11-12T12:21:14"
-modified: "2024-11-12T17:10:54"
+modified: "2026-08-04T08:00:00"
 slug: "how-to-access-math-academy-in-china-mainland"
 description: "中国大陆用户使用 Math Academy 的常见问题：访问、付款、英文界面、课程选择、退款和适用人群。"
 tags:
@@ -10,6 +10,13 @@ tags:
   - "使用指南"
   - "数学学习"
 ---
+> [!info] 2026 年 8 月更新
+> 现在大陆用户有两种订阅方式：
+> 1. **官网直接订阅**：需要 Visa/Master 双币信用卡，见下文第 3 问；
+> 2. **学校账户通道**：没有外币卡的家庭可以通过我的 MA 学校账户开通，350 元/月、按季度支付，开通后两周内可全额退款。具体条款和利益关系见 [[affiliate-disclosure|透明度披露]]，联系方式：微信公众号「聪明的提问者」。
+>
+> 以下正文写于 2024 年 11 月，访问、退款、课程等基本事实至今有效。第 10 问「纯粹为爱发电」是当时的真实状态；2025 年底我获得学校账户后开始从开通服务中获得收入，全部利益关系见 [[affiliate-disclosure|透明度披露]]。
+
 1\. Math Academy中国**可以正常访问**,直接输入网址[www.mathacademy.com](http://www.mathacademy.com). 有一些类似的网站,可能会混淆,请记住MA的logo
 
 <figure>

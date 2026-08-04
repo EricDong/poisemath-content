@@ -125,4 +125,4 @@ Khan Academy 的伟大在于它让全世界的孩子都能免费获得优质教�
 
 加我微信了解更多。
 
-![微信咨询 Poise Math](media/wechat/048f2c64-02-b9dc06fa66.webp)
+![微信咨询 聪明的提问者](media/wechat/048f2c64-02-b9dc06fa66.webp)
