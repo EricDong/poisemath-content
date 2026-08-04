@@ -5,6 +5,7 @@ description: "讨论身体、疼痛、在场、劳动、隐私和死亡如何成
 tags:
   - 人机双螺旋
   - AI
+draft: false
 ---
 ## 为什么AI越强，身体反而越重要
 

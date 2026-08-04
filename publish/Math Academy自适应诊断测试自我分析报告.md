@@ -9,6 +9,7 @@ tags:
   - "诊断测试"
   - "数学基础"
   - "机器学习数学"
+draft: false
 ---
 经过两个多月在[Math Academy](https://mathacademy.com/)的学习,我完成了从四年级到[Integrated Math III(Honors)](https://mathacademy.com/courses/integrated-math-iii-honors)的全部课程. 经过一番考虑,特别是看到 [@gmo](https://x.com/gmosync) 调整了自己的学习计划,直接学习M4ML([Math for Machine Learning](https://mathacademy.com/courses/mathematics-for-machine-learning))课程,我也决定直接啃硬骨头.参加M4ML课程的自适应诊断测试后,MA给出了评估报告.总体情况是微积分还可以,线性代数和概率统计太渣,建议从MF3(Math Foundation III)学起. 鉴于[@shuren](https://x.com/shurensha) 同时学了MF II、III和M4ML,我就不返工了,一口气直捣黄龙,目标是2025.6.30拿下.
 

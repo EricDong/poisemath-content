@@ -3,6 +3,7 @@ title: "中学生如何通过语文学习英语"
 date: "2025-02-03T20:44:42"
 slug: "middle-school-students-learn-english-through-chinese"
 description: "介绍用 AI 将《木兰辞》等中学语文篇目改写为白话文和初中水平英文故事的方法，让学生借助熟悉内容建立英语语境，同时巩固语文理解。"
+draft: false
 ---
 
 大年初二我和羊叔做了一次在线讨论:如何用数学学习英语.

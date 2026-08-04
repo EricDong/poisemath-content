@@ -3,6 +3,7 @@ title: "MA群友分享:秦川的自主学习之旅"
 date: "2025-03-29T18:05:48"
 slug: "ma-community-qinchuan-self-learning-journey"
 description: "介绍 Math Academy 群友秦川介于学校教育与 Homeschool 之间的自主学习经历，以及自由探索、快速学习数学和尝试用英文讲解知识的实践。"
+draft: false
 ---
 
 父母都想有个自主学习的娃儿,

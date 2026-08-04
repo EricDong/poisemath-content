@@ -3,6 +3,7 @@ title: "可汗学院免费又有名，为什么还要花钱用 Math Academy？"
 date: "2026-02-01T13:19:23"
 slug: "why-pay-for-math-academy-when-khan-academy-is-free"
 description: "从教学理念、AI 应用、知识图谱、学习效果和适用人群比较可汗学院与 Math Academy，帮助家长判断免费学习资源和付费自适应数学系统各自适合什么孩子。"
+draft: false
 ---
 
 最近不少家长问我：网上学数学的平台那么多，Khan Academy（可汗学院）免费又有名，为什么还要花钱用 Math Academy？

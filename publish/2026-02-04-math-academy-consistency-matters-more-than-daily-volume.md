@@ -3,6 +3,7 @@ title: "Math Academy不在于每天学多少,而是坚持了多长时间"
 date: "2026-02-04T13:58:19"
 slug: "math-academy-consistency-matters-more-than-daily-volume"
 description: "记录一名五年级学生每天用 Math Academy 学习10至20分钟、连续坚持两个月后的变化，说明稳定练习比单日大量刷课更能培养数学耐力与陌生题信心。"
+draft: false
 ---
 
 昨晚和西川小学谭老师交流,提到了他们学校一个5年级的小学生,从2025年12月6日开始,每天花10-20分钟在Math Academy 学习1-2个lesson,到期末数学考试100分,以前长期霸榜的第一名这次只能屈居第二.

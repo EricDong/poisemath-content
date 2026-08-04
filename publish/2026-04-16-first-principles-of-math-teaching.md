@@ -3,6 +3,7 @@ title: "数学教学的第一性原理"
 date: "2026-04-16T06:30:00"
 slug: "first-principles-of-math-teaching"
 description: "总结 Math Academy 的数学教学第一性原理：从亲身教学经验出发，以真实进步为目标，克制过度帮助，并培养学生阅读、解题、纠错和自主学习的元技能。"
+draft: false
 ---
 
 想象这样一个场景：你是一名家教老师，坐在学生身旁，而你的性命，取决于这个孩子今天到底有没有真正学懂。

@@ -5,6 +5,7 @@ description: "分析同一个 AI 如何在不同人的目标、情绪、习惯�
 tags:
   - 人机双螺旋
   - AI
+draft: false
 ---
 ## 为什么同一个AI会塑造出完全不同的人
 

@@ -3,6 +3,7 @@ title: "Math Academy: 如何剥掉高考数学压轴题的伪装?"
 date: "2026-04-21T06:30:00"
 slug: "math-academy-unmask-gaokao-hard-problems"
 description: "解析 Math Academy 如何用知识图谱、掌握式学习和真题分析填补课程与高考压轴题之间的“中间地带”，训练学生识别题目伪装并补齐具体解题技能。"
+draft: false
 ---
 
 本文是Math Academy 播客第四期上半部分的总结. Jason, Justin 和 Alex 一起讨论了家长们特别关注的标准化考试准备、知识图谱和数学天赋可能带来的负面效应.

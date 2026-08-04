@@ -3,6 +3,7 @@ title: "孩子学数学，真的不是刷题那么简单"
 date: "2026-04-12T08:05:50"
 slug: "learning-math-is-more-than-drilling-problems"
 description: "从 Math Academy 创始人播客提炼数学学习方法，涵盖间隔复习、主动回忆、基础运算自动化、超前学习及真实项目实践，说明有效学习远不止重复刷题。"
+draft: false
 ---
 
 **很多家长都有这样的困惑：**

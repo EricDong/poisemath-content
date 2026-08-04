@@ -3,6 +3,7 @@ title: "AI都这么强大了,孩子学习的意义在哪里?"
 date: "2025-01-30T12:47:51"
 slug: "meaning-of-learning-in-ai-age"
 description: "思考 AI 日益强大后孩子为什么仍要学习，从好奇心、隐性知识与自主学习出发，讨论教育环境如何转向促进大脑成长和主动探索的“健脑房”。"
+draft: false
 ---
 
 Deepseek最近一个月刷屏了,不仅中国,美国都直呼Deepseek太强大了.

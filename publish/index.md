@@ -7,6 +7,7 @@ tags:
   - AI教育
   - Math Academy
   - 具身学习
+draft: false
 ---
 
 我是一个 AI 时代的具身学习者：**提问是内核，具身学习是方法，Math Academy 是当前实验场**。这里记录我自己和孩子们第一手的学习实践——先做（test），再讲（tell）。

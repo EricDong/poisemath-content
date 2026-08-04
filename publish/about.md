@@ -7,6 +7,7 @@ tags:
   - Math Academy
   - AI教育
   - 具身学习
+draft: false
 ---
 
 聪明的提问者是 Eric Dong 的个人网站，写给全球华人家长与自学者。

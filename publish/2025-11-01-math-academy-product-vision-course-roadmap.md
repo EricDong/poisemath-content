@@ -3,6 +3,7 @@ title: "Math Academy 的产品愿景与课程蓝图"
 date: "2025-11-01T11:04:26"
 slug: "math-academy-product-vision-course-roadmap"
 description: "梳理 Math Academy 的长期产品愿景与课程蓝图，包括大学数学、机器学习、计算机科学和 K12 课程规划，以及知识图谱、项目化学习与大学学分路径。"
+draft: false
 ---
 
 Math Academy（ MA）坚持“长期主义 + 广度优先”的产品路线：在坚实的底层教学架构上，持续扩充高质量课程，目标是打造可与一流大学比肩、甚至更优的在线学习平台。

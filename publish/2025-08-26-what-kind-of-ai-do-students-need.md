@@ -3,6 +3,7 @@ title: "中小学生需要什么样的人工智能+?"
 date: "2025-08-26T23:59:36"
 slug: "what-kind-of-ai-do-students-need"
 description: "讨论中小学生需要怎样的“人工智能+”教育工具，比较 chatbot 与 AI Agent，说明知识图谱如何识别学生掌握情况、规划学习路径并支持大规模因材施教。"
+draft: false
 ---
 
 国务院关于深入实施“人工智能+”行动的意见2025年8月26日发布了.

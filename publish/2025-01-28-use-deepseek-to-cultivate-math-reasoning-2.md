@@ -3,6 +3,7 @@ title: "如何用Deepseek培养数学推理思维-2"
 date: "2025-01-28T07:12:01"
 slug: "use-deepseek-to-cultivate-math-reasoning-2"
 description: "拆解如何为 DeepSeek 编写有效的数学提示词，说明角色、考查目标、试题亮点和多种解法等关键词如何引导 AI 提供更可靠的中高考题分析。"
+draft: false
 ---
 
 看Caoz老师说Deepseek 刚退出了Janus Pro多模态大模型,要说DS不懂marketing我是不信的.

@@ -3,6 +3,7 @@ title: "Math Academy共学群成立第三月回顾"
 date: "2025-02-15T21:22:55"
 slug: "math-academy-wechat-group-review-3rd-month"
 description: "回顾 Math Academy 共学群第三个月的用户规模与学习反馈，记录学生重拾数学信心、间隔复习的重要性，以及双语课程和学习经验分享计划。"
+draft: false
 ---
 
 Math Academy共学群成立三个月了,越来越多家长认识到MA的价值.

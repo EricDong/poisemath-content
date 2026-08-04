@@ -3,6 +3,7 @@ title: "我儿子在 Alpha School的蜕变"
 date: "2026-02-18T14:42:33"
 slug: "my-son-transformation-at-alpha-school"
 description: "一位家长记录儿子在 Alpha School 五个月的学习转变，介绍诊断测试、个性化学习计划、适宜正确率和 Alpha Read，并反思传统成绩与真实掌握度的差距。"
+draft: false
 ---
 
 这是一位Alpha School了 家长的译文.

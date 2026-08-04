@@ -5,6 +5,7 @@ description: "讨论语言如何成为人与 AI 之间的连接结构，以及�
 tags:
   - 人机双螺旋
   - AI
+draft: false
 ---
 ## 人与AI如何真正连接
 

@@ -5,6 +5,7 @@ description: "讨论 AI 如何承担目标提醒、任务拆分、决策红队�
 tags:
   - 人机双螺旋
   - AI
+draft: false
 ---
 ## AI会增强人的自控力，还是让人失去自控力
 

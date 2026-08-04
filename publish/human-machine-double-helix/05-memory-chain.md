@@ -5,6 +5,7 @@ description: "讨论当 AI 保存一个人的长期生活痕迹、决策和失�
 tags:
   - 人机双螺旋
   - AI
+draft: false
 ---
 ## 当AI成为一个人的纵向自我
 

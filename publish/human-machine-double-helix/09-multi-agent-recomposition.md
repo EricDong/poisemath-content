@@ -5,6 +5,7 @@ description: "讨论如何组织研究者、批评者、模拟者、执行者和
 tags:
   - 人机双螺旋
   - AI
+draft: false
 ---
 ## 当一个人开始组织一支AI认知团队
 

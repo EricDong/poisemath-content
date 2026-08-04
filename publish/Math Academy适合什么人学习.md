@@ -9,6 +9,7 @@ tags:
   - "适合人群"
   - "英语学习"
   - "数学自学"
+draft: false
 ---
 上周读者咨询Math Academy,最多的问题是:
 

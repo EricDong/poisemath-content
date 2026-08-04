@@ -6,6 +6,7 @@ description: "聪明的提问者与 Math Academy 的利益关系公开披露：�
 tags:
   - "Math Academy"
   - "透明度"
+draft: false
 ---
 
 我的原则是 test and tell：自己先做，再讲给你听。讲的部分要成立，利益关系就必须先摊开。这一页把本站与 Math Academy 之间的所有利益关系写清楚。

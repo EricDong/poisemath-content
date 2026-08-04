@@ -5,6 +5,7 @@ description: "讨论 AI 陪伴、拒绝、承诺、争吵、哀悼和死亡，�
 tags:
   - 人机双螺旋
   - AI
+draft: false
 ---
 ## 当AI能够完美陪伴，人为什么仍然需要不完美的人
 

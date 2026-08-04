@@ -5,6 +5,7 @@ description: "提出人机双螺旋这一核心隐喻，讨论语言、记忆、
 tags:
   - 人机双螺旋
   - AI
+draft: false
 ---
 
 
