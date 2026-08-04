@@ -1,13 +1,13 @@
 ---
-title: "Math Academy 中文完全指南（2026）"
-date: "2026-08-04T08:00:00"
-slug: "math-academy"
-description: "Math Academy 是什么、适合谁、怎么注册、中国大陆如何付费、和可汗学院怎么选、每月多少钱、如何坚持学下去——基于 600+ 天第一手使用经验和 80+ 位华人学习者追踪记录的中文完全指南。"
+title: Math Academy 中文完全指南（2026）
+date: 2026-08-04T08:00:00
+slug: math-academy
+description: Math Academy 是什么、适合谁、怎么注册、中国大陆如何付费、和可汗学院怎么选、每月多少钱、如何坚持学下去——基于 600+ 天第一手使用经验和 80+ 位华人学习者追踪记录的中文完全指南。
 tags:
-  - "Math Academy"
-  - "使用指南"
-  - "数学学习"
-draft: false
+  - Math Academy
+  - 使用指南
+  - 数学学习
+draft: true
 ---
 
 这一页是全站 Math Academy 内容的总入口。我从 2024 年 11 月开始每天在 Math Academy 上学数学，同时运营着一个全球华人 MA 共学群，追踪了 80+ 位学习者的真实记录。这里的每一篇文章都基于第一手实践，不是编译稿。
