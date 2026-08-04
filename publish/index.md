@@ -20,7 +20,7 @@ draft: false
 
 更多背景见 [[about|关于]]；本站与 Math Academy 的利益关系见 [[affiliate-disclosure|透明度披露]]。
 
-## Math Academy 指南（当前实验场）
+## Math Academy 指南
 
 完整版见 [[math-academy|Math Academy 中文完全指南]]，以下是最常被问到的：
 
@@ -34,7 +34,7 @@ draft: false
 - [[Math Academy最适合备战高考数学|Math Academy 最适合备战高考数学？]]
 - [[2026-04-21-math-academy-unmask-gaokao-hard-problems|Math Academy：如何剥掉高考数学压轴题的伪装？]]
 
-## 学习方法论（具身学习）
+## 具身学习方法论
 
 - [[2026-05-13-math-learning-stuck-because-steps-are-too-high|孩子学数学总卡壳？可能是学习台阶太高了]]
 - [[2026-04-16-first-principles-of-math-teaching|数学教学的第一性原理]]
@@ -60,7 +60,7 @@ draft: false
 - [[2025-01-28-use-deepseek-to-cultivate-math-reasoning-2|如何用 DeepSeek 培养数学推理思维（二）]]
 - [[2025-01-27-use-deepseek-to-cultivate-math-reasoning|如何用 DeepSeek 培养数学推理思维]]
 
-## 实践记录（test and tell）
+## 实践记录（Test and Tell）
 
 - [[2026-03-28-alpha-school-motivation-is-everything|Alpha School：动机就是一切]]
 - [[2026-02-18-my-son-transformation-at-alpha-school|我儿子在 Alpha School 的蜕变]]

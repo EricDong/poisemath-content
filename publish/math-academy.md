@@ -7,7 +7,7 @@ tags:
   - Math Academy
   - 使用指南
   - 数学学习
-draft: true
+draft: false
 ---
 
 这一页是全站 Math Academy 内容的总入口。我从 2024 年 11 月开始每天在 Math Academy 上学数学，同时运营着一个全球华人 MA 共学群，追踪了 80+ 位学习者的真实记录。这里的每一篇文章都基于第一手实践，不是编译稿。
