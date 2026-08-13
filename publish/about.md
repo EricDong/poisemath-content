@@ -44,7 +44,7 @@ Math Academy 做到了这一点。
 
 Math Academy 还提供了从 4 年级到大学水平的完整数学学习路径。除了基础课程，它也覆盖 SAT、AP、IB、iGCSE 等备考方向，以及面向成人学习者的计算机科学、机器学习相关数学课程。
 
-全站的 MA 内容入口：[[math-academy|Math Academy 中文完全指南]]。我与 Math Academy 的利益关系见 [[affiliate-disclosure|透明度披露]]。
+全站的 MA 内容入口：[[math-academy|Math Academy 中文完全指南]]。
 
 ## 这里会写什么
 
@@ -71,6 +71,6 @@ Math Academy 还提供了从 4 年级到大学水平的完整数学学习路径�
 - 想看真实记录：首页的「实践记录」栏目
 - 想持续收到更新：微信公众号「聪明的提问者」
 
-本站前身是 Poise Math（poisemath.com）与 Journey to Math（journeytomath.com），旧域名会自动跳转到这里。内容用 [Obsidian](https://obsidian.md) 写，通过 [Quartz](https://quartz.jzhao.xyz) 静态生成，由 Cloudflare Pages 托管。
+
 
 ← 返回 [[index|首页]]
